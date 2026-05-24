@@ -5,6 +5,9 @@ site:
   max_articles: 60
   retention_days: 7
   language: ja
+  translate: true
+  translate_model: grok-4-1-fast-non-reasoning
+  translate_batch_size: 8
 
 feeds:
   - name: Google News (AI)

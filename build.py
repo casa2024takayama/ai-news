@@ -21,6 +21,7 @@ except ImportError:
     sys.exit(1)
 
 ROOT = Path(__file__).resolve().parent
+from translate import translate_articles  # noqa: E402
 CONFIG_PATH = ROOT / "config" / "feeds.yaml"
 DATA_PATH = ROOT / "data" / "articles.json"
 DOCS_DIR = ROOT / "docs"
@@ -121,6 +122,11 @@ def fetch_feed(name: str, url: str, category: str) -> list[dict[str, Any]]:
 def merge_articles(existing: list[dict[str, Any]], fresh: list[dict[str, Any]], retention_days: int, max_articles: int) -> list[dict[str, Any]]:
     by_id: dict[str, dict[str, Any]] = {a["id"]: a for a in existing if a.get("id")}
     for article in fresh:
+        prev = by_id.get(article["id"])
+        if prev:
+            for key in ("title_ja", "summary_ja", "_translate_source"):
+                if key in prev and article.get("title") == prev.get("title") and article.get("summary") == prev.get("summary"):
+                    article[key] = prev[key]
         by_id[article["id"]] = article
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=retention_days)
@@ -235,7 +241,11 @@ h1 { margin: 10px 0 6px; font-size: 2rem; }
   text-decoration: none;
 }
 .card h2 a:hover { color: var(--accent); }
-.summary { color: var(--muted); margin: 0 0 12px; font-size: 14px; }
+.card .original {
+  color: var(--muted);
+  font-size: 12px;
+  margin: 0 0 6px;
+}
 .row {
   display: flex;
   gap: 8px;
@@ -273,11 +283,19 @@ def render_html(config: dict[str, Any], articles: list[dict[str, Any]]) -> str:
 
     cards = []
     for article in articles:
+        title_ja = article.get("title_ja") or article.get("title") or ""
+        summary_ja = article.get("summary_ja") or article.get("summary") or "（要約なし）"
+        title_en = article.get("title") or ""
+        show_original = bool(article.get("title_ja")) and title_en and title_en != title_ja
+        original_html = (
+            f'<p class="original">{html.escape(title_en)}</p>' if show_original else ""
+        )
         cards.append(
             f"""
             <article class="card">
-              <h2><a href="{html.escape(article['url'])}" target="_blank" rel="noopener noreferrer">{html.escape(article['title'])}</a></h2>
-              <p class="summary">{html.escape(article.get('summary') or '（要約なし）')}</p>
+              <h2><a href="{html.escape(article['url'])}" target="_blank" rel="noopener noreferrer">{html.escape(title_ja)}</a></h2>
+              {original_html}
+              <p class="summary">{html.escape(summary_ja)}</p>
               <div class="row">
                 <span class="chip">{html.escape(article.get('category') or 'その他')}</span>
                 <span>{html.escape(article.get('source') or '')}</span>
@@ -304,12 +322,12 @@ def render_html(config: dict[str, Any], articles: list[dict[str, Any]]) -> str:
       <span class="badge">AUTO UPDATED</span>
       <h1>{html.escape(title)}</h1>
       <p class="subtitle">{html.escape(subtitle)}</p>
-      <p class="meta">最終更新: {built_at} ・ Hermes + RSS</p>
+      <p class="meta">最終更新: {built_at} ・ RSS + Grok 翻訳</p>
     </header>
     <section class="stats">
       <div class="stat"><strong>{len(articles)}</strong>件の記事</div>
       <div class="stat"><strong>{len(categories)}</strong>カテゴリ</div>
-      <div class="stat"><strong>RSS</strong>自動収集</div>
+      <div class="stat"><strong>Grok</strong>日本語翻訳</div>
     </section>
     <section class="grid">
       {cards_html}
@@ -348,6 +366,7 @@ def main() -> int:
             print(f"✗ {name}: {exc}", file=sys.stderr)
 
     articles = merge_articles(existing, fresh, retention_days, max_articles)
+    articles = translate_articles(articles, config)
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps(articles, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
