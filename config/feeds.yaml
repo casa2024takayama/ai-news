@@ -1,0 +1,32 @@
+site:
+  title: "AI News Digest"
+  subtitle: "人工知能・生成AIの最新ニュース"
+  author: "casa2024takayama"
+  max_articles: 60
+  retention_days: 7
+  language: ja
+
+feeds:
+  - name: Google News (AI)
+    url: https://news.google.com/rss/search?q=artificial+intelligence+OR+generative+AI&hl=ja&gl=JP&ceid=JP:ja
+    category: 総合
+
+  - name: The Verge (AI)
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: 海外
+
+  - name: TechCrunch (AI)
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: 海外
+
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    category: 研究
+
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    category: 企業
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    category: 企業
