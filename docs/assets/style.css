@@ -65,7 +65,11 @@ h1 { margin: 10px 0 6px; font-size: 2rem; }
   text-decoration: none;
 }
 .card h2 a:hover { color: var(--accent); }
-.summary { color: var(--muted); margin: 0 0 12px; font-size: 14px; }
+.card .original {
+  color: var(--muted);
+  font-size: 12px;
+  margin: 0 0 6px;
+}
 .row {
   display: flex;
   gap: 8px;

@@ -6,7 +6,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-    "published_at": "2026-05-24T15:00:00+00:00"
+    "published_at": "2026-05-24T15:00:00+00:00",
+    "title_ja": "Amazonのウェアラブル「Bee」を試した結果、便利さと不安が混在",
+    "summary_ja": "AmazonのAIウェアラブル「Bee」は、利便性とプライバシーへの懸念が同居する奇妙な体験を提供する。",
+    "_translate_source": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out\nLike other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety."
   },
   {
     "id": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
@@ -15,7 +18,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of A…",
-    "published_at": "2026-05-24T12:00:00+00:00"
+    "published_at": "2026-05-24T12:00:00+00:00",
+    "title_ja": "ハッカーがチャットボットの「性格」を悪用し始めている",
+    "summary_ja": "AIチャットボットの性格を悪用するハッキング手法が登場。AIの弱点を突く新たな脅威が注目されている。",
+    "_translate_source": "Hackers are learning to exploit chatbot ‘personalities’\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of A…"
   },
   {
     "id": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
@@ -24,7 +30,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-    "published_at": "2026-05-23T15:08:00+00:00"
+    "published_at": "2026-05-23T15:08:00+00:00",
+    "title_ja": "Ferrari、IBMのAIでF1スーパーファン創出へ",
+    "summary_ja": "IBMとScuderia Ferrari HPがAIを活用し、ファン体験を革新。F1観戦の新たな形を提案している。",
+    "_translate_source": "Ferrari is using IBM’s AI to create F1 superfans\nIBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
   },
   {
     "id": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
@@ -33,7 +42,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-    "published_at": "2026-05-23T13:00:00+00:00"
+    "published_at": "2026-05-23T13:00:00+00:00",
+    "title_ja": "イーロン・マスク、地上の太陽光発電に見切りをつける",
+    "summary_ja": "xAIが天然ガスに注力し、SpaceXは軌道データセンターに傾倒。かつて約束した「太陽光経済」はどこへ。",
+    "_translate_source": "Elon Musk has given up on solar power (on Earth)\nElon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
   },
   {
     "id": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
@@ -42,7 +54,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-…",
-    "published_at": "2026-05-23T11:00:00+00:00"
+    "published_at": "2026-05-23T11:00:00+00:00",
+    "title_ja": "Googleの新AIモデル「anything-to-anything」が凄まじい",
+    "summary_ja": "テキストや画像から動画を生成するGoogleの新AI。ディープフェイク技術の進化が注目されている。",
+    "_translate_source": "Google’s new anything-to-anything AI model is wild\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-…"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDUkNGbjc2bDRmVUJkT1ZnRGRLdVNpX1BKWXNKUnNqaHB0YW1CeVlhUG85bHZ0NFhnQzJwVkhxamJCcnE2djNYV0dfLWtmNGtaWXZVemJwWWpHX1MyRmZ1Tk0wUlRYc0dDUFE?oc=5",
@@ -51,7 +66,10 @@
     "source": "Google News (AI)",
     "category": "総合",
     "summary": "Artificial Intelligence（AI）の購入方法：初心者向けガイド（2026年） WEEX",
-    "published_at": "2026-05-23T00:00:01+00:00"
+    "published_at": "2026-05-23T00:00:01+00:00",
+    "title_ja": "AIの買い方ガイド（2026年版）：初心者向け解説",
+    "summary_ja": "2026年現在のAI購入方法を初心者向けに解説。WEEXが実践的なアドバイスを提供している。",
+    "_translate_source": "Artificial Intelligence（AI）の購入方法：初心者向けガイド（2026年） - WEEX\nArtificial Intelligence（AI）の購入方法：初心者向けガイド（2026年） WEEX"
   },
   {
     "id": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -60,7 +78,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-    "published_at": "2026-05-22T23:03:33+00:00"
+    "published_at": "2026-05-22T23:03:33+00:00",
+    "title_ja": "死亡したパイロットの声をAIで蘇らせる動き",
+    "summary_ja": "AIがコックピット録音から声を再構築。NTSBは一時的に記録公開を停止する事態に。",
+    "_translate_source": "AI is being used to resurrect the voices of dead pilots\nPeople used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
   },
   {
     "id": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
@@ -69,7 +90,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
-    "published_at": "2026-05-22T21:02:36+00:00"
+    "published_at": "2026-05-22T21:02:36+00:00",
+    "title_ja": "Google、ディスコボール風アイコンをPixelに導入",
+    "summary_ja": "Pixelのホーム画面をディスコボール風にカスタマイズ可能に。ユーザーの反応は賛否両論だ。",
+    "_translate_source": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’\nYou can now disco ball-ify your entire Pixel home screen, says Google."
   },
   {
     "id": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
@@ -78,7 +102,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-    "published_at": "2026-05-22T20:40:48+00:00"
+    "published_at": "2026-05-22T20:40:48+00:00",
+    "title_ja": "VCと創業者が膨張ARRでAIスタートアップを王座に",
+    "summary_ja": "一部のAIスタートアップが公開収益指標を過大に表現しており、投資家もそれを認識している。",
+    "_translate_source": "How VCs and founders use inflated ‘ARR’ to crown AI startups\nSome AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
   },
   {
     "id": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
@@ -87,7 +114,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spot…",
-    "published_at": "2026-05-22T20:39:54+00:00"
+    "published_at": "2026-05-22T20:39:54+00:00",
+    "title_ja": "GoogleのAI検索が壊れ「disregard」検索で暴走",
+    "summary_ja": "金曜の「disregard」検索で、AI Overviewが通常の要約ではなくチャットボット風の応答を表示する不具合が発生。",
+    "_translate_source": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for\nGoogle's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spot…"
   },
   {
     "id": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
@@ -96,7 +126,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a val…",
-    "published_at": "2026-05-22T18:17:07+00:00"
+    "published_at": "2026-05-22T18:17:07+00:00",
+    "title_ja": "SpaceX、1.75兆ドルのIPO申請書類を提出",
+    "summary_ja": "SpaceXのS-1申請書は36ページのリスク要因を記載。総アドレス可能市場は28兆ドル規模で、火星植民計画も明記。",
+    "_translate_source": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO\nThe SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a val…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -105,7 +138,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
-    "published_at": "2026-05-22T18:00:00+00:00"
+    "published_at": "2026-05-22T18:00:00+00:00",
+    "title_ja": "Google I/O 2026 Dialoguesステージのハイライト",
+    "summary_ja": "Alphabet CEOのサンダー・ピチャイがI/O 2026のDialoguesステージで対談を行った。",
+    "_translate_source": "Catch up on the Dialogues stage at Google I/O 2026.\nAlphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage"
   },
   {
     "id": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
@@ -114,7 +150,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's no…",
-    "published_at": "2026-05-22T17:17:06+00:00"
+    "published_at": "2026-05-22T17:17:06+00:00",
+    "title_ja": "Elon、Grokを普及させるのはやめろ",
+    "summary_ja": "Reuters調査で、Grokは米政府のAI利用記録にほとんど登場せず、利用者も少ないことが判明。",
+    "_translate_source": "Elon, stop trying to make Grok happen\nThere is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's no…"
   },
   {
     "id": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
@@ -123,7 +162,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-    "published_at": "2026-05-22T16:16:48+00:00"
+    "published_at": "2026-05-22T16:16:48+00:00",
+    "title_ja": "「disregard」でGoogle検索が機能しなくなる",
+    "summary_ja": "AI検索更新後、「disregard」という単語で検索するとインターフェースが破綻する事例が報告された。",
+    "_translate_source": "You can no longer Google the word ‘disregard’\nAfter Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
   },
   {
     "id": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
@@ -132,7 +174,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-    "published_at": "2026-05-22T15:37:15+00:00"
+    "published_at": "2026-05-22T15:37:15+00:00",
+    "title_ja": "GoogleのAIグラスを試用、ほぼ完成形に",
+    "summary_ja": "Gemini搭載のAndroid XRグラス試作機を体験。視界に翻訳やナビ情報を直接重ねて表示できる。",
+    "_translate_source": "We tried Google’s AI glasses and they’re almost there\nGoogle demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view."
   },
   {
     "id": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
@@ -141,7 +186,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir'…",
-    "published_at": "2026-05-22T14:30:00+00:00"
+    "published_at": "2026-05-22T14:30:00+00:00",
+    "title_ja": "文学賞受賞作にAI生成の疑い",
+    "summary_ja": "英文学誌Grantaが主催するCommonwealth Short Story Prizeで、AIが執筆したとみられる作品が選出された。",
+    "_translate_source": "The literary world isn’t prepared for AI\nSince 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir'…"
   },
   {
     "id": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
@@ -150,7 +198,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a val…",
-    "published_at": "2026-05-22T14:30:00+00:00"
+    "published_at": "2026-05-22T14:30:00+00:00",
+    "title_ja": "SpaceX、上場申請　火星移住計画も明記",
+    "summary_ja": "SpaceXが米証券委に上場申請書を提出。火星移住を条件とした報酬体系や28兆ドルの市場規模など、野心的数字が並ぶ。",
+    "_translate_source": "SpaceX files to go public, and the math requires a little faith\nThe SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a val…"
   },
   {
     "id": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
@@ -159,7 +210,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from S…",
-    "published_at": "2026-05-22T14:20:00+00:00"
+    "published_at": "2026-05-22T14:20:00+00:00",
+    "title_ja": "SpotifyのAIリミックス、ファン向け？懐疑の声",
+    "summary_ja": "SpotifyがAIで楽曲をリミックスする新ツールを発表。すでにネット上にあふれる低品質カバーをさらに増やす懸念が広がっている。",
+    "_translate_source": "Spotify says its AI remix tool is for superfans, but I’m not convinced\nAI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from S…"
   },
   {
     "id": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
@@ -168,7 +222,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code wi…",
-    "published_at": "2026-05-22T12:10:00+00:00"
+    "published_at": "2026-05-22T12:10:00+00:00",
+    "title_ja": "The Download：AIコーディングと「ステロイド五輪」",
+    "summary_ja": "AnthropicのCode with Claudeが示すAI時代の開発像や、薬物使用を認める新競技「Enhanced Games」など、今日の注目トピックをまとめた。",
+    "_translate_source": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code wi…"
   },
   {
     "id": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
@@ -177,7 +234,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for em…",
-    "published_at": "2026-05-22T11:05:25+00:00"
+    "published_at": "2026-05-22T11:05:25+00:00",
+    "title_ja": "Samsung、半導体社員に最大34万ドルのボーナス提示",
+    "summary_ja": "ストライキを予告していたSamsungの半導体部門社員に対し、平均年34万ドルのボーナスを含む暫定合意が成立した。",
+    "_translate_source": "Samsung’s memory chip employees negotiated $340,000 bonuses this year\nDetails have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for em…"
   },
   {
     "id": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
@@ -186,7 +246,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligenc…",
-    "published_at": "2026-05-22T10:00:00+00:00"
+    "published_at": "2026-05-22T10:00:00+00:00",
+    "title_ja": "Google I/O、AI主導の科学研究の転換点を提示",
+    "summary_ja": "Demis Hassabis CEOが「シンギュラリティの麓に立つ」と宣言。Google I/Oで示されたAI活用の新潮流を解説する。",
+    "_translate_source": "Google I/O showed how the path for AI-driven science is shifting\nDuring Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligenc…"
   },
   {
     "id": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
@@ -195,7 +258,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” Th…",
-    "published_at": "2026-05-22T09:00:00+00:00"
+    "published_at": "2026-05-22T09:00:00+00:00",
+    "title_ja": "薬物使用容認の「Enhanced Games」、2026年のトレンドに適合",
+    "summary_ja": "42人の選手が薬物使用を認められた新競技会「Enhanced Games」がラスベガスで開催。人間の限界に挑む試みとして注目を集めている。",
+    "_translate_source": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes\nThis Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” Th…"
   },
   {
     "id": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -204,7 +270,10 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-    "published_at": "2026-05-22T00:00:00+00:00"
+    "published_at": "2026-05-22T00:00:00+00:00",
+    "title_ja": "OpenAI、Gartnerの企業向けAIコーディング部門でリーダーに",
+    "summary_ja": "OpenAIが2026年Gartner Magic Quadrantの企業向けAIコーディングエージェント部門でリーダーに選出され、Codexの革新性が評価された。",
+    "_translate_source": "OpenAI named a Leader in enterprise coding agents by Gartner\nOpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
   },
   {
     "id": "https://openai.com/index/virgin-atlantic",
@@ -213,7 +282,10 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-    "published_at": "2026-05-22T00:00:00+00:00"
+    "published_at": "2026-05-22T00:00:00+00:00",
+    "title_ja": "Virgin Atlantic、Codex活用でアプリを期限内に刷新",
+    "summary_ja": "Virgin AtlanticがCodexを導入し、休暇需要期に合わせモバイルアプリを刷新。単体テストカバレッジほぼ100％、重大バグゼロを達成した。",
+    "_translate_source": "How Virgin Atlantic ships faster with Codex\nHow Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
   },
   {
     "id": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
@@ -222,7 +294,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Hona…",
-    "published_at": "2026-05-21T20:41:05+00:00"
+    "published_at": "2026-05-21T20:41:05+00:00",
+    "title_ja": "AIは世界を理解できるか？ラウンドテーブル開催",
+    "summary_ja": "AI企業がLLMの限界を超え、世界モデル構築を目指す動きが活発化。編集長マット・ホナ氏らによる議論を収録。",
+    "_translate_source": "Roundtables: Can AI Learn to Understand the World?\nListen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Hona…"
   },
   {
     "id": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -231,7 +306,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus …",
-    "published_at": "2026-05-21T20:15:18+00:00"
+    "published_at": "2026-05-21T20:15:18+00:00",
+    "title_ja": "OpenAIを巡るマスク氏とアルトマン氏の法廷闘争最新情報",
+    "summary_ja": "イーロン・マスク氏がOpenAIを提訴。設立理念からの逸脱を主張し、ChatGPTの未来にも影響する裁判が進行中。",
+    "_translate_source": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI\nSam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus …"
   },
   {
     "id": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
@@ -240,7 +318,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like for…",
-    "published_at": "2026-05-21T20:00:06+00:00"
+    "published_at": "2026-05-21T20:00:06+00:00",
+    "title_ja": "卒業式でAI推進CEOにブーイング、学生の不満が噴出",
+    "summary_ja": "大学卒業式でAIを称賛する経営陣に学生が野次を飛ばす事例が相次ぐ。経営側との温度差が鮮明に。",
+    "_translate_source": "In desperate times, graduates find hope in humiliating tech CEOs\nUniversity graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like for…"
   },
   {
     "id": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -249,7 +330,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-    "published_at": "2026-05-21T19:45:00+00:00"
+    "published_at": "2026-05-21T19:45:00+00:00",
+    "title_ja": "Spotifyとユニバーサル、AIカバー・リミックスを解禁",
+    "summary_ja": "Spotifyがユニバーサル・ミュージックと提携。プレミアム会員がAI生成カバーやリミックスを作成可能にし、収益をアーティストと分配。",
+    "_translate_source": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes\nSpotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue."
   },
   {
     "id": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
@@ -258,7 +342,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-    "published_at": "2026-05-21T19:19:05+00:00"
+    "published_at": "2026-05-21T19:19:05+00:00",
+    "title_ja": "Google離れ加速、試す価値のある代替検索エンジン6選",
+    "summary_ja": "AI概要機能に不満の声が高まる中、Googleに代わる検索エンジン6つを紹介。ユーザー体験の違いに注目。",
+    "_translate_source": "Six search engines worth trying now that Google isn’t really Google anymore\nGoogle is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
   },
   {
     "id": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
@@ -267,7 +354,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to l…",
-    "published_at": "2026-05-21T19:16:43+00:00"
+    "published_at": "2026-05-21T19:16:43+00:00",
+    "title_ja": "AI時代に創造性をどう拡張するか",
+    "summary_ja": "人類の根源にある物語る力。洞窟壁画から現代AIまで、技術と表現の歴史を振り返り、創造性の未来を考察。",
+    "_translate_source": "Scaling creativity in the age of AI\nStorytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to l…"
   },
   {
     "id": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
@@ -276,7 +366,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-    "published_at": "2026-05-21T17:30:45+00:00"
+    "published_at": "2026-05-21T17:30:45+00:00",
+    "title_ja": "トランプ大統領、AIセキュリティ大統領令の署名を延期",
+    "summary_ja": "AIモデルの事前セキュリティ審査を義務付ける大統領令の文言に不満を示し、署名を先送り。イノベーション阻害を懸念。",
+    "_translate_source": "Trump delays AI security executive order, saying language ‘could have been a blocker’\nPresident Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
   },
   {
     "id": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
@@ -285,7 +378,10 @@
     "source": "The Verge (AI)",
     "category": "海外",
     "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built g…",
-    "published_at": "2026-05-21T17:00:00+00:00"
+    "published_at": "2026-05-21T17:00:00+00:00",
+    "title_ja": "AI搭載ギターエフェクター「Endless」、自作エフェクトが可能に",
+    "summary_ja": "Polyendが開発したAIギターエフェクター。ユーザーが自由にエフェクトを作成でき、音楽制作の新たな可能性を提示。",
+    "_translate_source": "This AI guitar pedal let me roll my own effects\nI'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built g…"
   },
   {
     "id": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
@@ -294,7 +390,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-    "published_at": "2026-05-21T15:27:00+00:00"
+    "published_at": "2026-05-21T15:27:00+00:00",
+    "title_ja": "Spotify、ポッドキャストにAI質問応答と要約生成機能を追加",
+    "summary_ja": "Spotifyは、ユーザーの指示に基づいて日次または週次の要約を自動生成できる新機能を導入する。",
+    "_translate_source": "Spotify adds AI-powered Q&A and briefing generation features to podcasts\nSpotify will let you generate daily or weekly briefs based on your prompts"
   },
   {
     "id": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
@@ -303,7 +402,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
-    "published_at": "2026-05-21T15:27:00+00:00"
+    "published_at": "2026-05-21T15:27:00+00:00",
+    "title_ja": "Spotify、新デスクトップアプリでNotebookLMに対抗",
+    "summary_ja": "Spotifyは20カ国以上で研究プレビューとして新デスクトップアプリをリリースし、個人向けポッドキャスト作成を支援する。",
+    "_translate_source": "Spotify takes on Google’s NotebookLM with its new app\nSpotify is releasing the new desktop app as a research preview in more than 20 markets."
   },
   {
     "id": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
@@ -312,7 +414,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
-    "published_at": "2026-05-21T15:27:00+00:00"
+    "published_at": "2026-05-21T15:27:00+00:00",
+    "title_ja": "Spotify、ElevenLabs連携のAIオーディオブック作成ツールを発表",
+    "summary_ja": "AIで生成したオーディオブックを著者が他社へ自由に公開できる新ツールをSpotifyが提供開始する。",
+    "_translate_source": "Spotify launches an ElevenLabs-powered audiobook creation tool\nThe AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
   },
   {
     "id": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
@@ -321,7 +426,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the las…",
-    "published_at": "2026-05-21T14:30:45+00:00"
+    "published_at": "2026-05-21T14:30:45+00:00",
+    "title_ja": "Anthropicの「Code with Claude」、AIコーディングの未来を提示",
+    "summary_ja": "ロンドンで開催された開発者向けイベントで、AnthropicがAIによるコード生成の可能性を強く印象づけた。",
+    "_translate_source": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not\nThe vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the las…"
   },
   {
     "id": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
@@ -330,7 +438,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-    "published_at": "2026-05-21T14:00:00+00:00"
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "title_ja": "Tony Robbinsら設立のThe Path、安全重視のAIセラピーを目指す",
+    "summary_ja": "The PathのAIモデルは精神保健安全ベンチマークで95点を獲得し、既存の消費者向けAIを大きく上回った。",
+    "_translate_source": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy\nThe Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
   },
   {
     "id": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
@@ -339,7 +450,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-    "published_at": "2026-05-21T14:00:00+00:00"
+    "published_at": "2026-05-21T14:00:00+00:00",
+    "title_ja": "Hark、汎用AIインターフェースで7億ドルのシリーズAを調達",
+    "summary_ja": "今夏に初のマルチモーダルモデルを公開予定で、既存サービスと連携する個人向けAIプラットフォームを構築する。",
+    "_translate_source": "Hark raises $700M Series A for its secretive ‘universal’ AI interface\nHark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems."
   },
   {
     "id": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
@@ -348,7 +462,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-    "published_at": "2026-05-21T13:52:23+00:00"
+    "published_at": "2026-05-21T13:52:23+00:00",
+    "title_ja": "Google、消費者向けAIエージェント構想をI/Oで披露も反応は複雑",
+    "summary_ja": "Google I/Oで発表されたAIエージェントはウェブ利用を変える可能性がある一方、仕組みの複雑さが課題となっている。",
+    "_translate_source": "Google is pitching an AI agent ecosystem to consumers who may not buy it\nOne of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing."
   },
   {
     "id": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
@@ -357,7 +474,10 @@
     "source": "TechCrunch (AI)",
     "category": "海外",
     "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-    "published_at": "2026-05-21T13:38:42+00:00"
+    "published_at": "2026-05-21T13:38:42+00:00",
+    "title_ja": "アルミ価格20%上昇、AI活用のリサイクル新興企業が活況",
+    "summary_ja": "AIでアルミなどの重要鉱物の回収効率を高めようとするリサイクルスタートアップが増えている。",
+    "_translate_source": "With aluminum prices up 20%, recycling startups bet on AI to cash in\nRecycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
   },
   {
     "id": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
@@ -366,7 +486,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after…",
-    "published_at": "2026-05-21T12:10:00+00:00"
+    "published_at": "2026-05-21T12:10:00+00:00",
+    "title_ja": "The Download：オンライン安全の行方と気候テックの大転換",
+    "summary_ja": "本日のThe Downloadでは、トランプ政権を相手にオンライン安全研究者らが提訴した動きや、気候テック企業が脱炭素以外の分野で活路を見いだす動きを解説。",
+    "_translate_source": "The Download: online safety’s future and climate tech’s big pivot\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after…"
   },
   {
     "id": "https://openai.com/index/adventhealth",
@@ -375,7 +498,10 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "published_at": "2026-05-21T12:00:00+00:00"
+    "published_at": "2026-05-21T12:00:00+00:00",
+    "title_ja": "AdventHealth、OpenAI活用で患者ケアの質向上へ",
+    "summary_ja": "米AdventHealthはChatGPT for Healthcareを導入し、事務作業を効率化。スタッフの負担を軽減し、患者ケアにより多くの時間を割ける体制を整えている。",
+    "_translate_source": "AdventHealth advances whole-person care with OpenAI\nAdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
   },
   {
     "id": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
@@ -384,7 +510,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Sudd…",
-    "published_at": "2026-05-21T10:00:00+00:00"
+    "published_at": "2026-05-21T10:00:00+00:00",
+    "title_ja": "気候テック企業、重要鉱物分野へ事業転換",
+    "summary_ja": "米国の気候政策後退の中で、気候テック企業は脱炭素以外の価値創出に活路を見いだし、重要鉱物の生産・供給に注力する動きが加速している。",
+    "_translate_source": "Climate tech companies are pivoting to critical minerals\nWe’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Sudd…"
   },
   {
     "id": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
@@ -393,7 +522,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could hav…",
-    "published_at": "2026-05-21T09:00:00+00:00"
+    "published_at": "2026-05-21T09:00:00+00:00",
+    "title_ja": "研究者ら、トランプ政権を提訴　オンライン安全めぐり",
+    "summary_ja": "ヘイトや偽情報の研究者を標的にしたトランプ政権に対し、研究者らが提訴。オンライン安全政策の行方をめぐる裁判が注目されている。",
+    "_translate_source": "Tech researchers are suing the Trump administration over the future of online safety\nSince its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could hav…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
@@ -402,7 +534,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-    "published_at": "2026-05-20T20:40:00+00:00"
+    "published_at": "2026-05-20T20:40:00+00:00",
+    "title_ja": "Google、ミズーリ州に新たに地域投資を発表",
+    "summary_ja": "Googleはミズーリ州で次世代人材育成とエネルギー関連プログラムへの投資を拡大し、地域社会の発展を支援する方針を明らかにした。",
+    "_translate_source": "We’re announcing new community investments in Missouri.\nWe’re helping build the state’s next-generation workforce and investing in energy programs."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
@@ -411,7 +546,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
-    "published_at": "2026-05-20T19:30:00+00:00"
+    "published_at": "2026-05-20T19:30:00+00:00",
+    "title_ja": "Google I/O 2026、発表内容を100項目で総まとめ",
+    "summary_ja": "GoogleはI/O 2026でGeminiを軸とした新機能や開発者向けツールを多数発表。100のトピックをまとめた特集ページを公開した。",
+    "_translate_source": "100 things we announced at I/O 2026\nImage with the words \"Ready, Set, I/O\" and a colorful Gemini logo"
   },
   {
     "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
@@ -420,7 +558,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
-    "published_at": "2026-05-20T16:45:00+00:00"
+    "published_at": "2026-05-20T16:45:00+00:00",
+    "title_ja": "Google Beam、グループミーティングの体験向上へ新実験",
+    "summary_ja": "Google Beamは、室内参加者と画面参加者が混在するグループミーティングの品質を高める新機能を試験導入し、より自然な遠隔会議を実現する。",
+    "_translate_source": "A new experiment brings better group meetings to Google Beam\nA small group meeting featuring two in-room participants and three participants on-screen."
   },
   {
     "id": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
@@ -429,7 +570,10 @@
     "source": "MIT Technology Review",
     "category": "研究",
     "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenho…",
-    "published_at": "2026-05-20T13:00:00+00:00"
+    "published_at": "2026-05-20T13:00:00+00:00",
+    "title_ja": "Boston Metal、重要金属生産へ7500万ドル調達",
+    "summary_ja": "グリーン鉄鋼技術で知られるBoston Metalが7500万ドルの資金調達を実施。重要金属の生産拡大により事業多角化を加速させる。",
+    "_translate_source": "Green steel startup Boston Metal is doubling down on critical metals\nThe startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenho…"
   },
   {
     "id": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -438,7 +582,10 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "published_at": "2026-05-20T00:00:00+00:00"
+    "published_at": "2026-05-20T00:00:00+00:00",
+    "title_ja": "OpenAIモデル、離散幾何の長年の予想を反証",
+    "summary_ja": "OpenAIのモデルが80年以上未解決だった単位距離問題を解決し、離散幾何の主要な予想を否定。AIによる数学研究の新たな節目となった。",
+    "_translate_source": "An OpenAI model has disproved a central conjecture in discrete geometry\nAn OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
   },
   {
     "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -447,7 +594,10 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "published_at": "2026-05-20T00:00:00+00:00"
+    "published_at": "2026-05-20T00:00:00+00:00",
+    "title_ja": "OpenAI、教育支援プログラムの次段階を発表",
+    "summary_ja": "OpenAIが「Education for Countries」を拡大。新たな提携や教員研修、学習ツールの提供により、世界の教育成果向上を目指す。",
+    "_translate_source": "The next phase of OpenAI’s Education for Countries\nOpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
   },
   {
     "id": "https://openai.com/index/ramp",
@@ -456,7 +606,10 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-    "published_at": "2026-05-20T00:00:00+00:00"
+    "published_at": "2026-05-20T00:00:00+00:00",
+    "title_ja": "Ramp、Codex活用でコードレビューを高速化",
+    "summary_ja": "RampのエンジニアがGPT-5.5搭載のCodexを使い、数時間かかっていたコードレビューを数分で完了。開発効率が大幅に向上している。",
+    "_translate_source": "How Ramp engineers accelerate code review with Codex\nHow Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
   },
   {
     "id": "https://openai.com/index/introducing-openai-for-singapore",
@@ -465,7 +618,10 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "published_at": "2026-05-19T20:30:00+00:00"
+    "published_at": "2026-05-19T20:30:00+00:00",
+    "title_ja": "OpenAI、シンガポール向け新プログラムを発表",
+    "summary_ja": "OpenAIがシンガポールで複数年にわたるAIパートナーシップを開始。現地人材育成や企業・公共サービスのAI活用を支援する。",
+    "_translate_source": "Introducing OpenAI for Singapore\nOpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
@@ -474,7 +630,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-    "published_at": "2026-05-19T17:45:00+00:00"
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "title_ja": "Google I/O 2026開催、AIの進化を発表",
+    "summary_ja": "Google I/O 2026で、誰にでも役立つAIの最新機能が紹介された。発表内容の詳細は公式サイトで確認できる。",
+    "_translate_source": "I/O 2026\nAt Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
@@ -483,7 +642,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-    "published_at": "2026-05-19T17:45:00+00:00"
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "title_ja": "米国の検索行動を変える「AI Mode」の実態",
+    "summary_ja": "米国内でのAI Mode利用状況をグラフィックで紹介。検索の新しい使い方が広がっている様子が示されている。",
+    "_translate_source": "How AI Mode is changing the way people search in the U.S.\nA graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
@@ -492,7 +654,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "Google Workspace",
-    "published_at": "2026-05-19T17:45:00+00:00"
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "title_ja": "Google Workspaceに新機能追加",
+    "summary_ja": "Google Workspaceで作成や業務効率を高める新機能が追加された。",
+    "_translate_source": "New ways to create and get things done in Google Workspace\nGoogle Workspace"
   },
   {
     "id": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
@@ -501,7 +666,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "a series of colorful icons representing Google I/O against a black background",
-    "published_at": "2026-05-19T17:45:00+00:00"
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "title_ja": "Sundar Pichai、Geminiのエージェント時代を宣言",
+    "summary_ja": "Google I/O 2026で、Sundar Pichai CEOがGeminiを活用したエージェント時代の到来を強調した。",
+    "_translate_source": "I/O 2026: Welcome to the agentic Gemini era\na series of colorful icons representing Google I/O against a black background"
   },
   {
     "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
@@ -510,7 +678,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-    "published_at": "2026-05-19T17:45:00+00:00"
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "title_ja": "Gemini 3.5：最先端知能と行動力",
+    "summary_ja": "Gemini 3.5が抽象的な青背景にテキストと多色の星アイコンで紹介されています。",
+    "_translate_source": "Gemini 3.5: frontier intelligence with action\nGemini 3.5 text and multi-colored star icon on an abstract blue background."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
@@ -519,7 +690,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "Text that reads \"The best of a search engine with the best of AI\"",
-    "published_at": "2026-05-19T17:45:00+00:00"
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "title_ja": "AI検索の新時代",
+    "summary_ja": "「検索エンジンの良さとAIの良さを融合させたもの」と表示されています。",
+    "_translate_source": "A new era for AI Search\nText that reads \"The best of a search engine with the best of AI\""
   },
   {
     "id": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
@@ -528,7 +702,10 @@
     "source": "Google AI Blog",
     "category": "企業",
     "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
-    "published_at": "2026-05-19T17:45:00+00:00"
+    "published_at": "2026-05-19T17:45:00+00:00",
+    "title_ja": "Google AIサブスクの最新情報",
+    "summary_ja": "カラフルなアイコンとともに「より多くの魔法を1つのプランで。より強力に、より特典を、同じ価格で」と表示されています。",
+    "_translate_source": "Everything new in our Google AI subscriptions, fresh from I/O 2026\nThe image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price."
   },
   {
     "id": "https://openai.com/index/advancing-content-provenance",
@@ -537,6 +714,9 @@
     "source": "OpenAI Blog",
     "category": "企業",
     "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-    "published_at": "2026-05-19T10:45:00+00:00"
+    "published_at": "2026-05-19T10:45:00+00:00",
+    "title_ja": "より安全で透明なAIエコシステムへ",
+    "summary_ja": "OpenAIがContent CredentialsやSynthID、検証ツールを活用し、AI生成メディアの識別と信頼性を高めます。",
+    "_translate_source": "Advancing content provenance for a safer, more transparent AI ecosystem\nOpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
   }
 ]
