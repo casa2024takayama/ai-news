@@ -28,6 +28,9 @@ Automated RSS build.
 EOF
 )"
 
-git push origin main
+git push origin main 2>&1 || {
+  echo "git push failed. Run: gh auth status && git remote -v" >&2
+  exit 1
+}
 echo "✓ Deployed: $SITE_URL"
 echo "SITE_URL=$SITE_URL"
