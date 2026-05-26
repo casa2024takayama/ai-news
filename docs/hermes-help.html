@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>Hermes / Discord リモート操作ガイド</title>
+  <meta name="description" content="Discord から自宅 Mac の Hermes・Cursor を操作するためのガイド">
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b1020;
+      --panel: #121933;
+      --panel2: #1a2444;
+      --text: #e8ecff;
+      --muted: #9aa7d7;
+      --accent: #6ea8fe;
+      --green: #3dd68c;
+      --orange: #ffb020;
+      --border: #243056;
+      --hermes: #5865f2;
+      --cursor: #00c896;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: "Hiragino Sans", "Yu Gothic UI", system-ui, sans-serif;
+      background: linear-gradient(180deg, #070b16 0%, var(--bg) 100%);
+      color: var(--text);
+      line-height: 1.65;
+      padding-bottom: env(safe-area-inset-bottom, 24px);
+    }
+    .wrap { max-width: 720px; margin: 0 auto; padding: 20px 16px 48px; }
+    header { margin-bottom: 20px; }
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: var(--panel2);
+      color: var(--accent);
+      font-size: 11px;
+      letter-spacing: .06em;
+    }
+    h1 { margin: 10px 0 6px; font-size: 1.55rem; line-height: 1.25; }
+    .subtitle { color: var(--muted); margin: 0; font-size: 0.95rem; }
+    .updated { color: var(--muted); font-size: 13px; margin-top: 12px; }
+
+    nav.toc {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(11, 16, 32, .92);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border);
+      margin: 0 -16px 20px;
+      padding: 10px 16px;
+      overflow-x: auto;
+      white-space: nowrap;
+      -webkit-overflow-scrolling: touch;
+    }
+    nav.toc a {
+      display: inline-block;
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 6px 12px;
+      margin-right: 6px;
+      border-radius: 999px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+    }
+
+    section {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      margin-bottom: 14px;
+    }
+    h2 { margin: 0 0 12px; font-size: 1.15rem; }
+    h3 { margin: 16px 0 8px; font-size: 1rem; color: var(--accent); }
+    p { margin: 0 0 10px; }
+    ul, ol { margin: 0 0 10px; padding-left: 1.2rem; }
+    li { margin-bottom: 6px; }
+
+    .flow {
+      display: grid;
+      gap: 8px;
+      margin: 12px 0;
+    }
+    .flow-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 12px;
+      background: var(--panel2);
+      border-radius: 10px;
+      font-size: 14px;
+    }
+    .flow-num {
+      flex-shrink: 0;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--hermes);
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+      margin: 10px 0;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 10px 8px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: var(--panel2); color: var(--accent); font-weight: 600; }
+
+    code, .cmd {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 13px;
+      background: #0a0f1c;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2px 6px;
+      word-break: break-all;
+    }
+    .cmd-block {
+      display: block;
+      padding: 12px;
+      margin: 8px 0;
+      background: #0a0f1c;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      font-family: ui-monospace, Menlo, monospace;
+      font-size: 13px;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .tag {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 999px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .tag-hermes { background: #2b3270; color: #aab4ff; }
+    .tag-cursor { background: #0d3d32; color: var(--cursor); }
+
+    details {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin: 8px 0;
+      background: var(--panel2);
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 14px;
+      list-style: none;
+    }
+    summary::-webkit-details-marker { display: none; }
+    summary::before { content: "▸ "; color: var(--accent); }
+    details[open] summary::before { content: "▾ "; }
+
+    .ok { color: var(--green); }
+    .warn { color: var(--orange); }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <span class="badge">MOBILE GUIDE</span>
+      <h1>Hermes / Discord<br>リモート操作ガイド</h1>
+      <p class="subtitle">スマホの Discord から自宅 Mac の AI を操作する</p>
+      <p class="updated">更新: 2026-05-27</p>
+    </header>
+
+    <nav class="toc" aria-label="目次">
+      <a href="#overview">概要</a>
+      <a href="#routing">振り分け</a>
+      <a href="#commands">コマンド例</a>
+      <a href="#tools">ツール</a>
+      <a href="#tips">注意</a>
+      <a href="#help">ヘルプ</a>
+    </nav>
+
+    <section id="overview">
+      <h2>概要</h2>
+      <div class="flow">
+        <div class="flow-item"><span class="flow-num">1</span><span>スマホ <strong>Discord</strong> で bot にメンション / DM</span></div>
+        <div class="flow-item"><span class="flow-num">2</span><span>自宅 Mac の <strong>Hermes gateway</strong> が受信</span></div>
+        <div class="flow-item"><span class="flow-num">3</span><span>内容に応じて <strong>Hermes</strong> または <strong>Cursor Agent</strong> が処理</span></div>
+        <div class="flow-item"><span class="flow-num">4</span><span>結果が Discord に返る（テキスト・画像・動画）</span></div>
+      </div>
+      <p><strong>前提:</strong> Mac が起動中・gateway 常駐・スリープしていないこと。</p>
+    </section>
+
+    <section id="routing">
+      <h2>振り分けルール（最重要）</h2>
+      <table>
+        <thead>
+          <tr><th>やりたいこと</th><th>誰に頼む</th><th>Discord の書き方</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>X 検索・トレンド</td>
+            <td><span class="tag tag-hermes">Hermes</span></td>
+            <td><code>x_search で …</code></td>
+          </tr>
+          <tr>
+            <td>画像・動画生成</td>
+            <td><span class="tag tag-hermes">Hermes</span></td>
+            <td><code>image_generate …</code> / <code>video_generate …</code></td>
+          </tr>
+          <tr>
+            <td>Web 検索・天気</td>
+            <td><span class="tag tag-hermes">Hermes</span></td>
+            <td>普通に質問</td>
+          </tr>
+          <tr>
+            <td>cron・定期ジョブ</td>
+            <td><span class="tag tag-hermes">Hermes</span></td>
+            <td><code>cron …</code></td>
+          </tr>
+          <tr>
+            <td>コード修正・レビュー</td>
+            <td><span class="tag tag-cursor">Cursor</span></td>
+            <td><code>cursorに: …</code></td>
+          </tr>
+          <tr>
+            <td>リポジトリ調査</td>
+            <td><span class="tag tag-cursor">Cursor</span></td>
+            <td><code>Cursorで …</code></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="warn">⚠️ 「cursorに」と書かないと Hermes（Grok）が自分で答えようとすることがあります。</p>
+    </section>
+
+    <section id="commands">
+      <h2>Discord コマンド例</h2>
+
+      <h3><span class="tag tag-hermes">Hermes</span> 向け</h3>
+      <div class="cmd-block">x_search で "セゾンテクノロジー" を直近24時間検索して要約</div>
+      <div class="cmd-block">image_generate で「白い猫、ミニマル」を生成して画像添付</div>
+      <div class="cmd-block">video_generate で「海の波5秒」を生成して添付</div>
+      <div class="cmd-block">execute_code で 2+2 を計算</div>
+
+      <h3><span class="tag tag-cursor">Cursor</span> 向け</h3>
+      <div class="cmd-block">cursorに: 直近コミットをレビューして</div>
+      <div class="cmd-block">cursorに: kakebo の README を1段落で要約</div>
+      <div class="cmd-block">Cursorで README の typo を直して</div>
+
+      <h3>セッション操作</h3>
+      <div class="cmd-block">/new</div>
+      <p>ツール設定を変えたあとは <strong>/new</strong> で新セッション。古いスレッドには新ツールが載りません。</p>
+    </section>
+
+    <section id="tools">
+      <h2>主要ツール名</h2>
+      <p>設定名と実際のツール名が異なる場合があります。</p>
+      <table>
+        <thead><tr><th>機能</th><th>ツール名</th></tr></thead>
+        <tbody>
+          <tr><td>X 検索</td><td><code>x_search</code></td></tr>
+          <tr><td>画像生成</td><td><code>image_generate</code></td></tr>
+          <tr><td>動画生成</td><td><code>video_generate</code></td></tr>
+          <tr><td>Web 検索</td><td><code>web_search</code></td></tr>
+          <tr><td>コード実行</td><td><code>execute_code</code></td></tr>
+          <tr><td>読み上げ</td><td><code>text_to_speech</code></td></tr>
+        </tbody>
+      </table>
+
+      <details>
+        <summary>利用可能ツールの確認</summary>
+        <div class="cmd-block">利用可能なツール名を列挙して。video_generate と image_generate が含まれるか確認して。</div>
+      </details>
+    </section>
+
+    <section id="tips">
+      <h2>注意・トラブル</h2>
+      <ul>
+        <li><span class="ok">✓</span> Mac がスリープ中は Discord から無反応</li>
+        <li><span class="ok">✓</span> 設定変更後は <code>hermes gateway restart</code> → Discord で <code>/new</code></li>
+        <li><span class="warn">⚠</span> 動画生成は 1〜4 分・クォータ消費大</li>
+        <li><span class="warn">⚠</span> Cursor は <code>--force</code> でファイルを書き換える可能性あり</li>
+      </ul>
+
+      <details>
+        <summary>gateway 再起動（Mac ターミナル）</summary>
+        <div class="cmd-block">hermes gateway restart</div>
+      </details>
+
+      <details>
+        <summary>デフォルト workspace（Cursor）</summary>
+        <p><code>/Users/takayama_masaaki/Desktop/claude code</code></p>
+      </details>
+    </section>
+
+    <section id="help">
+      <h2>Discord でヘルプ</h2>
+      <p>次のいずれかを Discord に送ると、このページへのリンクが返ります。</p>
+      <div class="cmd-block">help
+ヘルプ
+使い方</div>
+    </section>
+
+    <footer>
+      Hermes Agent + Cursor Agent · カーサ環境
+    </footer>
+  </div>
+</body>
+</html>
