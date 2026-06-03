@@ -1,120 +1,133 @@
 [
   {
-    "id": "x:af71db90c9738d46",
-    "title": "Anthropic、IPOに向けS-1草案提出",
-    "title_ja": "Anthropic、IPOに向けS-1草案提出",
-    "summary": "AnthropicがSECに非公開でS-1草案を提出し上場準備を明らかに。評価額や安全重視文化への影響を巡り話題に。",
-    "summary_ja": "AnthropicがSECに非公開でS-1草案を提出し上場準備を明らかに。評価額や安全重視文化への影響を巡り話題に。",
+    "id": "x:60e51ff0da355c15",
+    "title": "Anthropic、S-1草案をSEC提出",
+    "title_ja": "Anthropic、S-1草案をSEC提出",
+    "summary": "IPO準備で注目。収益や安全対策の開示に期待が高まり、1,960万ビュー超のバズに。",
+    "summary_ja": "IPO準備で注目。収益や安全対策の開示に期待が高まり、1,960万ビュー超のバズに。",
     "url": "https://x.com/AnthropicAI/status/2061478052257841495",
     "source": "X (AnthropicAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:53.138596+00:00"
+    "published_at": "2026-06-03T21:01:53.255167+00:00"
   },
   {
-    "id": "x:dc705f7f30631798",
-    "title": "OpenAI、Codexで「Sites」β公開",
-    "title_ja": "OpenAI、Codexで「Sites」β公開",
-    "summary": "自然言語から即座に共有可能なWebアプリを生成。ノーコード勢や従来開発フローの陳腐化が議論されている。",
-    "summary_ja": "自然言語から即座に共有可能なWebアプリを生成。ノーコード勢や従来開発フローの陳腐化が議論されている。",
+    "id": "x:9476c79892c173da",
+    "title": "OpenAI、Codexで即時Web公開",
+    "title_ja": "OpenAI、Codexで即時Web公開",
+    "summary": "アイデアをURL付きサイトに変換。ノーコードツールを脅かすと話題で790万ビュー。",
+    "summary_ja": "アイデアをURL付きサイトに変換。ノーコードツールを脅かすと話題で790万ビュー。",
     "url": "https://x.com/OpenAI/status/2061845949170045346",
     "source": "X (OpenAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:53.138596+00:00"
+    "published_at": "2026-06-03T21:01:53.255167+00:00"
   },
   {
-    "id": "x:79c667b3d3b85e1c",
-    "title": "OpenAIが新CM「It's time to fly」公開",
-    "title_ja": "OpenAIが新CM「It's time to fly」公開",
-    "summary": "AIが日常を変える高品質映像ティザー。次期モデルや新機能の予告と受け止められバズっている。",
-    "summary_ja": "AIが日常を変える高品質映像ティザー。次期モデルや新機能の予告と受け止められバズっている。",
+    "id": "x:60a92c612089bbff",
+    "title": "OpenAIが感情的トレーラー公開",
+    "title_ja": "OpenAIが感情的トレーラー公開",
+    "summary": "「It’s time to fly」映像がCodex体験を象徴し、開発者の間で話題に。",
+    "summary_ja": "「It’s time to fly」映像がCodex体験を象徴し、開発者の間で話題に。",
     "url": "https://x.com/OpenAI/status/2062249312839434452",
     "source": "X (OpenAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:53.138596+00:00"
+    "published_at": "2026-06-03T21:01:53.255167+00:00"
   },
   {
-    "id": "x:f9f8a3d2055b6aec",
-    "title": "Qwen3.7-PlusがGUI・CLI統合",
-    "title_ja": "Qwen3.7-PlusがGUI・CLI統合",
-    "summary": "Alibabaが視覚と言語を統合した新エージェントモデルを発表。GUI操作やコード生成で注目を集めている。",
-    "summary_ja": "Alibabaが視覚と言語を統合した新エージェントモデルを発表。GUI操作やコード生成で注目を集めている。",
-    "url": "https://x.com/Alibaba_Qwen/status/2061506641120641494",
-    "source": "X (Alibaba_Qwen)",
-    "category": "Xトレンド",
-    "region": "usa",
-    "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:53.138596+00:00"
-  },
-  {
-    "id": "x:fb694fee589015c6",
-    "title": "ClaudeにターミナルCLI追加",
-    "title_ja": "ClaudeにターミナルCLI追加",
-    "summary": "Claude Platformが「ant CLI」をリリース。Messages APIやエージェント操作を端末から直接実行可能に。",
-    "summary_ja": "Claude Platformが「ant CLI」をリリース。Messages APIやエージェント操作を端末から直接実行可能に。",
+    "id": "x:2b294293ff5d8c99",
+    "title": "Claude新CLIツール発表",
+    "title_ja": "Claude新CLIツール発表",
+    "summary": "Messages APIやシェル連携で開発者体験向上。6Kいいねを集める。",
+    "summary_ja": "Messages APIやシェル連携で開発者体験向上。6Kいいねを集める。",
     "url": "https://x.com/ClaudeDevs/status/2061877343078244459",
     "source": "X (ClaudeDevs)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:53.138596+00:00"
+    "published_at": "2026-06-03T21:01:53.255167+00:00"
   },
   {
-    "id": "x:9721a0271f12b9c1",
-    "title": "国産LLM不在の戦略的リスク",
-    "title_ja": "国産LLM不在の戦略的リスク",
-    "summary": "日本に高性能国産LLMがない現状を「戦車前に丸裸」と表現した投稿が2,900いいね超。国家インフラ依存の危機感が広がっている。",
-    "summary_ja": "日本に高性能国産LLMがない現状を「戦車前に丸裸」と表現した投稿が2,900いいね超。国家インフラ依存の危機感が広がっている。",
+    "id": "x:b261334364da8209",
+    "title": "Qwen3.7-Plusがマルチモーダル化",
+    "title_ja": "Qwen3.7-Plusがマルチモーダル化",
+    "summary": "GUI/CLI操作とビジョン統合で実務向けエージェントとして注目。",
+    "summary_ja": "GUI/CLI操作とビジョン統合で実務向けエージェントとして注目。",
+    "url": "https://x.com/Alibaba_Qwen/status/2061506641120641494",
+    "source": "X (Alibaba_Qwen)",
+    "category": "Xトレンド",
+    "region": "usa",
+    "kind": "x_topic",
+    "published_at": "2026-06-03T21:01:53.255167+00:00"
+  },
+  {
+    "id": "x:a426142f3ae4b671",
+    "title": "国産生成AI不在の危機",
+    "title_ja": "国産生成AI不在の危機",
+    "summary": "「戦車の前に素っ裸」武田氏投稿が2900いいね超。政策・投資不足を指摘し地政学議論が活発化。",
+    "summary_ja": "「戦車の前に素っ裸」武田氏投稿が2900いいね超。政策・投資不足を指摘し地政学議論が活発化。",
     "url": "https://x.com/tomatoha831/status/2062072290234495254",
     "source": "X (tomatoha831)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:17.515259+00:00"
+    "published_at": "2026-06-03T21:01:15.159020+00:00"
   },
   {
-    "id": "x:924384b010707799",
-    "title": "OpenAI Codex Sites発表",
-    "title_ja": "OpenAI Codex Sites発表",
-    "summary": "ChatGPT内で作成したWebサイトを即公開可能に。Business/Enterprise向け新機能が1,100いいねを集め、開発ハードル低下に期待が高まる。",
-    "summary_ja": "ChatGPT内で作成したWebサイトを即公開可能に。Business/Enterprise向け新機能が1,100いいねを集め、開発ハードル低下に期待が高まる。",
-    "url": "https://x.com/ctgptlb/status/2061885329649602886",
-    "source": "X (ctgptlb)",
-    "category": "Xトレンド",
-    "region": "japan",
-    "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:17.515259+00:00"
-  },
-  {
-    "id": "x:6b956d6e83d41b9a",
-    "title": "AIツールの使い分け術",
-    "title_ja": "AIツールの使い分け術",
-    "summary": "文章はClaude、調べものはPerplexity、画像はFireflyなど、目的別ツール活用法が実務層で活発に共有されている。",
-    "summary_ja": "文章はClaude、調べものはPerplexity、画像はFireflyなど、目的別ツール活用法が実務層で活発に共有されている。",
+    "id": "x:31793f4d19a08c31",
+    "title": "ChatGPT以外も使おう",
+    "title_ja": "ChatGPT以外も使おう",
+    "summary": "Claude・Perplexity・Sunoなど13ツールを使い分ける実践投稿が拡散。単一LLM依存の非効率を指摘。",
+    "summary_ja": "Claude・Perplexity・Sunoなど13ツールを使い分ける実践投稿が拡散。単一LLM依存の非効率を指摘。",
     "url": "https://x.com/renachi_ai/status/2061917388229226657",
     "source": "X (renachi_ai)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:17.515259+00:00"
+    "published_at": "2026-06-03T21:01:15.159020+00:00"
   },
   {
-    "id": "x:f5c7d3572e61c89a",
-    "title": "『ゼロから作るDeep Learning』新刊",
-    "title_ja": "『ゼロから作るDeep Learning』新刊",
-    "summary": "オライリー・ジャパンからLLM編が発売。技術学習者を中心に100いいね超の反響を呼んでいる。",
-    "summary_ja": "オライリー・ジャパンからLLM編が発売。技術学習者を中心に100いいね超の反響を呼んでいる。",
-    "url": "https://x.com/oreilly_japan/status/2061675569050505221",
-    "source": "X (oreilly_japan)",
+    "id": "x:6a02c7080de5be96",
+    "title": "リアル系画像生成ブーム",
+    "title_ja": "リアル系画像生成ブーム",
+    "summary": "Pony・Qwenローカルモデルで自然な日本人女性像を追求。60〜70秒ワークフロー共有が人気。",
+    "summary_ja": "Pony・Qwenローカルモデルで自然な日本人女性像を追求。60〜70秒ワークフロー共有が人気。",
+    "url": "https://x.com/ai_girl_craft/status/2061643972674490540",
+    "source": "X (ai_girl_craft)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-03T21:01:17.515259+00:00"
+    "published_at": "2026-06-03T21:01:15.159020+00:00"
+  },
+  {
+    "id": "x:a1b50ecc1755c5eb",
+    "title": "ChatGPTで80万円稼ぐ",
+    "title_ja": "ChatGPTで80万円稼ぐ",
+    "summary": "通勤中にnote量産で月収80万円超報告。低コストAI副業事例として注目集まる。",
+    "summary_ja": "通勤中にnote量産で月収80万円超報告。低コストAI副業事例として注目集まる。",
+    "url": "https://x.com/L_AIcode/status/2062107019830497627",
+    "source": "X (L_AIcode)",
+    "category": "Xトレンド",
+    "region": "japan",
+    "kind": "x_topic",
+    "published_at": "2026-06-03T21:01:15.159020+00:00"
+  },
+  {
+    "id": "x:d70871dfeb888d9b",
+    "title": "Codex Sites新機能速報",
+    "title_ja": "Codex Sites新機能速報",
+    "summary": "OpenAIがBusiness向けにWebサイト即公開機能を発表。AI開発者コミュニティで話題に。",
+    "summary_ja": "OpenAIがBusiness向けにWebサイト即公開機能を発表。AI開発者コミュニティで話題に。",
+    "url": "https://x.com/ctgptlb/status/2061885329649602886",
+    "source": "X (ctgptlb)",
+    "category": "Xトレンド",
+    "region": "japan",
+    "kind": "x_topic",
+    "published_at": "2026-06-03T21:01:15.159020+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54ZU1kZDZocHEzRUVhUm9GMG9qeGlBQ0lSTGVIV3ROS0Q2bHNGcnFET1RZYldMSWFRV0VOZUd6ekYxX1AxM1dIdUxrRzFOTHFBOC1sNWdLQmlSWGl2WmlqNGhocXh4a3djNnFsRnFrR1YxSGM?oc=5",
@@ -141,7 +154,7 @@
     "summary": "Artificial Intelligence needs a police blotter. Wait, it already has one! bobsullivan.net",
     "published_at": "2026-06-03T20:47:15+00:00",
     "title_ja": "AIにも「警察手帳」が必要？既にあるという指摘",
-    "summary_ja": "AIの不正利用や犯罪事例を記録する「警察手帳」の必要性が指摘されている。すでに存在するデータベースを活用すべきだという主張だ。",
+    "summary_ja": "AIの不正利用や犯罪事例を記録する「警察手帳」の必要性が議論されている。すでに存在するデータベースを活用すべきとの声も。",
     "_translate_source": "Artificial Intelligence needs a police blotter. Wait, it already has one! - bobsullivan.net\nArtificial Intelligence needs a police blotter. Wait, it already has one! bobsullivan.net"
   },
   {
@@ -155,7 +168,7 @@
     "summary": "Utah is experimenting with a new role for AI: renewing prescriptions marketplace.org",
     "published_at": "2026-06-03T20:32:00+00:00",
     "title_ja": "ユタ州、AIで処方箋更新の実験開始",
-    "summary_ja": "ユタ州がAIを活用した処方箋更新の実証実験を始めている。医師の負担軽減と患者アクセスの向上を目指す取り組みだ。",
+    "summary_ja": "ユタ州がAIを活用した処方箋更新システムの実証実験を始めている。患者の利便性向上と医療効率化を目指す取り組みだ。",
     "_translate_source": "Utah is experimenting with a new role for AI: renewing prescriptions - marketplace.org\nUtah is experimenting with a new role for AI: renewing prescriptions marketplace.org"
   },
   {
@@ -168,8 +181,8 @@
     "kind": "rss",
     "summary": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO AOL.com",
     "published_at": "2026-06-03T20:24:08+00:00",
-    "title_ja": "Anthropic上場で恩恵を受ける2銘柄、AI関連株に注目",
-    "summary_ja": "AnthropicのIPOで利益を得られるとされる2つのAI関連株が紹介されている。投資家から注目を集めている。",
+    "title_ja": "Anthropic上場で恩恵を受ける2銘柄",
+    "summary_ja": "AnthropicのIPOで利益を得られるとされるAI関連株2銘柄を紹介。投資家から注目を集めている。",
     "_translate_source": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO - AOL.com\n2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO AOL.com"
   },
   {
@@ -182,8 +195,8 @@
     "kind": "rss",
     "summary": "The topography of artificial intelligence (AI) investment is changing. Investments that were focused.. 매일경제",
     "published_at": "2026-06-03T20:23:50+00:00",
-    "title_ja": "AI投資の地形が変わる、集中から分散へ移行",
-    "summary_ja": "AI投資の焦点が一部企業から多様な分野へ移りつつある。投資戦略の再編が加速している。",
+    "title_ja": "AI投資の地形が変わる、集中から分散へ",
+    "summary_ja": "AI投資の焦点が一部企業から多様な分野へ移行しつつある。投資戦略の再考が求められている。",
     "_translate_source": "The topography of artificial intelligence (AI) investment is changing. Investments that were focused.. - 매일경제\nThe topography of artificial intelligence (AI) investment is changing. Investments that were focused.. 매일경제"
   },
   {
@@ -210,8 +223,8 @@
     "kind": "rss",
     "summary": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO The Motley Fool",
     "published_at": "2026-06-03T20:04:57+00:00",
-    "title_ja": "Anthropic上場で利益期待のAI株2銘柄、Motley Foolが選出",
-    "summary_ja": "The Motley Foolが、AnthropicのIPOで恩恵を受けると見られる2つのAI関連株を紹介している。",
+    "title_ja": "Anthropic上場で恩恵を受ける2銘柄",
+    "summary_ja": "AnthropicのIPOで利益を得られるとされるAI関連株2銘柄を、投資情報サイトが紹介している。",
     "_translate_source": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO - The Motley Fool\n2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO The Motley Fool"
   },
   {
@@ -223,10 +236,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Alphabet Increases Record-Breaking Stock Offering to Feed AI Demand PYMNTS.com",
-    "published_at": "2026-06-03T19:48:54+00:00",
-    "title_ja": "Alphabet、AI需要で過去最大の株式発行を増額",
-    "summary_ja": "AlphabetがAI関連需要に対応するため、過去最大規模の株式発行額をさらに引き上げた。",
-    "_translate_source": "Alphabet Increases Record-Breaking Stock Offering to Feed AI Demand - PYMNTS.com\nAlphabet Increases Record-Breaking Stock Offering to Feed AI Demand PYMNTS.com"
+    "published_at": "2026-06-03T19:48:54+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcGJxNEZmLTl4WmpVR3lTN1B2UnF3RndZNkJKUjNWUlBNb01udHVVb3c4UTVHT0dhMzdIcF9KN1FTc2M0U0hIZjdXa0pDSXJYLVhobUlkOVppSjVOUF9hUkxIeUFIc3lPZXIxcUdZYkZPM3lxMmFCV29vbEhJVlBPMEpUUFR0d1EwVjJlSG94dmFsRnRWV1BUdFZSNGp1ck1tbkZoamVmc1pmM3VSVUpCYno1czRFek9rN2hxa0N6cmVXcEtLcDNMaHhBMjNnMzFORElSQy1HbU9HR0lzV3N4SGhBcGRuZkxzd0J0VA?oc=5",
@@ -239,7 +249,7 @@
     "summary": "Warren Buffett's Successor, Greg Abel, Just Plowed $10 Billion into this Magnificent Artificial Intelligence (AI) Stock The Motley Fool",
     "published_at": "2026-06-03T19:44:48+00:00",
     "title_ja": "バフェット後継者グレッグ・アベル氏、AI銘柄に100億ドル投資",
-    "summary_ja": "ウォーレン・バフェットの後継者グレッグ・アベル氏が、AI関連の有望株に約100億ドルを投じたことが明らかになった。",
+    "summary_ja": "ウォーレン・バフェットの後継者であるグレッグ・アベル氏が、AI関連の有望株に100億ドルを投じた。AIブームを背景に、投資家の注目が集まっている。",
     "_translate_source": "Warren Buffett's Successor, Greg Abel, Just Plowed $10 Billion into this Magnificent Artificial Intelligence (AI) Stock - The Motley Fool\nWarren Buffett's Successor, Greg Abel, Just Plowed $10 Billion into this Magnificent Artificial Intelligence (AI) Stock The Motley Fool"
   },
   {
@@ -252,8 +262,8 @@
     "kind": "rss",
     "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
     "published_at": "2026-06-03T19:38:32+00:00",
-    "title_ja": "Alphabet、GoogleのAI事業に過去最大850億ドルの資金調達",
-    "summary_ja": "AlphabetがGoogleのAI事業向けに850億ドルの株式売出を実施。投資家のAI需要の高まりを示す好材料と受け止められている。",
+    "title_ja": "Alphabet、GoogleのAI事業に過去最大の850億ドル調達",
+    "summary_ja": "AlphabetがGoogleのAI事業向けに850億ドルの株式売出を実施。投資家のAI需要の高まりを示す好材料として注目されている。",
     "_translate_source": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal\nIf Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
   },
   {
@@ -266,8 +276,8 @@
     "kind": "rss",
     "summary": "Why legal teams are still growing in the age of AI Wolters Kluwer",
     "published_at": "2026-06-03T19:30:18+00:00",
-    "title_ja": "AI時代でも法務チームは拡大中",
-    "summary_ja": "AIの進化が進む中でも、企業内の法務チームはむしろ人員を増やしている実態が明らかになった。",
+    "title_ja": "AI時代でも法務チームは拡大中、理由は？",
+    "summary_ja": "AIの進化が進む中でも、法務チームの人員は増加傾向にある。契約や規制対応の複雑化が背景にあると指摘されている。",
     "_translate_source": "Why legal teams are still growing in the age of AI - Wolters Kluwer\nWhy legal teams are still growing in the age of AI Wolters Kluwer"
   },
   {
@@ -281,7 +291,7 @@
     "summary": "The AI Race Is Quietly Becoming a Race for Electricity, Not Chips The Motley Fool",
     "published_at": "2026-06-03T19:30:00+00:00",
     "title_ja": "AI競争の本質は電力争奪戦へ移行",
-    "summary_ja": "AI開発競争は半導体から電力供給の確保へとシフトしつつあり、電力インフラが新たなボトルネックになるとの見方が強まっている。",
+    "summary_ja": "AI開発競争が激化する中、注目が半導体から電力供給へ移っている。データセンターの電力需要が急増しているためだ。",
     "_translate_source": "The AI Race Is Quietly Becoming a Race for Electricity, Not Chips - The Motley Fool\nThe AI Race Is Quietly Becoming a Race for Electricity, Not Chips The Motley Fool"
   },
   {
@@ -294,8 +304,8 @@
     "kind": "rss",
     "summary": "House Advances Legislation to Start AI Public Education Campaign PA House Republican Caucus",
     "published_at": "2026-06-03T19:26:02+00:00",
-    "title_ja": "米ペンシルベニア州下院、AI啓発キャンペーン法案を可決",
-    "summary_ja": "ペンシルベニア州下院は、住民向けのAI教育キャンペーンを開始する法案を可決した。AIリテラシーの向上を目指す。",
+    "title_ja": "米下院、AI市民教育キャンペーン法案を可決",
+    "summary_ja": "米ペンシルベニア州下院が、AIに関する市民教育を推進する法案を可決。AIリテラシーの向上を目指す取り組みが注目されている。",
     "_translate_source": "House Advances Legislation to Start AI Public Education Campaign - PA House Republican Caucus\nHouse Advances Legislation to Start AI Public Education Campaign PA House Republican Caucus"
   },
   {
@@ -307,7 +317,10 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Overwatch Imaging’s ASO Software Integrates AI with Sensors Seapower Magazine",
-    "published_at": "2026-06-03T19:19:28+00:00"
+    "published_at": "2026-06-03T19:19:28+00:00",
+    "title_ja": "Overwatch Imaging、AIとセンサーを統合したASOソフトを発表",
+    "summary_ja": "Overwatch ImagingがAIとセンサーを組み合わせたASOソフトウェアを発表。画像解析の精度向上に期待が集まっている。",
+    "_translate_source": "Overwatch Imaging’s ASO Software Integrates AI with Sensors - Seapower Magazine\nOverwatch Imaging’s ASO Software Integrates AI with Sensors Seapower Magazine"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVkyU3l1WEE4TTlpQjZEcnRaZV96SnB2TGRMY1NLYWxqTFBnN29xa1BxS0EydzFQLXNleEFfaWVodlFTbFRLV0xUbG9VRVljVzN4Q1hiWXVMVHpYNXR5elllcER3aXp6aHRGWjlpWmI4aUtUUkJpVzVfUFAxSHdNSkhOeGJ5N2ZUVVVMQ2J6YmlVTFQwSDVWekhuYXJMQ3VTM2tLWGdhcnFhV3dKWGRlTlUwVTU3NnJyem1WT25RY1Q2VzE1SkdyWHhkUWkzazR1RldyMw?oc=5",
@@ -320,7 +333,7 @@
     "summary": "Small Molecules to Big Partnership: Incyte, Genesis Expand AI Collaboration to $1B+ Genetic Engineering and Biotechnology News",
     "published_at": "2026-06-03T19:07:50+00:00",
     "title_ja": "IncyteとGenesis、AI創薬で10億ドル超の提携拡大",
-    "summary_ja": "IncyteとGenesisは、AIを活用した低分子創薬の共同研究を拡大し、総額10億ドル超の契約に合意した。",
+    "summary_ja": "IncyteとGenesisがAIを活用した低分子創薬で提携を拡大。総額10億ドル超の大型契約で注目を集めている。",
     "_translate_source": "Small Molecules to Big Partnership: Incyte, Genesis Expand AI Collaboration to $1B+ - Genetic Engineering and Biotechnology News\nSmall Molecules to Big Partnership: Incyte, Genesis Expand AI Collaboration to $1B+ Genetic Engineering and Biotechnology News"
   },
   {
@@ -333,8 +346,8 @@
     "kind": "rss",
     "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
     "published_at": "2026-06-03T19:07:42+00:00",
-    "title_ja": "Google、新AIツール「Dreambeans」で日常をアニメ化",
-    "summary_ja": "Googleが発表した「Dreambeans」は、Googleアカウントの個人データを基にAI生成のアニメ風ストーリーを作成するツールだ。",
+    "title_ja": "Google、新AIツール「Dreambeans」で人生をアニメ化",
+    "summary_ja": "Googleが新AIツール「Dreambeans」を発表。Googleアカウントの個人データを基に、人生をアニメ風のストーリーとして生成する。",
     "_translate_source": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon\nDreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
   },
   {
@@ -348,7 +361,7 @@
     "summary": "AI speeds up software development, also adding risk DC Velocity",
     "published_at": "2026-06-03T19:03:51+00:00",
     "title_ja": "AIが開発を加速させる一方、リスクも増大",
-    "summary_ja": "AIツールの導入でソフトウェア開発が高速化する一方、セキュリティや品質面での新たなリスクも指摘されている。",
+    "summary_ja": "AIツールの導入でソフトウェア開発が高速化する一方、セキュリティや品質面での新たなリスクが指摘されている。",
     "_translate_source": "AI speeds up software development, also adding risk - DC Velocity\nAI speeds up software development, also adding risk DC Velocity"
   },
   {
@@ -361,8 +374,8 @@
     "kind": "rss",
     "summary": "MasterClass CEO on AI and Reskilling StartupHub.ai",
     "published_at": "2026-06-03T19:02:44+00:00",
-    "title_ja": "MasterClass CEO、AIとリスキリングの重要性を語る",
-    "summary_ja": "MasterClassのCEOが、AI時代に求められるスキル再教育の必要性と企業の対応策について語った。",
+    "title_ja": "MasterClass CEO、AI時代のリスキリングを語る",
+    "summary_ja": "MasterClassのCEOが、AIの台頭に伴う人材再教育の重要性と企業が取るべき対応策について語った。",
     "_translate_source": "MasterClass CEO on AI and Reskilling - StartupHub.ai\nMasterClass CEO on AI and Reskilling StartupHub.ai"
   },
   {
@@ -389,7 +402,7 @@
     "kind": "rss",
     "summary": "Meta enters enterprise AI race with new business agent Reuters",
     "published_at": "2026-06-03T18:19:33+00:00",
-    "title_ja": "Meta、企業向けAIエージェントを発表し市場参入",
+    "title_ja": "Meta、企業向けAIエージェントで市場参入",
     "summary_ja": "Metaが業務効率化を目的とした新しいAIエージェントを発表し、企業向けAI市場への本格参入を表明した。",
     "_translate_source": "Meta enters enterprise AI race with new business agent - Reuters\nMeta enters enterprise AI race with new business agent Reuters"
   },
@@ -403,8 +416,8 @@
     "kind": "rss",
     "summary": "The risks of inviting AI into the heart of our economy, society and governance | Letters The Guardian",
     "published_at": "2026-06-03T18:18:00+00:00",
-    "title_ja": "AIを経済・社会・統治の中核に招くリスクを指摘",
-    "summary_ja": "AIを社会・経済・政治の中心に据えることの危険性について、専門家らが警鐘を鳴らしている。",
+    "title_ja": "AIを経済・社会・統治の中核に招くリスク",
+    "summary_ja": "AIを社会の中心に据えることの危険性について、ガーディアン紙に寄せられた複数の識者からの警告が掲載された。",
     "_translate_source": "The risks of inviting AI into the heart of our economy, society and governance | Letters - The Guardian\nThe risks of inviting AI into the heart of our economy, society and governance | Letters The Guardian"
   },
   {
@@ -418,7 +431,7 @@
     "summary": "Noteworthy | Promoting Advanced Artificial Intelligence Innovation and Security Center for a New American Security | CNAS",
     "published_at": "2026-06-03T18:03:52+00:00",
     "title_ja": "CNAS、先進AIのイノベーションと安全保障を提言",
-    "summary_ja": "CNASが先進AIの技術革新と安全保障の両立に向けた政策提言を発表した。",
+    "summary_ja": "CNASがAI技術の急速な進展に対し、イノベーションを促進しつつ安全保障を確保するための政策提言を発表した。",
     "_translate_source": "Noteworthy | Promoting Advanced Artificial Intelligence Innovation and Security - Center for a New American Security | CNAS\nNoteworthy | Promoting Advanced Artificial Intelligence Innovation and Security Center for a New American Security | CNAS"
   },
   {
@@ -431,8 +444,8 @@
     "kind": "rss",
     "summary": "OpenAI diverges from White House on AI safety rules Politico",
     "published_at": "2026-06-03T17:59:07+00:00",
-    "title_ja": "OpenAI、AI安全規制で米政府と見解に相違",
-    "summary_ja": "OpenAIがAI安全に関する規制方針で、バイデン政権と異なる立場を示したことが明らかになった。",
+    "title_ja": "OpenAI、AI安全規制でホワイトハウスと見解相違",
+    "summary_ja": "OpenAIがAI安全に関する規制方針でバイデン政権と異なる立場を示し、業界内で注目を集めている。",
     "_translate_source": "OpenAI diverges from White House on AI safety rules - Politico\nOpenAI diverges from White House on AI safety rules Politico"
   },
   {
@@ -445,8 +458,8 @@
     "kind": "rss",
     "summary": "Roberts: Artificial intelligence (AI) or artificial stupidity (AS) Shaw Local",
     "published_at": "2026-06-03T17:54:03+00:00",
-    "title_ja": "AIか人工的な愚かさか——専門家が警鐘",
-    "summary_ja": "AIの急速な普及が、かえって人間の判断力や倫理観を損なう可能性があると専門家が指摘している。",
+    "title_ja": "AIか人工的な愚かさか？　識者が警鐘",
+    "summary_ja": "AIの過信が人間の判断力を低下させ、結果として「人工的な愚かさ」を生む可能性を指摘する論考が掲載された。",
     "_translate_source": "Roberts: Artificial intelligence (AI) or artificial stupidity (AS) - Shaw Local\nRoberts: Artificial intelligence (AI) or artificial stupidity (AS) Shaw Local"
   },
   {
@@ -460,7 +473,7 @@
     "summary": "AI is not artificial intelligence, it is MACHINE LEARNING. Daily Kos",
     "published_at": "2026-06-03T17:45:51+00:00",
     "title_ja": "AIは人工知能ではなく機械学習だ",
-    "summary_ja": "Daily Kosが、AIの本質は人工知能ではなく機械学習であると指摘。技術の誤解を解く議論が注目されている。",
+    "summary_ja": "Daily Kosが、AIの正体は人工知能ではなく機械学習であると指摘。過度な期待を戒める論考として注目を集めている。",
     "_translate_source": "AI is not artificial intelligence, it is MACHINE LEARNING. - Daily Kos\nAI is not artificial intelligence, it is MACHINE LEARNING. Daily Kos"
   },
   {
@@ -473,8 +486,8 @@
     "kind": "rss",
     "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even …",
     "published_at": "2026-06-03T17:45:35+00:00",
-    "title_ja": "AIの進化が空虚な約束を露呈",
-    "summary_ja": "Googleの新AIエージェントGeminiを検証したところ、個人情報まで把握する精度に驚きと懸念の声が上がっている。",
+    "title_ja": "AIが進化するほど「空約束」が露呈",
+    "summary_ja": "Googleの新AIエージェントGeminiを検証したところ、個人情報まで把握する精度に驚きと懸念が広がっている。",
     "_translate_source": "As AI gets better, it reveals an empty promise\nThis week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even …"
   },
   {
@@ -488,7 +501,7 @@
     "summary": "Alphabet Is Raising $85 Billion for AI. Meta and Other Tech Giants Could Follow. Barron's",
     "published_at": "2026-06-03T17:40:00+00:00",
     "title_ja": "Alphabet、AI向けに850億ドル調達へ",
-    "summary_ja": "AlphabetがAI開発資金として850億ドルを調達する計画。Metaなど他テック大手も追随する可能性がある。",
+    "summary_ja": "AlphabetがAI開発資金として850億ドル規模の資金調達を計画。Metaなど他社も追随する可能性がある。",
     "_translate_source": "Alphabet Is Raising $85 Billion for AI. Meta and Other Tech Giants Could Follow. - Barron's\nAlphabet Is Raising $85 Billion for AI. Meta and Other Tech Giants Could Follow. Barron's"
   },
   {
@@ -501,8 +514,8 @@
     "kind": "rss",
     "summary": "New Executive Order Addressing Early Government Access to Frontier AI Models JD Supra",
     "published_at": "2026-06-03T17:24:11+00:00",
-    "title_ja": "最先端AIモデルへの政府早期アクセスを規制",
-    "summary_ja": "米政府が最先端AIモデルへの早期アクセスを制限する大統領令を新たに発表。安全保障上の懸念に対応する。",
+    "title_ja": "最先端AIモデルへの政府早期アクセスを規制する大統領令",
+    "summary_ja": "米政府が最先端AIモデルへの早期アクセスを制限する大統領令を新たに発令。セキュリティとイノベーションのバランスが焦点だ。",
     "_translate_source": "New Executive Order Addressing Early Government Access to Frontier AI Models - JD Supra\nNew Executive Order Addressing Early Government Access to Frontier AI Models JD Supra"
   },
   {
@@ -515,8 +528,8 @@
     "kind": "rss",
     "summary": "Lexington, Ky., Regional AI Policy Gets Specific on Staff Use govtech.com",
     "published_at": "2026-06-03T17:23:04+00:00",
-    "title_ja": "レキシントン市、職員のAI利用指針を策定",
-    "summary_ja": "ケンタッキー州レキシントン市が地域AI政策を具体化。職員によるAIツールの使用ルールを明確に定めた。",
+    "title_ja": "ケンタッキー州レキシントン市、職員AI利用指針を具体化",
+    "summary_ja": "同市がAIツールの職員利用に関する詳細なポリシーを策定。業務効率化とリスク管理の両立を目指す。",
     "_translate_source": "Lexington, Ky., Regional AI Policy Gets Specific on Staff Use - govtech.com\nLexington, Ky., Regional AI Policy Gets Specific on Staff Use govtech.com"
   },
   {
@@ -528,10 +541,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Amid the Artificial Intelligence (AI) Bonanza, Investors Might be Overlooking a Big Opportunity to Buy Netflix Stock The Motley Fool",
-    "published_at": "2026-06-03T17:11:00+00:00",
-    "title_ja": "AIブームの陰でNetflix株に投資妙味",
-    "summary_ja": "AI関連株への熱狂でNetflix株が割安感を増していると指摘。長期投資家にとって好機との見方が出ている。",
-    "_translate_source": "Amid the Artificial Intelligence (AI) Bonanza, Investors Might be Overlooking a Big Opportunity to Buy Netflix Stock - The Motley Fool\nAmid the Artificial Intelligence (AI) Bonanza, Investors Might be Overlooking a Big Opportunity to Buy Netflix Stock The Motley Fool"
+    "published_at": "2026-06-03T17:11:00+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORi12ZTlPcFI0ZE1UUnNHdElVQkppNVZaMWZEblRnbGQ5d25RdVFxXzhiTjR1d2hBVHUwNkUzaHhialh3REp0NU5DbnRYbWlIdFljZjM0VFFNalJJdUdfWjg5NnlvRm5ReWtzcDh3OHVSTEVVdG5sX0p2YjkyUmtQZm82c0hxcFNVZzdiRkVvcnlfell3aDNEWQ?oc=5",
@@ -543,8 +553,8 @@
     "kind": "rss",
     "summary": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings The Motley Fool",
     "published_at": "2026-06-03T17:10:00+00:00",
-    "title_ja": "AIチップ株、Micron決算後に急騰予測",
-    "summary_ja": "Micronの決算をきっかけに、特定AIチップ関連株が急騰するとの予測が浮上。投資家の注目を集めている。",
+    "title_ja": "Micron決算後に急騰？このAIチップ株に注目",
+    "summary_ja": "Micronの決算をきっかけに、特定AIチップ関連株が急騰するとの予測をThe Motley Foolが提示している。",
     "_translate_source": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings - The Motley Fool\nPrediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings The Motley Fool"
   },
   {
@@ -557,8 +567,8 @@
     "kind": "rss",
     "summary": "Ray Dalio: AI Bubbles Will Eventually Burst StartupHub.ai",
     "published_at": "2026-06-03T17:08:29+00:00",
-    "title_ja": "レイ・ダリオ氏、AIバブルは必ず弾ける",
-    "summary_ja": "著名投資家レイ・ダリオ氏が、AI関連の投機熱は過熱しており、いずれバブルが崩壊すると警鐘を鳴らした。",
+    "title_ja": "レイ・ダリオ「AIバブルは必ず弾ける」",
+    "summary_ja": "著名投資家レイ・ダリオ氏が、AI関連の過熱相場は最終的に崩壊すると警鐘を鳴らしている。",
     "_translate_source": "Ray Dalio: AI Bubbles Will Eventually Burst - StartupHub.ai\nRay Dalio: AI Bubbles Will Eventually Burst StartupHub.ai"
   },
   {
@@ -572,7 +582,7 @@
     "summary": "Designing Generative UI for MCP Apps StartupHub.ai",
     "published_at": "2026-06-03T17:03:04+00:00",
     "title_ja": "MCPアプリ向け生成UIの設計",
-    "summary_ja": "StartupHub.aiがMCPアプリ向け生成UIの設計手法を解説。ユーザー体験を向上させるUIパターンと実装のポイントを紹介している。",
+    "summary_ja": "MCPアプリで生成AIを活用したUI設計手法を解説。ユーザー体験を向上させる実践的なアプローチを紹介している。",
     "_translate_source": "Designing Generative UI for MCP Apps - StartupHub.ai\nDesigning Generative UI for MCP Apps StartupHub.ai"
   },
   {
@@ -585,8 +595,8 @@
     "kind": "rss",
     "summary": "OpenAI's AI Governance Plan StartupHub.ai",
     "published_at": "2026-06-03T17:02:47+00:00",
-    "title_ja": "OpenAIがAIガバナンス計画を発表",
-    "summary_ja": "OpenAIがAIの安全性と倫理的利用を確保するためのガバナンス計画を公開。透明性向上とリスク管理の枠組みを提示している。",
+    "title_ja": "OpenAI、AIガバナンス計画を発表",
+    "summary_ja": "OpenAIがAIの安全な活用に向けたガバナンス計画を公開。透明性と責任ある運用を重視した内容となっている。",
     "_translate_source": "OpenAI's AI Governance Plan - StartupHub.ai\nOpenAI's AI Governance Plan StartupHub.ai"
   },
   {
@@ -600,7 +610,7 @@
     "summary": "Meet your new partner: How AI agents are transforming EMS operations EMS1",
     "published_at": "2026-06-03T16:57:31+00:00",
     "title_ja": "AIエージェントがEMS業務を変革",
-    "summary_ja": "EMS1がAIエージェントの導入により救急医療サービス（EMS）の業務効率と患者対応がどのように向上するかを解説している。",
+    "summary_ja": "AIエージェントが救急医療サービス（EMS）の業務効率を向上。現場での活用事例と今後の展望を紹介している。",
     "_translate_source": "Meet your new partner: How AI agents are transforming EMS operations - EMS1\nMeet your new partner: How AI agents are transforming EMS operations EMS1"
   },
   {
@@ -613,8 +623,8 @@
     "kind": "rss",
     "summary": "Protecting SaaS AI Agents with Cisco AI Defense and AppOmni Cisco Blogs",
     "published_at": "2026-06-03T16:54:19+00:00",
-    "title_ja": "CiscoとAppOmniがSaaS AIエージェントを保護",
-    "summary_ja": "Cisco AI DefenseとAppOmniの連携により、SaaS上で動作するAIエージェントのセキュリティを強化する新ソリューションが発表された。",
+    "title_ja": "Cisco、SaaS AIエージェントを防御",
+    "summary_ja": "Cisco AI DefenseとAppOmniを活用し、SaaS上のAIエージェントを保護する新手法を発表した。",
     "_translate_source": "Protecting SaaS AI Agents with Cisco AI Defense and AppOmni - Cisco Blogs\nProtecting SaaS AI Agents with Cisco AI Defense and AppOmni Cisco Blogs"
   },
   {
@@ -627,8 +637,8 @@
     "kind": "rss",
     "summary": "AI Agents Need Built-In Security. Here Is How Cisco Does It Cisco Blogs",
     "published_at": "2026-06-03T16:54:17+00:00",
-    "title_ja": "AIエージェントに必要なセキュリティ対策",
-    "summary_ja": "CiscoがAIエージェントに組み込むべきセキュリティ機能とその実装方法を解説。脅威検知と防御の最新アプローチを紹介している。",
+    "title_ja": "AIエージェントに必要なセキュリティ",
+    "summary_ja": "CiscoがAIエージェント向けの組み込みセキュリティ手法を解説。脅威対策の具体策を紹介している。",
     "_translate_source": "AI Agents Need Built-In Security. Here Is How Cisco Does It - Cisco Blogs\nAI Agents Need Built-In Security. Here Is How Cisco Does It Cisco Blogs"
   },
   {
@@ -641,8 +651,8 @@
     "kind": "rss",
     "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus…",
     "published_at": "2026-06-03T16:51:38+00:00",
-    "title_ja": "仮想発電所がデータセンターの電力需要を支える",
-    "summary_ja": "Googleが米最大の電力グリッドで仮想発電所（VPP）と契約。電力使用を調整するユーザー参加型モデルでデータセンターの電力供給を安定させる。",
+    "title_ja": "仮想発電所がデータセンターを支える",
+    "summary_ja": "Googleが米最大の電力グリッドで仮想発電所（VPP）契約を締結。電力需要の柔軟調整によりデータセンターの電力供給を支援する。",
     "_translate_source": "How virtual power plants could provide energy for data centers\nWould you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus…"
   },
   {
@@ -654,10 +664,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Amid the Artificial Intelligence (AI) Bonanza, Investors Might be Overlooking a Big Opportunity to Buy Netflix Stock The Globe and Mail",
-    "published_at": "2026-06-03T16:46:40+00:00",
-    "title_ja": "AIブームの陰でNetflix株に投資妙味",
-    "summary_ja": "AI関連投資が活発化する中、The Globe and MailはNetflix株が割安で投資機会となっている可能性を指摘している。",
-    "_translate_source": "Amid the Artificial Intelligence (AI) Bonanza, Investors Might be Overlooking a Big Opportunity to Buy Netflix Stock - The Globe and Mail\nAmid the Artificial Intelligence (AI) Bonanza, Investors Might be Overlooking a Big Opportunity to Buy Netflix Stock The Globe and Mail"
+    "published_at": "2026-06-03T16:46:40+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzA3blNwQXF5X3hFOGd3WlZuUXBKWnN0MWItcS1GUk1GVU1waG9qaTgwLV9vRi1jZUh1RVJXVWRhcUt3UkhNbGxfMEJNLUVvWWpGS282bzFXaDZkRXQ4T1lwSHBwV3VESHhQMjNKNEtUUWNPS0NPN3VMVF9uUW9hZ2p1cW1KWjJadEhBQUk3dGdSb1lyMmxFZmVnMzlWZmJtZzZwWW1BQWMxLXc?oc=5",
@@ -680,8 +687,8 @@
     "kind": "rss",
     "summary": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings The Globe and Mail",
     "published_at": "2026-06-03T16:34:37+00:00",
-    "title_ja": "マイクロン決算後に急騰？このAIチップ株に注目",
-    "summary_ja": "マイクロンの決算をきっかけに、AI関連チップ株の一つが大きく上昇する可能性があると予測されています。",
+    "title_ja": "マイクロン決算後に急騰？　AIチップ株の注目銘柄を予測",
+    "summary_ja": "マイクロンの決算をきっかけに、AI関連チップ株が急騰する可能性を指摘。投資家が注目する1銘柄を紹介する。",
     "_translate_source": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings - The Globe and Mail\nPrediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings The Globe and Mail"
   },
   {
@@ -694,8 +701,8 @@
     "kind": "rss",
     "summary": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings Yahoo Finance",
     "published_at": "2026-06-03T16:30:00+00:00",
-    "title_ja": "マイクロン決算後に急騰？このAIチップ株に注目",
-    "summary_ja": "マイクロンの決算をきっかけに、AI関連チップ株の一つが大きく上昇する可能性があると予測されています。",
+    "title_ja": "マイクロン決算後に急騰？　AIチップ株の注目銘柄を予測",
+    "summary_ja": "マイクロンの決算をきっかけに、AI関連チップ株が急騰する可能性を指摘。投資家が注目する1銘柄を紹介する。",
     "_translate_source": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings - Yahoo Finance\nPrediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Micron's Earnings Yahoo Finance"
   },
   {
@@ -708,8 +715,8 @@
     "kind": "rss",
     "summary": "Not Nvidia. Not Micron. This Underrated Artificial Intelligence (AI) Infrastructure Stock Will Be the Biggest Winner of 2026 The Motley Fool",
     "published_at": "2026-06-03T16:23:00+00:00",
-    "title_ja": "NVIDIAでもマイクロンでもない、2026年の勝者はこのAIインフラ株",
-    "summary_ja": "NVIDIAやマイクロン以外で、2026年に最も大きく成長すると期待されるAIインフラ関連の注目株を紹介します。",
+    "title_ja": "NVIDIAでもマイクロンでもない　2026年の勝者はこのAIインフラ株",
+    "summary_ja": "NVIDIAやマイクロンに注目が集まる中、2026年に最大の勝者になると予想される、過小評価されているAIインフラ関連株を紹介。",
     "_translate_source": "Not Nvidia. Not Micron. This Underrated Artificial Intelligence (AI) Infrastructure Stock Will Be the Biggest Winner of 2026 - The Motley Fool\nNot Nvidia. Not Micron. This Underrated Artificial Intelligence (AI) Infrastructure Stock Will Be the Biggest Winner of 2026 The Motley Fool"
   },
   {
@@ -722,8 +729,8 @@
     "kind": "rss",
     "summary": "Not Nvidia. Not Micron. This Underrated Artificial Intelligence (AI) Infrastructure Stock Will Be the Biggest Winner of 2026 The Globe and Mail",
     "published_at": "2026-06-03T16:15:37+00:00",
-    "title_ja": "NVIDIAでもマイクロンでもない、2026年の勝者はこのAIインフラ株",
-    "summary_ja": "NVIDIAやマイクロン以外で、2026年に最も大きく成長すると期待されるAIインフラ関連の注目株を紹介します。",
+    "title_ja": "NVIDIAでもマイクロンでもない　2026年の勝者はこのAIインフラ株",
+    "summary_ja": "NVIDIAやマイクロンに注目が集まる中、2026年に最大の勝者になると予想される、過小評価されているAIインフラ関連株を紹介。",
     "_translate_source": "Not Nvidia. Not Micron. This Underrated Artificial Intelligence (AI) Infrastructure Stock Will Be the Biggest Winner of 2026 - The Globe and Mail\nNot Nvidia. Not Micron. This Underrated Artificial Intelligence (AI) Infrastructure Stock Will Be the Biggest Winner of 2026 The Globe and Mail"
   },
   {
@@ -736,8 +743,8 @@
     "kind": "rss",
     "summary": "AI creators, tech leaders gather in San Francisco for Upscale Conf The Korea Herald",
     "published_at": "2026-06-03T16:08:26+00:00",
-    "title_ja": "AIクリエイターとテックリーダーがサンフランシスコに集結",
-    "summary_ja": "Upscale Confがサンフランシスコで開催され、AI分野のクリエイターやテック業界のリーダーが一堂に会します。",
+    "title_ja": "AIクリエイターとテックリーダーが集結　Upscale Confがサンフランシスコで開催",
+    "summary_ja": "AIクリエイターやテック業界のリーダーがサンフランシスコに集まり、Upscale Confが開催された。",
     "_translate_source": "AI creators, tech leaders gather in San Francisco for Upscale Conf - The Korea Herald\nAI creators, tech leaders gather in San Francisco for Upscale Conf The Korea Herald"
   },
   {
@@ -750,8 +757,8 @@
     "kind": "rss",
     "summary": "AI for ImpaCT: UConn Launches University-Wide Initiative to Drive AI Innovation Across Connecticut UConn Today",
     "published_at": "2026-06-03T16:08:09+00:00",
-    "title_ja": "UConn、全米初の大学規模AIイノベーション推進プログラムを開始",
-    "summary_ja": "コネチカット大学が州全体でAIイノベーションを推進する「AI for ImpaCT」プログラムを立ち上げました。",
+    "title_ja": "UConnが全学的なAI推進イニシアチブ「AI for ImpaCT」を発表",
+    "summary_ja": "コネチカット大学が州全体のAIイノベーションを推進する大学横断イニシアチブ「AI for ImpaCT」を立ち上げた。",
     "_translate_source": "AI for ImpaCT: UConn Launches University-Wide Initiative to Drive AI Innovation Across Connecticut - UConn Today\nAI for ImpaCT: UConn Launches University-Wide Initiative to Drive AI Innovation Across Connecticut UConn Today"
   },
   {
@@ -765,7 +772,7 @@
     "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-lo…",
     "published_at": "2026-06-03T16:07:31+00:00",
     "title_ja": "Amazon検索バー、AI生成の商品画像を表示へ",
-    "summary_ja": "Amazonの検索機能が更新され、ユーザーの説明に基づいてAIが生成した服やインテリアの画像が表示されるようになります。",
+    "summary_ja": "Amazonが検索バーでAI生成の服やインテリア画像を表示する新機能を追加。欲しい商品のイメージを入力すると、似た商品を提案する。",
     "_translate_source": "Amazon’s search bar will invent AI-generated products you can’t buy\nAmazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-lo…"
   },
   {
@@ -779,7 +786,7 @@
     "summary": "The Environmental Cost of Artificial Intelligence: Carbon, Water, and Land Footprints UNU | United Nations University",
     "published_at": "2026-06-03T16:05:14+00:00",
     "title_ja": "AIの環境負荷：炭素・水・土地への影響を国連大学が分析",
-    "summary_ja": "国連大学がAIの利用拡大に伴う炭素排出や水・土地利用の環境負荷について最新の分析結果を公表しました。",
+    "summary_ja": "国連大学がAIの環境負荷を調査。炭素排出、水消費、土地利用の観点から持続可能性への課題を指摘している。",
     "_translate_source": "The Environmental Cost of Artificial Intelligence: Carbon, Water, and Land Footprints - UNU | United Nations University\nThe Environmental Cost of Artificial Intelligence: Carbon, Water, and Land Footprints UNU | United Nations University"
   },
   {
@@ -793,7 +800,7 @@
     "summary": "No, Artificial Intelligence Is Not Conscious The Atlantic",
     "published_at": "2026-06-03T16:03:00+00:00",
     "title_ja": "AIに意識はない、専門家が指摘",
-    "summary_ja": "人工知能は意識を持たない。専門家がその理由を解説し、AIの限界を改めて示した。",
+    "summary_ja": "AIは意識を持たない。人間のような主観的体験はなく、単なるパターン認識に過ぎないと専門家が解説する。",
     "_translate_source": "No, Artificial Intelligence Is Not Conscious - The Atlantic\nNo, Artificial Intelligence Is Not Conscious The Atlantic"
   },
   {
@@ -807,7 +814,7 @@
     "summary": "Artificial intelligence is better tutor than law profs, new study finds ABA Journal",
     "published_at": "2026-06-03T15:58:00+00:00",
     "title_ja": "AI、法学部教授より優れた家庭教師に",
-    "summary_ja": "AIが法学の家庭教師として教授を上回る成果を示した。新研究で学習効果が確認された。",
+    "summary_ja": "AIが法学の家庭教師として教授を上回る成果を示した。新研究で学習効果と理解度の向上が確認された。",
     "_translate_source": "Artificial intelligence is better tutor than law profs, new study finds - ABA Journal\nArtificial intelligence is better tutor than law profs, new study finds ABA Journal"
   },
   {
@@ -820,8 +827,8 @@
     "kind": "rss",
     "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
     "published_at": "2026-06-03T15:50:26+00:00",
-    "title_ja": "Amazon、検索結果にAI生成画像を表示へ",
-    "summary_ja": "AmazonがAI生成の商品画像を検索結果に表示する新機能を導入。ユーザーの利便性向上を目指す。",
+    "title_ja": "Amazon、検索結果にAI生成画像を表示",
+    "summary_ja": "AmazonがAI生成の商品画像を検索結果に表示する新機能を導入。ユーザーのクエリに合ったビジュアルで商品探索を支援する。",
     "_translate_source": "Amazon will show AI product images when you search for some reason\nAmazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
   },
   {
@@ -835,7 +842,7 @@
     "summary": "Real-Life AI Part I: 6 Use Cases That Reclaimed Hours of Wasted Time Manufacturing.net",
     "published_at": "2026-06-03T15:47:01+00:00",
     "title_ja": "製造業でAIが業務時間を大幅削減",
-    "summary_ja": "製造業の現場でAIを活用し、無駄な時間を削減した6つの事例を紹介。業務効率化のヒントに。",
+    "summary_ja": "製造業の6つのユースケースでAIが無駄な時間を削減。現場の効率向上と生産性改善に寄与している事例を紹介。",
     "_translate_source": "Real-Life AI Part I: 6 Use Cases That Reclaimed Hours of Wasted Time - Manufacturing.net\nReal-Life AI Part I: 6 Use Cases That Reclaimed Hours of Wasted Time Manufacturing.net"
   },
   {
@@ -848,8 +855,8 @@
     "kind": "rss",
     "summary": "Saif Khairat to serve as chief AI officer The University of North Carolina at Chapel Hill",
     "published_at": "2026-06-03T15:45:00+00:00",
-    "title_ja": "UNC、初代チーフAIオフィサーを任命",
-    "summary_ja": "ノースカロライナ大学チャペルヒル校がSaif Khairat氏をチーフAIオフィサーに任命。AI戦略を推進する。",
+    "title_ja": "UNCチャペルヒル校、初代AI責任者にKhairat氏",
+    "summary_ja": "ノースカロライナ大学チャペルヒル校がSaif Khairat氏を初代チーフAIオフィサーに任命。AI戦略の推進を担う。",
     "_translate_source": "Saif Khairat to serve as chief AI officer - The University of North Carolina at Chapel Hill\nSaif Khairat to serve as chief AI officer The University of North Carolina at Chapel Hill"
   },
   {
@@ -862,8 +869,8 @@
     "kind": "rss",
     "summary": "Ramp Courts $150 Billion Accounting Sector With New AI System PYMNTS.com",
     "published_at": "2026-06-03T15:40:18+00:00",
-    "title_ja": "Ramp、会計分野向け新AIシステムを発表",
-    "summary_ja": "Rampが1500億ドル規模の会計市場向けに新AIシステムを投入。業務の自動化を推進する。",
+    "title_ja": "Ramp、会計業界向け新AIシステムを発表",
+    "summary_ja": "Rampが1500億ドル規模の会計市場向けに新AIシステムを投入。経理業務の自動化と効率化を目指す。",
     "_translate_source": "Ramp Courts $150 Billion Accounting Sector With New AI System - PYMNTS.com\nRamp Courts $150 Billion Accounting Sector With New AI System PYMNTS.com"
   },
   {
@@ -877,7 +884,7 @@
     "summary": "AI music startup Suno raises funding at $5.4 billion valuation Reuters",
     "published_at": "2026-06-03T15:36:42+00:00",
     "title_ja": "AI音楽スタートアップSuno、54億ドル評価で資金調達",
-    "summary_ja": "AI音楽生成のSunoが54億ドルの企業価値で資金調達。急成長を続けるAIスタートアップとして注目。",
+    "summary_ja": "AI音楽生成のSunoが54億ドルの企業価値で新たに資金を調達。生成AI分野での急成長が続いている。",
     "_translate_source": "AI music startup Suno raises funding at $5.4 billion valuation - Reuters\nAI music startup Suno raises funding at $5.4 billion valuation Reuters"
   },
   {
@@ -891,7 +898,7 @@
     "summary": "Interview: WSP experts on how AI is being used to save engineers’ time New Civil Engineer",
     "published_at": "2026-06-03T15:30:30+00:00",
     "title_ja": "WSP専門家、AIで技術者の時間を節約",
-    "summary_ja": "WSPの専門家がAI活用により技術者の業務時間を削減する方法を解説。生産性向上の事例を紹介。",
+    "summary_ja": "WSPの専門家がAI活用により技術者の業務時間を削減する方法を解説。設計・解析作業の効率化事例を紹介。",
     "_translate_source": "Interview: WSP experts on how AI is being used to save engineers’ time - New Civil Engineer\nInterview: WSP experts on how AI is being used to save engineers’ time New Civil Engineer"
   },
   {
@@ -904,8 +911,8 @@
     "kind": "rss",
     "summary": "Building AI Services Companies: A Playbook StartupHub.ai",
     "published_at": "2026-06-03T15:08:42+00:00",
-    "title_ja": "AIサービス企業の構築法：プレイブック公開",
-    "summary_ja": "StartupHub.aiが、AIを活用したサービス企業の立ち上げと成長戦略を体系的にまとめたプレイブックを公開した。",
+    "title_ja": "AIサービス企業の構築：実践ガイド",
+    "summary_ja": "AIを活用したサービス企業の立ち上げ方と成長戦略を解説したプレイブックを、StartupHub.aiが公開した。",
     "_translate_source": "Building AI Services Companies: A Playbook - StartupHub.ai\nBuilding AI Services Companies: A Playbook StartupHub.ai"
   },
   {
@@ -918,8 +925,8 @@
     "kind": "rss",
     "summary": "Better Markets Launches People-Centered AI Agenda to Ensure Artificial Intelligence Benefits All Americans Better Markets",
     "published_at": "2026-06-03T15:08:31+00:00",
-    "title_ja": "Better Markets、AI活用で全米市民に恩恵を",
-    "summary_ja": "Better Marketsが「人中心のAIアジェンダ」を発表。人工知能の恩恵をすべてのアメリカ人に届けるための政策提言を行った。",
+    "title_ja": "米消費者団体、AI活用の新指針を発表",
+    "summary_ja": "Better Marketsが「人中心のAIアジェンダ」を発表。AIの恩恵を全米市民に届けるための政策提言を行った。",
     "_translate_source": "Better Markets Launches People-Centered AI Agenda to Ensure Artificial Intelligence Benefits All Americans - Better Markets\nBetter Markets Launches People-Centered AI Agenda to Ensure Artificial Intelligence Benefits All Americans Better Markets"
   },
   {
@@ -933,7 +940,7 @@
     "summary": "Where does publishing’s AI problem leave authors and readers? The Virginian-Pilot",
     "published_at": "2026-06-03T15:05:30+00:00",
     "title_ja": "出版業界のAI問題、作家と読者への影響は",
-    "summary_ja": "出版業界でAIの活用が進む中、作家の権利や読者の体験にどのような影響が出るのか、The Virginian-Pilotが現状を分析した。",
+    "summary_ja": "生成AIの台頭で揺れる出版業界。著作権や収益配分をめぐり、作家と読者が直面する課題をThe Virginian-Pilotが考察する。",
     "_translate_source": "Where does publishing’s AI problem leave authors and readers? - The Virginian-Pilot\nWhere does publishing’s AI problem leave authors and readers? The Virginian-Pilot"
   },
   {
@@ -946,8 +953,8 @@
     "kind": "rss",
     "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
     "published_at": "2026-06-03T15:00:00+00:00",
-    "title_ja": "元Goldman・Meta幹部がアフリカ・中東向け音声AIを開発",
-    "summary_ja": "Goldman SachsとMeta出身の2人が、既存企業が見過ごしてきたアフリカ・中東市場向け音声AIを開発。1日1万7千件以上の通話を処理している。",
+    "title_ja": "元Goldman・Meta社員がアフリカ向け音声AIを開発",
+    "summary_ja": "Goldman SachsとMeta出身の2人が、既存企業が見過ごした市場向け音声AIを立ち上げた。アフリカ・中東で1日1.7万件以上の通話を処理している。",
     "_translate_source": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked\nThe startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
   }
 ]
