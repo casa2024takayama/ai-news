@@ -1,121 +1,176 @@
 [
   {
-    "id": "x:03fbfc85fd10a709",
-    "title": "Claudeの自己改善が急加速",
-    "title_ja": "Claudeの自己改善が急加速",
-    "summary": "Anthropicが内部データを公開。コード生産性8倍、研究判断で人間超え64%。RSI実現の可能性が話題に。",
-    "summary_ja": "Anthropicが内部データを公開。コード生産性8倍、研究判断で人間超え64%。RSI実現の可能性が話題に。",
+    "id": "x:13c366048a4c5c33",
+    "title": "Anthropic、Claudeの自己改善を報告",
+    "title_ja": "Anthropic、Claudeの自己改善を報告",
+    "summary": "エンジニア生産性が8倍に。AIが自ら後継モデルを設計する再帰的自己改善(RSI)の可能性が注目され、数百万ビューを記録。",
+    "summary_ja": "エンジニア生産性が8倍に。AIが自ら後継モデルを設計する再帰的自己改善(RSI)の可能性が注目され、数百万ビューを記録。",
     "url": "https://x.com/AnthropicAI/status/2062568862479208923",
     "source": "X (AnthropicAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-04T21:52:21.876051+00:00"
+    "published_at": "2026-06-04T21:54:13.624941+00:00"
   },
   {
-    "id": "x:c555e0d15888f76b",
-    "title": "Claudeが自らプロンプト生成",
-    "title_ja": "Claudeが自らプロンプト生成",
-    "summary": "「Claudeにプロンプトするな、システムを作れ」がバズ。エージェント連携の新常識として注目。",
-    "summary_ja": "「Claudeにプロンプトするな、システムを作れ」がバズ。エージェント連携の新常識として注目。",
-    "url": "https://x.com/eng_khairallah1/status/2061821319034143172",
-    "source": "X (eng_khairallah1)",
-    "category": "Xトレンド",
-    "region": "usa",
-    "kind": "x_topic",
-    "published_at": "2026-06-04T21:52:21.876051+00:00"
-  },
-  {
-    "id": "x:e96009fdf6c1495f",
-    "title": "Claudeで就活エージェント公開",
-    "title_ja": "Claudeで就活エージェント公開",
-    "summary": "Claude活用の履歴書自動生成パイプラインがMITライセンスで公開。実用的なAIワークフローの好例。",
-    "summary_ja": "Claude活用の履歴書自動生成パイプラインがMITライセンスで公開。実用的なAIワークフローの好例。",
-    "url": "https://x.com/heynavtoor/status/2062168254416814163",
-    "source": "X (heynavtoor)",
-    "category": "Xトレンド",
-    "region": "usa",
-    "kind": "x_topic",
-    "published_at": "2026-06-04T21:52:21.876051+00:00"
-  },
-  {
-    "id": "x:1116d5ce5c0c346e",
-    "title": "ChatGPT記憶機能が強化",
-    "title_ja": "ChatGPT記憶機能が強化",
-    "summary": "OpenAIが会話間の文脈保持を改善。長期記憶と継続対話の利便性が向上したと発表。",
-    "summary_ja": "OpenAIが会話間の文脈保持を改善。長期記憶と継続対話の利便性が向上したと発表。",
+    "id": "x:38024730a92d4ff7",
+    "title": "ChatGPTの記憶機能が大幅強化",
+    "title_ja": "ChatGPTの記憶機能が大幅強化",
+    "summary": "会話履歴を長期保持し、文脈を活かした回答精度が向上。OpenAI公式発表で65万ビュー超。",
+    "summary_ja": "会話履歴を長期保持し、文脈を活かした回答精度が向上。OpenAI公式発表で65万ビュー超。",
     "url": "https://x.com/OpenAI/status/2062567556524003631",
     "source": "X (OpenAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-04T21:52:21.876051+00:00"
+    "published_at": "2026-06-04T21:54:13.624941+00:00"
   },
   {
-    "id": "x:95f741289922b0aa",
-    "title": "YCが「AI耐性」質問を追加",
-    "title_ja": "YCが「AI耐性」質問を追加",
-    "summary": "Paul Grahamが新設したオフィスアワーズ質問「AI-proofか」が投資家・起業家の間で議論に。",
-    "summary_ja": "Paul Grahamが新設したオフィスアワーズ質問「AI-proofか」が投資家・起業家の間で議論に。",
-    "url": "https://x.com/i/status/2062579769951342785",
-    "source": "X",
+    "id": "x:0b169d58567556ac",
+    "title": "Claudeで職務応募を完全自動化",
+    "title_ja": "Claudeで職務応募を完全自動化",
+    "summary": "MITライセンスのオープンソースパイプラインが話題。CV・カバーレター生成からPDF出力までをAIが代行。",
+    "summary_ja": "MITライセンスのオープンソースパイプラインが話題。CV・カバーレター生成からPDF出力までをAIが代行。",
+    "url": "https://x.com/heynavtoor/status/2062168254416814163",
+    "source": "X (heynavtoor)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-04T21:52:21.876051+00:00"
+    "published_at": "2026-06-04T21:54:13.624941+00:00"
   },
   {
-    "id": "x:1a0d4038b542cfbf",
-    "title": "国産生成AI不在の国家リスク",
-    "title_ja": "国産生成AI不在の国家リスク",
-    "summary": "武田紘樹氏の投稿が3600超いいね。ChatGPT依存の危うさを「戦車前に裸」と表現し、地政学リスクへの危機感が急拡大。",
-    "summary_ja": "武田紘樹氏の投稿が3600超いいね。ChatGPT依存の危うさを「戦車前に裸」と表現し、地政学リスクへの危機感が急拡大。",
+    "id": "x:bab1d7c7cd07c0d1",
+    "title": "OpenAI、Codexに専門プラグイン追加",
+    "title_ja": "OpenAI、Codexに専門プラグイン追加",
+    "summary": "営業・投資・デザインなど62アプリ・110スキルをノーコードで利用可能に。企業向け機能拡充が進行中。",
+    "summary_ja": "営業・投資・デザインなど62アプリ・110スキルをノーコードで利用可能に。企業向け機能拡充が進行中。",
+    "url": "https://x.com/OpenAI/status/2061887650391625870",
+    "source": "X (OpenAI)",
+    "category": "Xトレンド",
+    "region": "usa",
+    "kind": "x_topic",
+    "published_at": "2026-06-04T21:54:13.624941+00:00"
+  },
+  {
+    "id": "x:6147423c0ec655d3",
+    "title": "上院議員、AIによる創作搾取を批判",
+    "title_ja": "上院議員、AIによる創作搾取を批判",
+    "summary": "Bernie Sanders議員が「AIがアーティストの仕事を奪う」と指摘。クリエイティブ業界の権利問題が再燃。",
+    "summary_ja": "Bernie Sanders議員が「AIがアーティストの仕事を奪う」と指摘。クリエイティブ業界の権利問題が再燃。",
+    "url": "https://x.com/SenSanders/status/2062611073233019017",
+    "source": "X (SenSanders)",
+    "category": "Xトレンド",
+    "region": "usa",
+    "kind": "x_topic",
+    "published_at": "2026-06-04T21:54:13.624941+00:00"
+  },
+  {
+    "id": "x:c14f700a02b3032f",
+    "title": "国産生成AI不在の安全保障リスク",
+    "title_ja": "国産生成AI不在の安全保障リスク",
+    "summary": "ChatGPT依存の危うさを指摘する投稿が3600いいね超。地政学リスクとデジタル小作人化への危機感が広がっている。",
+    "summary_ja": "ChatGPT依存の危うさを指摘する投稿が3600いいね超。地政学リスクとデジタル小作人化への危機感が広がっている。",
     "url": "https://x.com/tomatoha831/status/2062072290234495254",
     "source": "X (tomatoha831)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-04T21:51:51.615390+00:00"
+    "published_at": "2026-06-04T21:53:50.897246+00:00"
   },
   {
-    "id": "x:c0036f89837d7513",
-    "title": "AI美女画像が連日バズ",
-    "title_ja": "AI美女画像が連日バズ",
-    "summary": "GPT Images 2.0で生成したビキニ姿など高品質ビジュアル投稿が180〜980いいねを集め、日常的に最も活発な層。",
-    "summary_ja": "GPT Images 2.0で生成したビキニ姿など高品質ビジュアル投稿が180〜980いいねを集め、日常的に最も活発な層。",
-    "url": "https://x.com/tomatoha831/status/2062072290234495254",
-    "source": "X",
+    "id": "x:61c4abec9be8da12",
+    "title": "最先端AIがStroopテストで崩壊",
+    "title_ja": "最先端AIがStroopテストで崩壊",
+    "summary": "司法試験級モデルが単語色判別タスクで正答率1%近くまで急落。真の理解がない証拠と警鐘が上がる。",
+    "summary_ja": "司法試験級モデルが単語色判別タスクで正答率1%近くまで急落。真の理解がない証拠と警鐘が上がる。",
+    "url": "https://x.com/kaztaira/status/2062644810553692670",
+    "source": "X (kaztaira)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-04T21:51:51.615390+00:00"
+    "published_at": "2026-06-04T21:53:50.897246+00:00"
   },
   {
-    "id": "x:e1765cd282f63f38",
-    "title": "AI反対派と利用者の対立再燃",
-    "title_ja": "AI反対派と利用者の対立再燃",
-    "summary": "ディープフェイクや児童ポルノ問題で反AI感情が再燃。クリエイターと利用者の感情的対立が継続的に観測される。",
-    "summary_ja": "ディープフェイクや児童ポルノ問題で反AI感情が再燃。クリエイターと利用者の感情的対立が継続的に観測される。",
-    "url": "https://x.com/tomatoha831/status/2062072290234495254",
-    "source": "X",
+    "id": "x:fca0ef7e36b33bf1",
+    "title": "ハルシネーション対策の共有",
+    "title_ja": "ハルシネーション対策の共有",
+    "summary": "自信たっぷりな誤答を防ぐため「分からない時は明記せよ」とプロンプト改善が拡散中。",
+    "summary_ja": "自信たっぷりな誤答を防ぐため「分からない時は明記せよ」とプロンプト改善が拡散中。",
+    "url": "https://x.com/yuh_obsidian/status/2062644463726723243",
+    "source": "X (yuh_obsidian)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-04T21:51:51.615390+00:00"
+    "published_at": "2026-06-04T21:53:50.897246+00:00"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTRxRUx3ZVhUT3d6amJYQXdvQW10dnkwckxudmYzQ1VWZ0hGRDdHYlp2QW9GMVRySUQ2c3JoY09fVFEtSmhZTFpkTXg3U3p0c2NPcjJ5NVFBeWtXUlB1LTBqci1xOXcxOU1EbF9NQzNuTkNHT0I5bG5lUEhsMFRUakpSZ3BKTFBLUGNyUTBJYlE5ekUxZ2JPTQ?oc=5",
-    "title": "3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTRxRUx3ZVhUT3d6amJYQXdvQW10dnkwckxudmYzQ1VWZ0hGRDdHYlp2QW9GMVRySUQ2c3JoY09fVFEtSmhZTFpkTXg3U3p0c2NPcjJ5NVFBeWtXUlB1LTBqci1xOXcxOU1EbF9NQzNuTkNHT0I5bG5lUEhsMFRUakpSZ3BKTFBLUGNyUTBJYlE5ekUxZ2JPTQ?oc=5",
+    "id": "x:9767104c5c90f362",
+    "title": "AIイラスト朝イチ投稿ラッシュ",
+    "title_ja": "AIイラスト朝イチ投稿ラッシュ",
+    "summary": "梅雨入り風景や4コマ漫画など日常生成が活況。#AIイラストタグが連日トレンド入り。",
+    "summary_ja": "梅雨入り風景や4コマ漫画など日常生成が活況。#AIイラストタグが連日トレンド入り。",
+    "url": "https://x.com/hamtarou03/status/2062641094396199104",
+    "source": "X (hamtarou03)",
+    "category": "Xトレンド",
+    "region": "japan",
+    "kind": "x_topic",
+    "published_at": "2026-06-04T21:53:50.897246+00:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXE5OXgxZmV5M1V2Szd5OTBJTkVaQ0E4eFdKUk1Za012cW5YT19PZ3RScHp0RGdZSU1RcTV4UjZnN2NWa2tEYmNnRWltaWNLUWp3bHd6MGRNdWFrRzhoQ2ZOZENDTUY1MUVtZmdMRFFtbEsyQ20wdkxQalBwcm03M1N3bGRpeDZsNTdmR1gzTGxFYTVNVG9FUVFpcUhDZjRKOGlsZUFScmQ?oc=5",
+    "title": "3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXE5OXgxZmV5M1V2Szd5OTBJTkVaQ0E4eFdKUk1Za012cW5YT19PZ3RScHp0RGdZSU1RcTV4UjZnN2NWa2tEYmNnRWltaWNLUWp3bHd6MGRNdWFrRzhoQ2ZOZENDTUY1MUVtZmdMRFFtbEsyQ20wdkxQalBwcm03M1N3bGRpeDZsNTdmR1gzTGxFYTVNVG9FUVFpcUhDZjRKOGlsZUFScmQ?oc=5",
     "source": "Google News (AI・米国)",
     "category": "総合",
     "region": "usa",
     "kind": "rss",
-    "summary": "3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade The Motley Fool",
-    "published_at": "2026-06-04T21:19:50+00:00",
+    "summary": "3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade Yahoo Finance",
+    "published_at": "2026-06-04T21:37:00+00:00",
     "title_ja": "今後10年保有すべき3銘柄のAI株",
-    "summary_ja": "The Motley Foolが、長期保有に適した3つの優良AI関連株を紹介。成長性と安定性を兼ね備えた企業を厳選している。",
-    "_translate_source": "3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade - The Motley Fool\n3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade The Motley Fool"
+    "summary_ja": "AI関連の有望株3銘柄をピックアップ。長期保有で高いリターンを狙えるとYahoo Financeが紹介している。",
+    "_translate_source": "3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade - Yahoo Finance\n3 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade Yahoo Finance"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUDdCcGFVYkhJMlFsc3hVT2FUVzhvTXFHcXdDTU40cjZkbk9HdW1GZ0JZeC1ZZkJSWTRzTWI1S2NSbkk3TVk1UmV5djZweUU2SjZ3Z1lNYjM2clZ4cjhhejZMVnJ2NGd6ZUlFV1RIbDhOaTUyWXNPS25tcEliTEk4N2V2U0tYak5xVldoRGc1amNzNUdMY2VlX3d4d0dsOGUzWE1IQ2lPQnRQSUlsTnY1elNPS2ZqV2c?oc=5",
+    "title": "How AI and Machine Learning Are Reshaping Separations Science at HPLC 2026 - Chromatography Online",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUDdCcGFVYkhJMlFsc3hVT2FUVzhvTXFHcXdDTU40cjZkbk9HdW1GZ0JZeC1ZZkJSWTRzTWI1S2NSbkk3TVk1UmV5djZweUU2SjZ3Z1lNYjM2clZ4cjhhejZMVnJ2NGd6ZUlFV1RIbDhOaTUyWXNPS25tcEliTEk4N2V2U0tYak5xVldoRGc1amNzNUdMY2VlX3d4d0dsOGUzWE1IQ2lPQnRQSUlsTnY1elNPS2ZqV2c?oc=5",
+    "source": "Google News (AI・米国)",
+    "category": "総合",
+    "region": "usa",
+    "kind": "rss",
+    "summary": "How AI and Machine Learning Are Reshaping Separations Science at HPLC 2026 Chromatography Online",
+    "published_at": "2026-06-04T21:33:45+00:00",
+    "title_ja": "AIと機械学習が分離科学を変える",
+    "summary_ja": "HPLC 2026でAIと機械学習が分析化学の分離技術に与える影響を議論。研究者らの最新動向に注目が集まる。",
+    "_translate_source": "How AI and Machine Learning Are Reshaping Separations Science at HPLC 2026 - Chromatography Online\nHow AI and Machine Learning Are Reshaping Separations Science at HPLC 2026 Chromatography Online"
+  },
+  {
+    "id": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "source": "TechCrunch (AI)",
+    "category": "海外",
+    "region": "usa",
+    "kind": "rss",
+    "summary": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo, investors, founders, and tech leaders will gather for an evening of conversations exploring some of the most consequential shifts tak…",
+    "published_at": "2026-06-04T21:30:00+00:00",
+    "title_ja": "国防テックとAIがテーマのStrictlyVC LA開催",
+    "summary_ja": "6月18日ロサンゼルスで開催。投資家や創業者らが国防テック・AI・資金調達を巡る議論を行うイベントだ。",
+    "_translate_source": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18\nWith just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo, investors, founders, and tech leaders will gather for an evening of conversations exploring some of the most consequential shifts tak…"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVZyQnFlYzl0RmRSckhCX3B4cmZpRC1BT3BVdWtTSERmM1VIWEVDQUZ4RzNVOUtOUGFqckpCRDh0ckJFY1RrUDNqcGhNVUhfZm1rOVFYdFNhV3N1SUNBZ3l5NHZyYklkM2k4NExZOVNCYm1BNWJGMUZxN3h5VThSemU2ZGZNTFVQdnJCOUVOR203WE9RSXlSYS16NHZjVTQ0NGdNR1huaDM3MG5jT1F3Q0RlcUk?oc=5",
+    "title": "IAI Adds Artificial Intelligence To Airborne Combat Cloud - Aviation Week",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVZyQnFlYzl0RmRSckhCX3B4cmZpRC1BT3BVdWtTSERmM1VIWEVDQUZ4RzNVOUtOUGFqckpCRDh0ckJFY1RrUDNqcGhNVUhfZm1rOVFYdFNhV3N1SUNBZ3l5NHZyYklkM2k4NExZOVNCYm1BNWJGMUZxN3h5VThSemU2ZGZNTFVQdnJCOUVOR203WE9RSXlSYS16NHZjVTQ0NGdNR1huaDM3MG5jT1F3Q0RlcUk?oc=5",
+    "source": "Google News (AI・米国)",
+    "category": "総合",
+    "region": "usa",
+    "kind": "rss",
+    "summary": "IAI Adds Artificial Intelligence To Airborne Combat Cloud Aviation Week",
+    "published_at": "2026-06-04T21:26:39+00:00",
+    "title_ja": "IAI、空中戦闘クラウドにAIを導入",
+    "summary_ja": "イスラエル・エアロスペース・インダストリーズが、空中戦闘クラウドに人工知能を統合。防衛分野でのAI活用が進む。",
+    "_translate_source": "IAI Adds Artificial Intelligence To Airborne Combat Cloud - Aviation Week\nIAI Adds Artificial Intelligence To Airborne Combat Cloud Aviation Week"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVV9Rc3ZoUzFKVV9VS0JzNlhJVFNUM04xSm9TMW50aDVSeGNJRDNUT2ZWNWZheEFoVWJ1Z1B4R0RyaWxOVl9TT3NMcUhHZGhuWjkyLWJoRE5ubjRYZVdramR1dXZXcHphS3pNcDM3U25lR0pQMmo3NWNmNU9wUVJ0S3lGNy1LcGcta1FDLXF2YzNqaTRYWVFscWk0bURMTGR6SzkxY2NveGphdjRZenVYblRlQ1hWMDEzX2c?oc=5",
@@ -127,8 +182,8 @@
     "kind": "rss",
     "summary": "AI Agents Running Businesses: Andon Labs on Project Vend StartupHub.ai",
     "published_at": "2026-06-04T21:03:20+00:00",
-    "title_ja": "AIエージェントが事業を運営：Andon LabsのProject Vend",
-    "summary_ja": "StartupHub.aiが、Andon LabsのProject Vendを取り上げ、AIエージェントが実際にビジネスを運営する可能性について解説している。",
+    "title_ja": "AIエージェントが事業を運営、Andon LabsがProject Vend発表",
+    "summary_ja": "Andon LabsがAIエージェントだけで事業を回す「Project Vend」を紹介。業務の完全自動化に向けた取り組みが注目されている。",
     "_translate_source": "AI Agents Running Businesses: Andon Labs on Project Vend - StartupHub.ai\nAI Agents Running Businesses: Andon Labs on Project Vend StartupHub.ai"
   },
   {
@@ -141,8 +196,8 @@
     "kind": "rss",
     "summary": "Codex Transforms Zapier's Development Process StartupHub.ai",
     "published_at": "2026-06-04T21:02:27+00:00",
-    "title_ja": "Zapierの開発プロセスをCodexが変革",
-    "summary_ja": "StartupHub.aiが、Codexの導入によりZapierの開発効率が大幅に向上した事例をレポートしている。",
+    "title_ja": "Zapier、Codex導入で開発プロセスを刷新",
+    "summary_ja": "ZapierがAIツール「Codex」を活用し、開発工程を大幅に効率化。生産性向上の事例として業界から関心を集めている。",
     "_translate_source": "Codex Transforms Zapier's Development Process - StartupHub.ai\nCodex Transforms Zapier's Development Process StartupHub.ai"
   },
   {
@@ -155,8 +210,8 @@
     "kind": "rss",
     "summary": "OpenAI's AI Push Into Biodefense StartupHub.ai",
     "published_at": "2026-06-04T21:01:56+00:00",
-    "title_ja": "OpenAI、生体防御分野へのAI展開を加速",
-    "summary_ja": "StartupHub.aiが、OpenAIが生体防御分野でAI技術を活用する新プロジェクトを推進している動きを報じている。",
+    "title_ja": "OpenAI、バイオディフェンス分野にAIを推進",
+    "summary_ja": "OpenAIがバイオセキュリティ分野でのAI活用を強化。脅威検知や対策立案への応用を目指す動きが活発化している。",
     "_translate_source": "OpenAI's AI Push Into Biodefense - StartupHub.ai\nOpenAI's AI Push Into Biodefense StartupHub.ai"
   },
   {
@@ -170,7 +225,7 @@
     "summary": "US House lawmakers release draft bill to prohibit state AI rules Reuters",
     "published_at": "2026-06-04T20:54:57+00:00",
     "title_ja": "米下院、州レベルのAI規制禁止法案を公表",
-    "summary_ja": "Reutersが、米下院議員が州独自のAI規制を禁止する法案の草案を発表したと報じている。",
+    "summary_ja": "米下院議員らが州独自のAI規制を禁じる法案草案を発表。全国統一ルール整備に向けた動きが注目されている。",
     "_translate_source": "US House lawmakers release draft bill to prohibit state AI rules - Reuters\nUS House lawmakers release draft bill to prohibit state AI rules Reuters"
   },
   {
@@ -183,9 +238,23 @@
     "kind": "rss",
     "summary": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI Electronic Frontier Foundation",
     "published_at": "2026-06-04T20:52:05+00:00",
-    "title_ja": "EFF、政府AIから市民の権利を守るよう議会で証言",
-    "summary_ja": "Electronic Frontier Foundationが、議会で政府によるAI利用から米国民の権利を守る必要性を訴えた。",
+    "title_ja": "EFF、議会で政府AIによる権利侵害防止を証言",
+    "summary_ja": "EFFが議会で証言し、政府によるAI利用から米国民の権利を守る必要性を強調した。",
     "_translate_source": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI - Electronic Frontier Foundation\nEFF Testifies to Congress on Protecting Americans’ Rights from Government AI Electronic Frontier Foundation"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazAxeDg5REZxM2FqeWVLSnhZRWFJaFFtallrUE1BOHh3SlFtVXkwMHhoOFM3VUtrVkZJellKaWVEbU5HMnRNNk43VGxERmgtbU4wbFFkendkRDNPb1dvVEMzX3NOeUFLVTBRXzVuaTc0NVo2ck8wOWxVa0V2RXdzWm5HZjFULUpZalE?oc=5",
+    "title": "NRO Nominee Roger Mason Highlights Commercial Innovation, AI - executivegov.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazAxeDg5REZxM2FqeWVLSnhZRWFJaFFtallrUE1BOHh3SlFtVXkwMHhoOFM3VUtrVkZJellKaWVEbU5HMnRNNk43VGxERmgtbU4wbFFkendkRDNPb1dvVEMzX3NOeUFLVTBRXzVuaTc0NVo2ck8wOWxVa0V2RXdzWm5HZjFULUpZalE?oc=5",
+    "source": "Google News (AI・米国)",
+    "category": "総合",
+    "region": "usa",
+    "kind": "rss",
+    "summary": "NRO Nominee Roger Mason Highlights Commercial Innovation, AI executivegov.com",
+    "published_at": "2026-06-04T20:49:17+00:00",
+    "title_ja": "NRO次期長官候補、商業イノベーションとAIの重要性を強調",
+    "summary_ja": "NRO次期長官候補のロジャー・メイソン氏が、商業イノベーションとAIの活用を強調した。",
+    "_translate_source": "NRO Nominee Roger Mason Highlights Commercial Innovation, AI - executivegov.com\nNRO Nominee Roger Mason Highlights Commercial Innovation, AI executivegov.com"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0tLako2NFNfOGlITzE1QmNMYUxMQ0pvbUtLRVVhNzRHakpFeFN2S1hYbTh2alpHdFYzaktpOS0wMXhxdzZJS1k4OV9nZW9JN2VRWkZDc1NZVjJhTEY5NXhaTEkyTmZsWWdid0JHeS00eUJNZmdDTElxOFdIZThpbFQ5YWVQODhlazdOTFJYWHM?oc=5",
@@ -197,8 +266,8 @@
     "kind": "rss",
     "summary": "Airbnb CEO Brian Chesky plans to start a new AI company Fortune",
     "published_at": "2026-06-04T20:32:00+00:00",
-    "title_ja": "AirbnbのChesky CEO、新AI企業の設立を計画",
-    "summary_ja": "Fortuneが、AirbnbのBrian Chesky CEOが新たなAI関連企業の立ち上げを計画していると報じた。",
+    "title_ja": "Airbnb CEOチェスキー、新AI企業の設立を計画",
+    "summary_ja": "Airbnbのブライアン・チェスキーCEOが、新たなAI企業の立ち上げを計画していることがわかった。",
     "_translate_source": "Airbnb CEO Brian Chesky plans to start a new AI company - Fortune\nAirbnb CEO Brian Chesky plans to start a new AI company Fortune"
   },
   {
@@ -210,7 +279,10 @@
     "region": "usa",
     "kind": "rss",
     "summary": "America’s Schools Are Terrible at Catching Kids Up. How AI Can Help The Good Men Project",
-    "published_at": "2026-06-04T20:31:53+00:00"
+    "published_at": "2026-06-04T20:31:53+00:00",
+    "title_ja": "米学校の遅れ挽回にAI活用を、専門家が提言",
+    "summary_ja": "米国の学校が学習遅れの挽回に苦戦する中、AIを活用した支援策が注目されている。",
+    "_translate_source": "America’s Schools Are Terrible at Catching Kids Up. How AI Can Help - The Good Men Project\nAmerica’s Schools Are Terrible at Catching Kids Up. How AI Can Help The Good Men Project"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUxjd0Jsb1EwN21GR0hoR1JCNzhEMExhcmhkRzcwSWdiQnRUeDMxUGl2ZnIyOFBpNFBsNmZkQU9Lbjh6ZzBPQ1JfcXZmbGV0Rl8wLUx5UkFDY0wwYkswTzB0YWowcVZRY1dWNzdMTjZyVV9BdUNESXBWRk5sZGlNMmVIZmZ6RkItTWhUd01hLTZ5NlNRMmJJem45UEdENnlpVmdaYTRyU3U?oc=5",
@@ -222,8 +294,8 @@
     "kind": "rss",
     "summary": "Bipartisan ‘Great American AI Act’ draft proposes new federal AI governance framework FedScoop",
     "published_at": "2026-06-04T20:30:28+00:00",
-    "title_ja": "超党派「Great American AI Act」草案、連邦AI統治枠組みを提案",
-    "summary_ja": "超党派の「Great American AI Act」草案が、連邦政府レベルのAI統治枠組みを新たに提案した。透明性や安全基準の整備を柱に、AI開発・運用への規制強化を目指す内容となっている。",
+    "title_ja": "超党派で「Great American AI Act」草案、連邦AI統治枠組みを提案",
+    "summary_ja": "超党派の議員らが「Great American AI Act」草案を発表し、新たな連邦AI統治枠組みを提案した。",
     "_translate_source": "Bipartisan ‘Great American AI Act’ draft proposes new federal AI governance framework - FedScoop\nBipartisan ‘Great American AI Act’ draft proposes new federal AI governance framework FedScoop"
   },
   {
@@ -237,7 +309,7 @@
     "summary": "Canadian Prime Minister Mark Carney warns foreign AI platforms can be used against Canadians The Washington Post",
     "published_at": "2026-06-04T20:23:43+00:00",
     "title_ja": "カナダ首相、外国AIプラットフォームの悪用に警鐘",
-    "summary_ja": "Mark Carney首相は、外国製AIプラットフォームがカナダ国民に対して悪用される可能性があると警告。国家安全保障上のリスクを指摘し、国内AI基盤の強化を訴えた。",
+    "summary_ja": "カナダのマーク・カーニー首相が、外国のAIプラットフォームがカナダ人に対して悪用される可能性に警鐘を鳴らした。",
     "_translate_source": "Canadian Prime Minister Mark Carney warns foreign AI platforms can be used against Canadians - The Washington Post\nCanadian Prime Minister Mark Carney warns foreign AI platforms can be used against Canadians The Washington Post"
   },
   {
@@ -250,8 +322,8 @@
     "kind": "rss",
     "summary": "Aspen Digital initiative aims to bring practical AI tools to emergency management StateScoop",
     "published_at": "2026-06-04T20:20:32+00:00",
-    "title_ja": "Aspen Digital、緊急対応向け実践的AIツール導入へ",
-    "summary_ja": "Aspen Digitalが、災害・緊急事態対応に活用できる実践的なAIツールの導入を目指す新イニシアチブを発表。現場職員の意思決定支援やリソース配分最適化を目的としている。",
+    "title_ja": "Aspen Digital、緊急対応に実践的AIツール導入へ",
+    "summary_ja": "Aspen Digitalが、緊急事態管理向けに実践的なAIツールを提供する取り組みを発表した。",
     "_translate_source": "Aspen Digital initiative aims to bring practical AI tools to emergency management - StateScoop\nAspen Digital initiative aims to bring practical AI tools to emergency management StateScoop"
   },
   {
@@ -264,8 +336,8 @@
     "kind": "rss",
     "summary": "People are using AI to communicate without disclosing it. Is this morally wrong? The Conversation",
     "published_at": "2026-06-04T20:08:35+00:00",
-    "title_ja": "AI使用を明かさず会話、道徳的に問題か",
-    "summary_ja": "AIを活用した会話を相手に明かさず行う行為が、道徳的に問題視されるケースが増えている。透明性と信頼の観点から、AI利用の開示が求められる議論が活発化している。",
+    "title_ja": "AI使用を明かさず会話、道徳的に問題か議論に",
+    "summary_ja": "AIを使って会話をしていることを明かさない行為が道徳的に問題かどうかをめぐり、議論が起きている。",
     "_translate_source": "People are using AI to communicate without disclosing it. Is this morally wrong? - The Conversation\nPeople are using AI to communicate without disclosing it. Is this morally wrong? The Conversation"
   },
   {
@@ -278,8 +350,8 @@
     "kind": "rss",
     "summary": "Anthropic's Daniela Amodei on AI's Future StartupHub.ai",
     "published_at": "2026-06-04T20:03:06+00:00",
-    "title_ja": "Anthropic Daniela Amodei、AIの未来を語る",
-    "summary_ja": "Anthropic共同創業者Daniela Amodei氏が、AIの今後の展望について語った。安全性と実用性の両立、規制とのバランスなど、業界の重要課題を指摘している。",
+    "title_ja": "AnthropicのDaniela Amodei、AIの未来を語る",
+    "summary_ja": "AnthropicのDaniela Amodeiが、AIの今後の展望について語りました。",
     "_translate_source": "Anthropic's Daniela Amodei on AI's Future - StartupHub.ai\nAnthropic's Daniela Amodei on AI's Future StartupHub.ai"
   },
   {
@@ -293,7 +365,7 @@
     "summary": "States Should Move AI Pilot Programs from Siloed Tests to Statewide Deployment Center for Data Innovation",
     "published_at": "2026-06-04T19:37:22+00:00",
     "title_ja": "州政府、AIパイロットから全州展開へ移行を",
-    "summary_ja": "Center for Data Innovationは、州政府がAIパイロットプログラムを孤立したテストから脱却し、全州規模での本格展開を進めるべきだと提言。効率的な行政サービス実現に向けた提言を行った。",
+    "summary_ja": "州政府はAIのパイロットプログラムを孤立したテストから全州規模の展開へ移行すべきだと提言されました。",
     "_translate_source": "States Should Move AI Pilot Programs from Siloed Tests to Statewide Deployment - Center for Data Innovation\nStates Should Move AI Pilot Programs from Siloed Tests to Statewide Deployment Center for Data Innovation"
   },
   {
@@ -307,7 +379,7 @@
     "summary": "Meta may have found one way to slash its massive data center bill: tents.",
     "published_at": "2026-06-04T19:33:09+00:00",
     "title_ja": "Meta、Teslaの手法を採用しテント型データセンターを建設",
-    "summary_ja": "MetaがTeslaの手法を参考に、テント型のデータセンターを建設していることが判明。建設コストと時間を大幅に削減する狙いがあり、AI需要急増への柔軟な対応策として注目されている。",
+    "summary_ja": "Metaはテントを活用したデータセンターで巨額のコスト削減を図っている可能性があります。",
     "_translate_source": "Meta steals a tactic from Tesla and builds data centers in tents\nMeta may have found one way to slash its massive data center bill: tents."
   },
   {
@@ -320,8 +392,8 @@
     "kind": "rss",
     "summary": "Desai Sethi Urology Institute Debuts AI-Driven Augmented Reality Prostate Biopsy at AUA 2026 University of Miami",
     "published_at": "2026-06-04T19:31:56+00:00",
-    "title_ja": "Desai Sethi Urology Institute、AI活用AR前立腺生検を発表",
-    "summary_ja": "Desai Sethi Urology Instituteが、AIを活用した拡張現実（AR）前立腺生検システムをAUA 2026で発表。診断精度向上と患者負担軽減を目指す新技術として注目を集めている。",
+    "title_ja": "Desai Sethi泌尿器科研究所、AI活用AR前立腺生検を発表",
+    "summary_ja": "Desai Sethi泌尿器科研究所が、AI駆動の拡張現実を用いた前立腺生検をAUA 2026で発表しました。",
     "_translate_source": "Desai Sethi Urology Institute Debuts AI-Driven Augmented Reality Prostate Biopsy at AUA 2026 - University of Miami\nDesai Sethi Urology Institute Debuts AI-Driven Augmented Reality Prostate Biopsy at AUA 2026 University of Miami"
   },
   {
@@ -335,7 +407,7 @@
     "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
     "published_at": "2026-06-04T19:20:58+00:00",
     "title_ja": "Apple、PokeをMessages for Business向け初のAIエージェントに承認",
-    "summary_ja": "テキストメッセージでAIエージェントを利用できるスタートアップPokeが、AppleのMessages for Businessプラットフォームで初のAIエージェントとして承認された。",
+    "summary_ja": "テキストメッセージでAIエージェントを利用できるPokeが、AppleのMessages for Businessで初のAIエージェントとして承認されました。",
     "_translate_source": "Apple approves Poke as the first AI agent on its Messages for Business platform\nPoke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform."
   },
   {
@@ -348,8 +420,8 @@
     "kind": "rss",
     "summary": "AI is the New Capital Formation Cycle StartupHub.ai",
     "published_at": "2026-06-04T19:17:03+00:00",
-    "title_ja": "AIは新たな資本形成サイクル - StartupHub.ai",
-    "summary_ja": "AIが新たな資本形成サイクルになるとの視点で、投資やビジネスへの影響を解説する記事。",
+    "title_ja": "AI、新たな資本形成サイクルに",
+    "summary_ja": "AIが新たな資本形成のサイクルを生み出していると指摘されています。",
     "_translate_source": "AI is the New Capital Formation Cycle - StartupHub.ai\nAI is the New Capital Formation Cycle StartupHub.ai"
   },
   {
@@ -362,8 +434,8 @@
     "kind": "rss",
     "summary": "AI Trade & US-Iran Peace Talks on Bloomberg Surveillance StartupHub.ai",
     "published_at": "2026-06-04T19:04:34+00:00",
-    "title_ja": "AI貿易と米イラン和平交渉 - Bloomberg Surveillance",
-    "summary_ja": "Bloomberg Surveillance番組で、AI関連の貿易動向と米イラン和平交渉について議論された内容をまとめた。",
+    "title_ja": "Bloomberg SurveillanceでAI貿易と米イラン和平協議を議論",
+    "summary_ja": "Bloomberg SurveillanceでAI貿易と米イラン和平協議が取り上げられました。",
     "_translate_source": "AI Trade & US-Iran Peace Talks on Bloomberg Surveillance - StartupHub.ai\nAI Trade & US-Iran Peace Talks on Bloomberg Surveillance StartupHub.ai"
   },
   {
@@ -376,8 +448,8 @@
     "kind": "rss",
     "summary": "AI-Powered Product Design: Building Interactive Prototypes in Codex StartupHub.ai",
     "published_at": "2026-06-04T19:02:18+00:00",
-    "title_ja": "AI活用の製品設計：Codexでインタラクティブなプロトタイプ作成",
-    "summary_ja": "Codexを活用し、AIでインタラクティブな製品プロトタイプを素早く構築する方法を紹介する記事。",
+    "title_ja": "AI活用の製品設計、Codexでインタラクティブなプロトタイプ作成",
+    "summary_ja": "CodexでAIを活用し、インタラクティブな製品プロトタイプを構築する方法が紹介されました。",
     "_translate_source": "AI-Powered Product Design: Building Interactive Prototypes in Codex - StartupHub.ai\nAI-Powered Product Design: Building Interactive Prototypes in Codex StartupHub.ai"
   },
   {
@@ -390,8 +462,8 @@
     "kind": "rss",
     "summary": "The Broadcom Sell-Off: Why This Is a Huge Warning Flag for Artificial Intelligence (AI) Investors The Motley Fool",
     "published_at": "2026-06-04T18:55:22+00:00",
-    "title_ja": "Broadcom株急落、AI投資家への警鐘か - The Motley Fool",
-    "summary_ja": "Broadcom株の大幅下落は、AI関連投資に対する警戒材料になるとThe Motley Foolが指摘している。",
+    "title_ja": "ブロードコム急落、AI投資家への警鐘か",
+    "summary_ja": "ブロードコム株の急落は、AI関連投資の過熱とリスクを浮き彫りにしている。投資家は慎重な判断が求められる。",
     "_translate_source": "The Broadcom Sell-Off: Why This Is a Huge Warning Flag for Artificial Intelligence (AI) Investors - The Motley Fool\nThe Broadcom Sell-Off: Why This Is a Huge Warning Flag for Artificial Intelligence (AI) Investors The Motley Fool"
   },
   {
@@ -404,8 +476,8 @@
     "kind": "rss",
     "summary": "Carolina launches study on libraries and generative AI in local communities The University of North Carolina at Chapel Hill",
     "published_at": "2026-06-04T18:51:16+00:00",
-    "title_ja": "UNC、図書館と生成AIの地域コミュニティ影響を調査",
-    "summary_ja": "ノースカロライナ大学が、図書館を通じた生成AIの地域社会への影響に関する研究を開始した。",
+    "title_ja": "ノースカロライナ大学、図書館と生成AIの地域研究を開始",
+    "summary_ja": "カロライナ大学が図書館と生成AIが地域社会に与える影響を調査する研究プロジェクトを立ち上げた。",
     "_translate_source": "Carolina launches study on libraries and generative AI in local communities - The University of North Carolina at Chapel Hill\nCarolina launches study on libraries and generative AI in local communities The University of North Carolina at Chapel Hill"
   },
   {
@@ -417,7 +489,10 @@
     "region": "usa",
     "kind": "rss",
     "summary": "The Pope’s Mandate on AI Is a Moral Safeguard for Our Times Council on Foreign Relations",
-    "published_at": "2026-06-04T18:49:19+00:00"
+    "published_at": "2026-06-04T18:49:19+00:00",
+    "title_ja": "教皇のAI指針、現代の道徳的防波堤に",
+    "summary_ja": "教皇が示したAIに関する指針は、技術の暴走を防ぐ道徳的枠組みとして注目されている。",
+    "_translate_source": "The Pope’s Mandate on AI Is a Moral Safeguard for Our Times - Council on Foreign Relations\nThe Pope’s Mandate on AI Is a Moral Safeguard for Our Times Council on Foreign Relations"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnhlMV9BT1FMZWRNbWI5WGdiUzYwR1Q4d3BDSHhzMURESGRaWTYyUmE1elk1UHR3eHpJUXNXdUpxaG1aZGRlVXF4eVU0Sk1wTnVjV3VCc09fRm5mUmVwSzJCSWUySU5jU0EyeGViTXBoSGsxRkdkWHJUZ05PWjFqdjFjcDYxNFJld2tHWGl0X3Y?oc=5",
@@ -429,8 +504,8 @@
     "kind": "rss",
     "summary": "OpenAI Breaks With White House On Oversight Of Advanced AI Systems International Business Times",
     "published_at": "2026-06-04T18:48:44+00:00",
-    "title_ja": "OpenAI、ホワイトハウスと先進AI監督で意見対立 - IBT",
-    "summary_ja": "OpenAIが先進AIシステムの監督に関して、ホワイトハウスの方針に異議を唱えたと報じられている。",
+    "title_ja": "OpenAI、ホワイトハウスと先進AI規制で対立",
+    "summary_ja": "OpenAIが先進AIシステムの監督に関するホワイトハウスの方針に異議を唱え、独自の立場を明確にした。",
     "_translate_source": "OpenAI Breaks With White House On Oversight Of Advanced AI Systems - International Business Times\nOpenAI Breaks With White House On Oversight Of Advanced AI Systems International Business Times"
   },
   {
@@ -443,8 +518,8 @@
     "kind": "rss",
     "summary": "Washington AI Network Hosts AI Honors Gala, Honors Seven American Leaders in Artificial Intelligence Yahoo Finance Singapore",
     "published_at": "2026-06-04T18:44:00+00:00",
-    "title_ja": "ワシントンAIネットワーク、AI栄誉ガラ開催",
-    "summary_ja": "ワシントンAIネットワークがAI栄誉ガラを開催し、人工知能分野で活躍する7人のアメリカ人指導者を表彰した。",
+    "title_ja": "ワシントンAIネットワーク、AIリーダー7人を表彰",
+    "summary_ja": "ワシントンAIネットワークがAI分野で活躍するアメリカの指導者7人を表彰するガラを開催した。",
     "_translate_source": "Washington AI Network Hosts AI Honors Gala, Honors Seven American Leaders in Artificial Intelligence - Yahoo Finance Singapore\nWashington AI Network Hosts AI Honors Gala, Honors Seven American Leaders in Artificial Intelligence Yahoo Finance Singapore"
   },
   {
@@ -457,8 +532,8 @@
     "kind": "rss",
     "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying t…",
     "published_at": "2026-06-04T18:38:04+00:00",
-    "title_ja": "ケビン・オレアリー氏、ユタ州データセンター計画を縮小へ",
-    "summary_ja": "ケビン・オレアリー氏がユタ州で計画中の4万エーカー規模データセンターを半分に縮小すると住民・活動家への配慮から表明した。",
+    "title_ja": "Kevin O’Leary、ユタ州の巨大データセンター計画を縮小へ",
+    "summary_ja": "Kevin O’Leary氏が住民らの反対を受け、ユタ州に計画していた4万エーカーのデータセンターを半分の規模に縮小すると表明した。",
     "_translate_source": "Kevin O’Leary agrees to downsize massive Utah data center\nKevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying t…"
   },
   {
@@ -470,10 +545,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Should You Hijack a Corporate AI Chatbot for Free Tokens? Gizmodo",
-    "published_at": "2026-06-04T18:30:58+00:00",
-    "title_ja": "企業AIチャットボットを乗っ取って無料トークン獲得？",
-    "summary_ja": "企業向けAIチャットボットを不正利用して無料トークンを得る行為について、Gizmodoがその是非を議論している。",
-    "_translate_source": "Should You Hijack a Corporate AI Chatbot for Free Tokens? - Gizmodo\nShould You Hijack a Corporate AI Chatbot for Free Tokens? Gizmodo"
+    "published_at": "2026-06-04T18:30:58+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakQwNEwtX19qWm4zeFVJakJsQ0piRHlMbkM0TnY5NkVUTkI4T0thdzVxa2t0UG4xZ1JZZ0Y5SUFOc1RJX3I2RkZtSGo5bGtVWlVRNHR1ZXF6T0l4RjByYXdCMTI2ZFEtTElyQ1RISUFVRHVIS19QUl93Ul84enQ5XzZVWVNDd05MV0sxdFhiSjNnYVhCdWFkM3R6SFFhQlphM2VMRzBWS0UyOHplNGk4WkRmSFJwbFRFLThnZXFiZkFqTnl3aWg3enVGNWhYUGM?oc=5",
@@ -486,22 +558,8 @@
     "summary": "Netflix creating industry guidelines for AI production, co-CEO says Nikkei Asia",
     "published_at": "2026-06-04T18:08:00+00:00",
     "title_ja": "Netflix、AI制作の業界ガイドライン策定へ",
-    "summary_ja": "Netflix共同CEOが、AIを活用したコンテンツ制作に関する業界ガイドラインを同社が作成すると明らかにした。",
+    "summary_ja": "Netflix共同CEOが、AIを活用したコンテンツ制作に関する業界ガイドラインを策定すると発表した。",
     "_translate_source": "Netflix creating industry guidelines for AI production, co-CEO says - Nikkei Asia\nNetflix creating industry guidelines for AI production, co-CEO says Nikkei Asia"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN285XzlBNTdCVVdqU1k3TjU5c2hPOWJDb0RwQWJWbEJuWVZpbnVjWjkyc2Z0c25HenQyUmVIdnZTc1ZwaV9ILURSTXV5VHFNLTNUUmZkeVFKelhNc0xQMUprSG5WeW5hNGxNckIyanBUUkMxYVZFZ21qMGRfaW8tRll2a3JfWGtpcHQwaFN6LWF1SVVqbkJfZFdPdFUyZ0dPT3lGZzJTY0psOEt2cjF4ZW9n?oc=5",
-    "title": "Utah introduces AI tools in classrooms statewide - KSL.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN285XzlBNTdCVVdqU1k3TjU5c2hPOWJDb0RwQWJWbEJuWVZpbnVjWjkyc2Z0c25HenQyUmVIdnZTc1ZwaV9ILURSTXV5VHFNLTNUUmZkeVFKelhNc0xQMUprSG5WeW5hNGxNckIyanBUUkMxYVZFZ21qMGRfaW8tRll2a3JfWGtpcHQwaFN6LWF1SVVqbkJfZFdPdFUyZ0dPT3lGZzJTY0psOEt2cjF4ZW9n?oc=5",
-    "source": "Google News (AI・米国)",
-    "category": "総合",
-    "region": "usa",
-    "kind": "rss",
-    "summary": "Utah introduces AI tools in classrooms statewide KSL.com",
-    "published_at": "2026-06-04T18:04:48+00:00",
-    "title_ja": "ユタ州、全州の教室にAIツール導入",
-    "summary_ja": "ユタ州が州内全教室にAIツールを導入し、教育現場での活用を推進している。",
-    "_translate_source": "Utah introduces AI tools in classrooms statewide - KSL.com\nUtah introduces AI tools in classrooms statewide KSL.com"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3k3dDJsUFBFVmRTeVVkSkIwdXpFVWhNVllYa193ekc5WkpraEJRRFk4cjdhSmxFTm1HamhHQUJFclBXWDR2NlNpeVJaTTN1RlVOU2JMQUZUV043Tk92ZVkza3hvQnlUNEY5bXoya1FzWk9kQ2dmQXpXZkFEZFBLc010OVQzcGZYUGlXUnhuUVlLOVBrM0NXS051d01NS2RMTUNGVTFuSXFCRmVmVjZJ?oc=5",
@@ -513,23 +571,9 @@
     "kind": "rss",
     "summary": "Databricks CEO: AI is here, focus on data context StartupHub.ai",
     "published_at": "2026-06-04T18:02:58+00:00",
-    "title_ja": "Databricks CEO「AIは既に到来、データ文脈が鍵」",
-    "summary_ja": "Databricks CEOが、AIの時代ではデータの文脈理解が重要だと強調した。",
+    "title_ja": "Databricks CEO「AIはすでに到来、データ文脈が鍵」",
+    "summary_ja": "DatabricksのCEOは、AIの時代はすでに始まっており、企業はデータ文脈の整備に注力すべきだと強調した。",
     "_translate_source": "Databricks CEO: AI is here, focus on data context - StartupHub.ai\nDatabricks CEO: AI is here, focus on data context StartupHub.ai"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iWTF6Z1hQX21GMks1eU1mRmlGcUMyMWdxak03Y3czVHFmMEFvY2Vod3NsMWUtNTRGdFRTNVc1V3YwUGdzVm42OGJsWFZWSkFKVWF6RW95ZlpMRndxMnNHSG02UFFKVG9vcGRtMDZB?oc=5",
-    "title": "Carney unveils national AI strategy, says it prioritizes safety, reliability, sovereignty - CBC",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iWTF6Z1hQX21GMks1eU1mRmlGcUMyMWdxak03Y3czVHFmMEFvY2Vod3NsMWUtNTRGdFRTNVc1V3YwUGdzVm42OGJsWFZWSkFKVWF6RW95ZlpMRndxMnNHSG02UFFKVG9vcGRtMDZB?oc=5",
-    "source": "Google News (AI・米国)",
-    "category": "総合",
-    "region": "usa",
-    "kind": "rss",
-    "summary": "Carney unveils national AI strategy, says it prioritizes safety, reliability, sovereignty CBC",
-    "published_at": "2026-06-04T17:47:11+00:00",
-    "title_ja": "カーニー氏、国家AI戦略を発表",
-    "summary_ja": "カーニー氏が安全・信頼性・主権を重視した国家AI戦略を発表した。",
-    "_translate_source": "Carney unveils national AI strategy, says it prioritizes safety, reliability, sovereignty - CBC\nCarney unveils national AI strategy, says it prioritizes safety, reliability, sovereignty CBC"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXVDVnRrRTBLZzZ6WjVjRWlpR25Dal9BTndCYWlFM1htWGtFV2U5NC1KcEJzeUZMWlZ0d1JhOWxlZk1kS3FTa0lBQlZKaU5BWmpadDc3ZmhqQ0hqQklBTkJTWFR1ZDRXWjktamo5NGQwM1h5MmFqb2h4eXR2UThBUnRoYWM4dnlISkJMdWNCSDhseVBZSTYyVjRhYU4wYzNFZ2Z2bTlqNzZpNGI3dzUwSWRYOA?oc=5",
@@ -541,8 +585,8 @@
     "kind": "rss",
     "summary": "Executive order closer to proper vision for US, AI and security Stars and Stripes",
     "published_at": "2026-06-04T17:25:29+00:00",
-    "title_ja": "米大統領令、AIと安全保障の方向性を明確化",
-    "summary_ja": "米国の大統領令がAIと安全保障に関する明確なビジョンを示したと評価されている。",
+    "title_ja": "米大統領令、AIと安全保障の包括的ビジョンに近づく",
+    "summary_ja": "米政府が発表した大統領令は、AIの安全保障面での包括的な枠組みを示し、従来より踏み込んだ内容となった。",
     "_translate_source": "Executive order closer to proper vision for US, AI and security - Stars and Stripes\nExecutive order closer to proper vision for US, AI and security Stars and Stripes"
   },
   {
@@ -555,8 +599,8 @@
     "kind": "rss",
     "summary": "Fighting AI with AI: The time to act is now cio.com",
     "published_at": "2026-06-04T17:18:17+00:00",
-    "title_ja": "AIとAIの戦い：今こそ行動を",
-    "summary_ja": "AIの脅威に対抗するため、AIを活用した防御策の導入が急務となっている。企業は今すぐ対策を講じる必要がある。",
+    "title_ja": "AIと戦うにはAIを活用せよ、即行動を",
+    "summary_ja": "サイバーセキュリティ分野で、AIを活用した防御策の導入が急務だと専門家が警鐘を鳴らしている。",
     "_translate_source": "Fighting AI with AI: The time to act is now - cio.com\nFighting AI with AI: The time to act is now cio.com"
   },
   {
@@ -569,8 +613,8 @@
     "kind": "rss",
     "summary": "Fed's Daly: Next Year is Litmus Test for AI's Economic Impact StartupHub.ai",
     "published_at": "2026-06-04T17:08:32+00:00",
-    "title_ja": "FRB Daly氏：来年がAI経済影響の試金石",
-    "summary_ja": "米サンフランシスコ連銀総裁が、2025年がAIによる経済的影響を測る重要な年になるとの見方を示した。",
+    "title_ja": "米FRB Daly氏「来年がAIの経済影響を測る試金石」",
+    "summary_ja": "米サンフランシスコ連銀総裁は、2025年がAIによる経済への影響を判断する重要な年になるとの見方を示した。",
     "_translate_source": "Fed's Daly: Next Year is Litmus Test for AI's Economic Impact - StartupHub.ai\nFed's Daly: Next Year is Litmus Test for AI's Economic Impact StartupHub.ai"
   },
   {
@@ -583,8 +627,8 @@
     "kind": "rss",
     "summary": "Decoding AI: How artificial intelligence is being utilized in the housing and rental market CNN",
     "published_at": "2026-06-04T17:04:57+00:00",
-    "title_ja": "住宅・賃貸市場におけるAI活用の現状",
-    "summary_ja": "不動産業界でAIが価格予測や入居者マッチングに活用され始め、市場の効率化が進んでいる。",
+    "title_ja": "住宅・賃貸市場で進むAI活用の実態を解説",
+    "summary_ja": "不動産業界でAIが価格予測や入居者審査に活用され始め、市場の効率化が進んでいる。",
     "_translate_source": "Decoding AI: How artificial intelligence is being utilized in the housing and rental market - CNN\nDecoding AI: How artificial intelligence is being utilized in the housing and rental market CNN"
   },
   {
@@ -597,8 +641,8 @@
     "kind": "rss",
     "summary": "What to know about Canada's new AI strategy BBC",
     "published_at": "2026-06-04T17:04:47+00:00",
-    "title_ja": "カナダの新AI戦略、要点を解説",
-    "summary_ja": "カナダ政府がAIの安全な活用とイノベーション促進を目指す新戦略を発表。規制と産業支援の両立が狙い。",
+    "title_ja": "カナダ新AI戦略のポイントを解説",
+    "summary_ja": "カナダ政府が発表した新AI戦略は、研究投資と規制整備の両立を目指す内容となっている。",
     "_translate_source": "What to know about Canada's new AI strategy - BBC\nWhat to know about Canada's new AI strategy BBC"
   },
   {
@@ -611,8 +655,8 @@
     "kind": "rss",
     "summary": "Trump Just Signed a Scaled-Back AI Executive Order: What the Voluntary 30-Day Review Means for Big Tech 24/7 Wall St.",
     "published_at": "2026-06-04T17:00:26+00:00",
-    "title_ja": "トランプ氏、AI大統領令を縮小版で署名",
-    "summary_ja": "30日間の自主レビューを柱とするAI規制が成立。大手テック企業への影響が注目されている。",
+    "title_ja": "トランプ氏、AI大統領令を縮小版で署名　30日自主審査の狙い",
+    "summary_ja": "トランプ大統領はAIに関する大統領令を縮小版で署名。ビッグテック各社に30日間の自主的な内容審査を求める形となった。",
     "_translate_source": "Trump Just Signed a Scaled-Back AI Executive Order: What the Voluntary 30-Day Review Means for Big Tech - 24/7 Wall St.\nTrump Just Signed a Scaled-Back AI Executive Order: What the Voluntary 30-Day Review Means for Big Tech 24/7 Wall St."
   },
   {
@@ -625,8 +669,8 @@
     "kind": "rss",
     "summary": "House unveils AI draft that would preempt state laws Politico",
     "published_at": "2026-06-04T16:59:44+00:00",
-    "title_ja": "米下院、州法を上書きするAI法案を公表",
-    "summary_ja": "AIに関する州レベルの規制を連邦法で統一する方向で、テック企業への影響が注目されている。",
+    "title_ja": "米下院、州法を上書きするAI法案の原案を公表",
+    "summary_ja": "米下院がAI規制に関する法案原案を明らかにし、州レベルの規制を連邦法で上書きする内容が注目されている。",
     "_translate_source": "House unveils AI draft that would preempt state laws - Politico\nHouse unveils AI draft that would preempt state laws Politico"
   },
   {
@@ -639,8 +683,8 @@
     "kind": "rss",
     "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
     "published_at": "2026-06-04T16:32:48+00:00",
-    "title_ja": "Meta、FacebookにAIクリエイター支援機能を追加",
-    "summary_ja": "投稿の最適タイミングやコメント分析をAIが即答。クリエイター向けにパフォーマンス管理を簡素化。",
+    "title_ja": "Meta、FacebookにAIクリエイター支援機能を導入",
+    "summary_ja": "クリエイターはパフォーマンス分析に手間がかかっていたが、新AIアシスタントで「いつ投稿すべきか」「コメントの反応は？」などの質問に即答可能になった。",
     "_translate_source": "Meta rolls out a new AI creator assistant on Facebook\nCreators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\""
   },
   {
@@ -653,8 +697,8 @@
     "kind": "rss",
     "summary": "Apple's WWDC nears: Here's what you can look forward to.",
     "published_at": "2026-06-04T16:31:12+00:00",
-    "title_ja": "WWDC 2026、Siri刷新とApple Intelligenceに注目",
-    "summary_ja": "6月のWWDCでSiriの大幅アップデートと生成AI機能の強化が発表される見通し。",
+    "title_ja": "WWDC 2026でSiri刷新とApple Intelligence更新に注目",
+    "summary_ja": "Appleの年次開発者会議が近づく中、Siriの大幅刷新とApple Intelligenceの新機能に期待が高まっている。",
     "_translate_source": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates\nApple's WWDC nears: Here's what you can look forward to."
   },
   {
@@ -667,8 +711,8 @@
     "kind": "rss",
     "summary": "Illinois Department of Human Rights Seeks Public Comment on Draft AI Employment Regulations Inside Global Tech",
     "published_at": "2026-06-04T16:21:51+00:00",
-    "title_ja": "イリノイ州人権局、AI雇用規制案のパブリックコメント募集",
-    "summary_ja": "イリノイ州人権局がAIを活用した雇用に関する規制案を公表し、意見募集を開始した。AI採用ツールの公平性や透明性を確保するためのルール整備が狙い。",
+    "title_ja": "イリノイ州、AI雇用規制案のパブリックコメント募集",
+    "summary_ja": "イリノイ州人権局がAIを活用した雇用に関する規制案を公表し、意見募集を開始した。",
     "_translate_source": "Illinois Department of Human Rights Seeks Public Comment on Draft AI Employment Regulations - Inside Global Tech\nIllinois Department of Human Rights Seeks Public Comment on Draft AI Employment Regulations Inside Global Tech"
   },
   {
@@ -681,8 +725,8 @@
     "kind": "rss",
     "summary": "Asana launches AI ‘chief of staff’ to keep projects on track Computerworld",
     "published_at": "2026-06-04T16:15:03+00:00",
-    "title_ja": "Asana、プロジェクト管理を支援するAI「chief of staff」を発表",
-    "summary_ja": "AsanaがAIを活用した「chief of staff」機能をリリース。プロジェクトの進捗管理やタスク調整を自動化し、チームの生産性向上を目指す。",
+    "title_ja": "Asana、プロジェクト管理を支えるAI「chief of staff」を発表",
+    "summary_ja": "AsanaがAIを活用した「chief of staff」機能をリリースし、プロジェクト進行の円滑化を目指す。",
     "_translate_source": "Asana launches AI ‘chief of staff’ to keep projects on track - Computerworld\nAsana launches AI ‘chief of staff’ to keep projects on track Computerworld"
   },
   {
@@ -696,8 +740,22 @@
     "summary": "AI Adoption 'Incredibly Shallow,' Says Economist StartupHub.ai",
     "published_at": "2026-06-04T16:07:37+00:00",
     "title_ja": "AI導入は「非常に浅い」、経済学者が警鐘",
-    "summary_ja": "経済学者が、企業におけるAI導入の多くが表層的で本質的な変革に至っていないと指摘。投資対効果の低さが課題となっている。",
+    "summary_ja": "経済学者が、AIの企業導入が表層的で本質的な変革には至っていないと指摘した。",
     "_translate_source": "AI Adoption 'Incredibly Shallow,' Says Economist - StartupHub.ai\nAI Adoption 'Incredibly Shallow,' Says Economist StartupHub.ai"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmI4b2dpSUtiNVJVYTNxcGVaWDFKdjd5ZWI3aFViUmk0YWd2Qk5mWkFSbVNfVWZYM1RRRlFwdXMtSlRNVUduQ1hoOGt1cFFPSk0yVUNyMjhOZmZFOVdDVm96dU1iVDNMMFRmQmcyTzVRLTZhNk15bHR4X0NXOGdNNG5HS2ZvQW1Wb1dQWndFVDcxMThibnVOX2NFdnNOSzNRZHFRWlVrS0lZUQ?oc=5",
+    "title": "Why Instagram's AI Labels Backfire - Fstoppers",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmI4b2dpSUtiNVJVYTNxcGVaWDFKdjd5ZWI3aFViUmk0YWd2Qk5mWkFSbVNfVWZYM1RRRlFwdXMtSlRNVUduQ1hoOGt1cFFPSk0yVUNyMjhOZmZFOVdDVm96dU1iVDNMMFRmQmcyTzVRLTZhNk15bHR4X0NXOGdNNG5HS2ZvQW1Wb1dQWndFVDcxMThibnVOX2NFdnNOSzNRZHFRWlVrS0lZUQ?oc=5",
+    "source": "Google News (AI・米国)",
+    "category": "総合",
+    "region": "usa",
+    "kind": "rss",
+    "summary": "Why Instagram's AI Labels Backfire Fstoppers",
+    "published_at": "2026-06-04T16:03:01+00:00",
+    "title_ja": "InstagramのAIラベル、逆効果に？",
+    "summary_ja": "Instagramが導入したAI生成コンテンツのラベル表示が、かえってユーザーの不信感を招いていると指摘されている。",
+    "_translate_source": "Why Instagram's AI Labels Backfire - Fstoppers\nWhy Instagram's AI Labels Backfire Fstoppers"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOHpKS19VRDZfX2s2WFVpUm1yS0tmeUp4UE1FcFlZWUFiU2hoY19NU2t1NlBjVzFxVWZ5N1YzdngtajlLSHZDQ0tKb3lwRG1tQWw0dWNlUnEyU3NjbWRJX04zNjh4SmFqN09BdGhnRWpKZEIzUnVlMFdub2o0MEpJNnd5YzJQLTU2dVE?oc=5",
@@ -709,8 +767,8 @@
     "kind": "rss",
     "summary": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery MIT News",
     "published_at": "2026-06-04T16:00:00+00:00",
-    "title_ja": "NSF、MIT主導のAI・物理学研究所への支援を更新",
-    "summary_ja": "米国立科学財団（NSF）がMIT主導のAIと物理学の研究所への支援を継続。新たな研究モデル拡大に向け、さらなる資金提供を行う。",
+    "title_ja": "MIT主導のAI物理学研究所、NSFが支援を継続",
+    "summary_ja": "NSFがMIT主導のAIと物理学の研究所への支援を更新し、新たな研究モデルを拡大する。",
     "_translate_source": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery - MIT News\nNSF renews support for MIT-led AI and physics institute, expanding a new model for discovery MIT News"
   },
   {
@@ -723,8 +781,8 @@
     "kind": "rss",
     "summary": "Artificial intelligence companies warn of bottlenecks Taipei Times",
     "published_at": "2026-06-04T16:00:00+00:00",
-    "title_ja": "AI企業、部品供給のボトルネックに警鐘",
-    "summary_ja": "AI関連企業が、GPUや半導体部品の供給不足による生産遅延のリスクを警告。サプライチェーンの安定化が急務となっている。",
+    "title_ja": "AI企業、ボトルネック発生を警告",
+    "summary_ja": "AI関連企業が、計算資源や人材などの制約による開発の停滞を警告している。",
     "_translate_source": "Artificial intelligence companies warn of bottlenecks - Taipei Times\nArtificial intelligence companies warn of bottlenecks Taipei Times"
   },
   {
@@ -736,10 +794,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Foxconn and Intel team up to build AI systems Taipei Times",
-    "published_at": "2026-06-04T16:00:00+00:00",
-    "title_ja": "FoxconnとIntel、AIシステム共同開発で提携",
-    "summary_ja": "FoxconnとIntelがAI向けシステムの共同開発で提携。次世代AIインフラの構築に向け、製造・技術面で協力する。",
-    "_translate_source": "Foxconn and Intel team up to build AI systems - Taipei Times\nFoxconn and Intel team up to build AI systems Taipei Times"
+    "published_at": "2026-06-04T16:00:00+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1BwQldwM2JYV0l0UlFpUVFaMU9OclVhaUl1SG9MU3h5cW5tQzNacG11Vl9JUTBwT2oyQzBmWmY4LVhPVzltVlVmcTJWNmF0SVg2cW9kQTY3bXZJUnVHRkpVQzkxRDFTdlRRX2UzalJxbTM0UFBWMmJYak00bjJCMkFNX0JQcGtwR1JmemFhaGtzdnliSU4zUjB3d21rd2NGZTJfMElBNDBCX3hM?oc=5",
@@ -750,10 +805,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "New guidance, proposed rule changes on generative AI in legal practice Daily Journal",
-    "published_at": "2026-06-04T15:52:33+00:00",
-    "title_ja": "法律事務所向け生成AIの新ガイドラインと規則改正案",
-    "summary_ja": "法律分野での生成AI利用に関する新ガイドラインと規則改正案が発表された。弁護士業務でのAI活用ルール整備が進む。",
-    "_translate_source": "New guidance, proposed rule changes on generative AI in legal practice - Daily Journal\nNew guidance, proposed rule changes on generative AI in legal practice Daily Journal"
+    "published_at": "2026-06-04T15:52:33+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0xOWWF3bGJHSjRLNnhqelNaUFdhcWVwNDBNV0t1Y2dtc3B4a0NBOUpCZ0J1dFRUTm5qeVFuUzR5MnNsb0RIY2JlTHZudjNiRUhsY2JMS2V6Y0YtcUEwbFBVZnhpME9maUV6WWNBaTJxNVZ4VTY3QUxsUUFPUkVCczhtMWRvaGFqc3VZZXExa3hIOU1uWEdMbFlYM0EzNnB5Yl84ME02SUFDdFVtQkE2bkMzMEc4Z2Vfd2lOSHh3?oc=5",
@@ -764,10 +816,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Haley Joel Osment on the 25th anniversary of ‘A.I. Artificial Intelligence’: ‘I’m disappointed our reality is cheesier’ Gold Derby",
-    "published_at": "2026-06-04T15:45:00+00:00",
-    "title_ja": "ヘイリー・ジョエル・オスメント、『A.I.』25周年で「現実の方がチープ」と語る",
-    "summary_ja": "映画『A.I.』公開25周年を迎え、ヘイリー・ジョエル・オスメントが「現実の方がチーズっぽい」との感想を述べた。",
-    "_translate_source": "Haley Joel Osment on the 25th anniversary of ‘A.I. Artificial Intelligence’: ‘I’m disappointed our reality is cheesier’ - Gold Derby\nHaley Joel Osment on the 25th anniversary of ‘A.I. Artificial Intelligence’: ‘I’m disappointed our reality is cheesier’ Gold Derby"
+    "published_at": "2026-06-04T15:45:00+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSQjRsY29uRGo2enh0RVlIQXNCWGpEWFgxUUxDYjVheFJKbkJSTThLOHBsT2FRdC1USDU0RUktX1lOTmxtM1UwMVQ5VWp0Uy1zVFl5dVJFTkxCS2N1ek9Ra2FUeU1tQnBPamhNeXgwOFM2VHFL?oc=5",
@@ -778,10 +827,18 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Congress Confronts AI Threat to Critical Infrastructure Legis1",
-    "published_at": "2026-06-04T15:44:26+00:00",
-    "title_ja": "米議会、重要インフラへのAI脅威に警鐘",
-    "summary_ja": "米議会が重要インフラに対するAIの脅威を議論。安全保障上のリスクを踏まえ、対策の必要性が指摘されている。",
-    "_translate_source": "Congress Confronts AI Threat to Critical Infrastructure - Legis1\nCongress Confronts AI Threat to Critical Infrastructure Legis1"
+    "published_at": "2026-06-04T15:44:26+00:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2UyRDY2bDdUbjZVdHJxdWc3amkxcHh4aGNVTk1hYUtxVkI3R21pdlFIR0F0b3Q0MThqa2x1eGotRHpGenl3M2l0dG16aFNLNlF4eDRRUEwwN2x1THlCZXJ6bzhwMzkyTEoyRVkyR2syVmRxNHEtbGJLU3pRMzVPc1ZLdWQ2WnZHSFNJQTUzSzkteU9WaEZicGx1b0dmeldCRU5nTl96TFQ3U21KOGNJRUNyWQ?oc=5",
+    "title": "Meta Eyes $200-Per-Month Price Tag for Hatch AI Agent - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2UyRDY2bDdUbjZVdHJxdWc3amkxcHh4aGNVTk1hYUtxVkI3R21pdlFIR0F0b3Q0MThqa2x1eGotRHpGenl3M2l0dG16aFNLNlF4eDRRUEwwN2x1THlCZXJ6bzhwMzkyTEoyRVkyR2syVmRxNHEtbGJLU3pRMzVPc1ZLdWQ2WnZHSFNJQTUzSzkteU9WaEZicGx1b0dmeldCRU5nTl96TFQ3U21KOGNJRUNyWQ?oc=5",
+    "source": "Google News (AI・米国)",
+    "category": "総合",
+    "region": "usa",
+    "kind": "rss",
+    "summary": "Meta Eyes $200-Per-Month Price Tag for Hatch AI Agent PYMNTS.com",
+    "published_at": "2026-06-04T15:44:09+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnZSWkhjV0lhOXQzQkRrNUFDaFliSWEwUDVxa1V5azNTTHdqNG5BNXNFQnpYcVdibjhabnVCNi1aOHVqSTVhZWphWEJqdk45UEdjX0FUa3BUbmNkUTg1c2VfR2c3MkstYUhnakc1Zk5faDZCWVpMTzF4dXFjb2VaZ2JBTXJSaFp3bElocnpn?oc=5",
@@ -792,10 +849,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Canada bids to lead middle powers in AI sovereignty race Politico",
-    "published_at": "2026-06-04T15:38:23+00:00",
-    "title_ja": "カナダ、中堅国としてAI主権競争を主導へ",
-    "summary_ja": "カナダが中堅国を率いてAI主権競争に挑む方針を表明。技術的自立と国際的な影響力拡大を目指す。",
-    "_translate_source": "Canada bids to lead middle powers in AI sovereignty race - Politico\nCanada bids to lead middle powers in AI sovereignty race Politico"
+    "published_at": "2026-06-04T15:38:23+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHZ4cERRaGNucDVrSFZLb2l3UFBTbGN3dDJSS2NUZjNxS3VJdENsVUlrYUdWU1JtQkpHcnFnWjNlRHEzZlZmTjRKa21sdDZ1eGpBUGJxRUEtQ0xMQjlHYUl3WmZNTWtHRjFqMk9VZ2xFaTFldUJOelRVM25IRV9sXzNGRzI4cUhmR1hsdk5MQ1Y0SVBYX2c2Yi1RNktvekpiN0t5MkJiMWRzY0JSR0Z0aU1qT05FUjJ6UG5BeXI4SjFvNGZKM1JhMGZqbw?oc=5",
@@ -806,10 +860,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Von der Leyen’s AI pick triggers conflict-of-interest criticism politico.eu",
-    "published_at": "2026-06-04T15:38:00+00:00",
-    "title_ja": "EU委員長のAI担当人事に利益相反の批判",
-    "summary_ja": "フォンデアライエン委員長が任命したAI担当者に利益相反の疑いが生じ、欧州議会などで批判が強まっている。",
-    "_translate_source": "Von der Leyen’s AI pick triggers conflict-of-interest criticism - politico.eu\nVon der Leyen’s AI pick triggers conflict-of-interest criticism politico.eu"
+    "published_at": "2026-06-04T15:38:00+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONjlUMklfQVJYUXRSWnJsREFUNEptWVpOMjY1OUI2MjBheldUNWJscVIwam1KYTJFa2VmdGtVSTRsZlFWZXZxVkVWb0R5a2FMYmxLZlAyNE5BbzB2cHc2c0p0Z1ZnNGpQR3ZodkZ0MFNJOE0yZHNsRmlsUGc0endjWDlkR25oVlVLUldTZHIxSnowLTVtSlh4MGlqMmFUM24wRnoxaEQ3Z0h3OU1zZ3RIdW56RjhQbUtBUDdGanc0MTFKRXVhWktHdURSaHU1OHBiNVE?oc=5",
@@ -820,10 +871,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Anthropic and University of Tokyo partner to gauge generative AI use Nikkei Asia",
-    "published_at": "2026-06-04T15:36:00+00:00",
-    "title_ja": "Anthropicと東大、生成AI利用実態を共同調査",
-    "summary_ja": "Anthropicと東京大学が生成AIの利用状況を把握するため共同研究を開始。国内の活用実態を明らかにする。",
-    "_translate_source": "Anthropic and University of Tokyo partner to gauge generative AI use - Nikkei Asia\nAnthropic and University of Tokyo partner to gauge generative AI use Nikkei Asia"
+    "published_at": "2026-06-04T15:36:00+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEoxanh1M1BiQzBBVjkxcDNneHREUDJteE96Z3FOU1dkYmxuX3NrWkpvR0lmNlBqSXVmSmNoV2t1WVNGdG55d2c0Z1RpN2pQc1BQdk0xZ3hzMG1aUjZySG51ZWFfam9QVmF1NXZRTDNGSWhtSGg5VTJtVnNNdFFJSm1FUkJISFJsZ2loVmdTTy1nUUkwaWJkYV9iNXhjTG9BOHNPeHBuVHpBelRsY3VBalROaVBGZUlxcmYw?oc=5",
@@ -834,10 +882,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Amazon’s $50 Billion Chip Secret: Why It Could Become Nvidia’s Biggest AI Rival 24/7 Wall St.",
-    "published_at": "2026-06-04T15:31:49+00:00",
-    "title_ja": "Amazon、500億ドルの独自チップでNvidiaに対抗",
-    "summary_ja": "AmazonがAI向け独自チップに500億ドルを投じ、Nvidiaの最大のライバルになる可能性が指摘されている。",
-    "_translate_source": "Amazon’s $50 Billion Chip Secret: Why It Could Become Nvidia’s Biggest AI Rival - 24/7 Wall St.\nAmazon’s $50 Billion Chip Secret: Why It Could Become Nvidia’s Biggest AI Rival 24/7 Wall St."
+    "published_at": "2026-06-04T15:31:49+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2c2cF8zUWZhcjlJWjBoWi1uZ0ZaTFp4dVZ5TndrY3JjMnhxcl9RUTYyd1ZvNFhFc2tUa3FGeXFYd3ZUQnNvYlRFUDZrWkJyV1RVQTMwTmpOVTZJTGdiT0JiM0ZNQ1ZqeFlYeEgwMWRuOWxLV3Jmd19WV29aV3JDaklvQUx0ZTVBdkZkQVFfZ1FrOWNyQURqODdVSFFmTVdqdnl4V1JoeGYtODdiNlk1cFgwWVl3ODV2TkhNd2RhT2Y?oc=5",
@@ -848,10 +893,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Prime Minister Carney launches AI for All: Canada’s new national artificial intelligence strategy pm.gc.ca",
-    "published_at": "2026-06-04T15:17:00+00:00",
-    "title_ja": "カナダ首相、AI国家戦略「AI for All」を発表",
-    "summary_ja": "カーニー首相が全国民向けAI戦略を発表。技術の民主化と経済成長を両立させる方針を打ち出した。",
-    "_translate_source": "Prime Minister Carney launches AI for All: Canada’s new national artificial intelligence strategy - pm.gc.ca\nPrime Minister Carney launches AI for All: Canada’s new national artificial intelligence strategy pm.gc.ca"
+    "published_at": "2026-06-04T15:17:00+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNN3Njc0lmaHN0SzB1cUJvOGd4d1hnbEkwVFU4bzB4Ykl3ZkEwZldmczBzbVkzYjJJOTVESldQczFXRVVnWUhhZWpJblRSTEJ6TU5SWmY0eng4VHZleU9OY0VEZ1c1V2tzb1lqX3Q1dmprYjRxSDhZekVjVWlQaGhZVldxSHlweGpYRmZmYUtFc0lPR2RaMmJTeXlVb096U080WTdVOU0zcWt3UXJ0OXhVcWNjbDY4RjFlRHJPdWVvM0hscElnVHJRVlczTHB6UUJUel9STWRjeHNpb1VWR0NCVG5JRkVaUzZKX1pzSUQ3RkQ2ZXJxVkE2OFdKU0t1QUNFUVlJZXVRZXYyazJRVmNjcWtxVQ?oc=5",
@@ -862,10 +904,7 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Cyber Strategy at the AI Frontier: President Trump Releases Executive Order to Promote Advanced Artificial Intelligence Innovation and Security Sidley Austin",
-    "published_at": "2026-06-04T15:06:57+00:00",
-    "title_ja": "トランプ大統領、AIイノベーション促進の大統領令を発表",
-    "summary_ja": "トランプ大統領がAIのイノベーションとセキュリティを推進する大統領令を公表。サイバー戦略の強化も図る。",
-    "_translate_source": "Cyber Strategy at the AI Frontier: President Trump Releases Executive Order to Promote Advanced Artificial Intelligence Innovation and Security - Sidley Austin\nCyber Strategy at the AI Frontier: President Trump Releases Executive Order to Promote Advanced Artificial Intelligence Innovation and Security Sidley Austin"
+    "published_at": "2026-06-04T15:06:57+00:00"
   },
   {
     "id": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
@@ -876,62 +915,6 @@
     "region": "usa",
     "kind": "rss",
     "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-    "published_at": "2026-06-04T15:05:00+00:00",
-    "title_ja": "シリコンバレー、在宅支援ロボットに本腰",
-    "summary_ja": "米スタートアップHello Robotが第4世代の在宅支援ロボット「Stretch」を発表。家庭向け実用化に挑む。",
-    "_translate_source": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.\nThe California startup released the fourth-generation of its home assistance robot, Stretch."
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm1iZTVmVUVkUXNhOExiVTQtLUdkMWFkeExZNmhnR1R5SnFKWnJLQ05FbUVzT2k2WF9uMVVtWEdZN2tvaGNmSU5QaktuWlRpWlNBbVRXSzU0SUZSYVd2VFltZUdlRUFBVXVqb3Zkd2tPUFZhNVJwU1liWEpuT1FWRHpHQVIzUElvcHRkQkVrcmhtcGFBM2lQMHVfdWFqUHRFWUZvcExCRDhsMnhWS3c?oc=5",
-    "title": "Canada to Provide Funding, Buy Equity Stakes in AI Startups - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm1iZTVmVUVkUXNhOExiVTQtLUdkMWFkeExZNmhnR1R5SnFKWnJLQ05FbUVzT2k2WF9uMVVtWEdZN2tvaGNmSU5QaktuWlRpWlNBbVRXSzU0SUZSYVd2VFltZUdlRUFBVXVqb3Zkd2tPUFZhNVJwU1liWEpuT1FWRHpHQVIzUElvcHRkQkVrcmhtcGFBM2lQMHVfdWFqUHRFWUZvcExCRDhsMnhWS3c?oc=5",
-    "source": "Google News (AI・米国)",
-    "category": "総合",
-    "region": "usa",
-    "kind": "rss",
-    "summary": "Canada to Provide Funding, Buy Equity Stakes in AI Startups Bloomberg.com",
-    "published_at": "2026-06-04T15:02:52+00:00",
-    "title_ja": "カナダ、AIスタートアップに資金提供と出資へ",
-    "summary_ja": "カナダ政府はAIスタートアップに対し、資金提供と株式取得を行う方針を明らかにした。国内のAI産業育成と競争力強化が狙い。",
-    "_translate_source": "Canada to Provide Funding, Buy Equity Stakes in AI Startups - Bloomberg.com\nCanada to Provide Funding, Buy Equity Stakes in AI Startups Bloomberg.com"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkZLckV2R0x1VE95a2R2YXo1Nnc3YVZJTTNmTFBvZi1yZTVxZ2hWb0pMaGY3UHl0dm1Fcm9NSHVuMmx4dzNDZktCSXhYUFdRbkVrOVRNT01tV0NpYk9UNmFwTGRIaV9lVE1uXzJDWFBxdzVwbUxyU3pyTmI3bWNDYXQyXzJRZ2F2NDlSZFZGeUF5UGFkeXBha1ZXWWFPN05mTDM1Qk1oTG1CN3M5aWJOWkJIbTZiRmhXVGZNMFNQcHEtOWVWUVE?oc=5",
-    "title": "Why You Can’t Stop Investing in Artificial Intelligence - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkZLckV2R0x1VE95a2R2YXo1Nnc3YVZJTTNmTFBvZi1yZTVxZ2hWb0pMaGY3UHl0dm1Fcm9NSHVuMmx4dzNDZktCSXhYUFdRbkVrOVRNT01tV0NpYk9UNmFwTGRIaV9lVE1uXzJDWFBxdzVwbUxyU3pyTmI3bWNDYXQyXzJRZ2F2NDlSZFZGeUF5UGFkeXBha1ZXWWFPN05mTDM1Qk1oTG1CN3M5aWJOWkJIbTZiRmhXVGZNMFNQcHEtOWVWUVE?oc=5",
-    "source": "Google News (AI・米国)",
-    "category": "総合",
-    "region": "usa",
-    "kind": "rss",
-    "summary": "Why You Can’t Stop Investing in Artificial Intelligence Bloomberg.com",
-    "published_at": "2026-06-04T14:50:58+00:00",
-    "title_ja": "AI投資をやめられない理由",
-    "summary_ja": "生成AIの急速な進化と収益化期待から、投資家はAI関連企業への投資を止められない状況が続いている。",
-    "_translate_source": "Why You Can’t Stop Investing in Artificial Intelligence - Bloomberg.com\nWhy You Can’t Stop Investing in Artificial Intelligence Bloomberg.com"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTduSlBwZ2JyMGFiVmE2RVlYbmRUeVJ4akd2TlFNRjZzNENzOU41SGZzc2pFZmxEdHlxZ19iNWlEVkNIeUNEblFmZExLN0NnWDd3V2tYSGRkZHI2RC1DempJZW8xOVZCdWZQOFpkemVNY1AxdjRSWGxfZUJ0YjNQTGh2d19NQnFmTDk0cG9JYTFMTjFRQTJTU3R5SzJNNGZuY3VITWNBbGVfMTRWaVZXalZtaWc0YWFFb0pTRlpsamtvdnZiamM1U243YVdzZw?oc=5",
-    "title": "America Needs One National Framework for Artificial Intelligence - Bloomberg Law News",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTduSlBwZ2JyMGFiVmE2RVlYbmRUeVJ4akd2TlFNRjZzNENzOU41SGZzc2pFZmxEdHlxZ19iNWlEVkNIeUNEblFmZExLN0NnWDd3V2tYSGRkZHI2RC1DempJZW8xOVZCdWZQOFpkemVNY1AxdjRSWGxfZUJ0YjNQTGh2d19NQnFmTDk0cG9JYTFMTjFRQTJTU3R5SzJNNGZuY3VITWNBbGVfMTRWaVZXalZtaWc0YWFFb0pTRlpsamtvdnZiamM1U243YVdzZw?oc=5",
-    "source": "Google News (AI・米国)",
-    "category": "総合",
-    "region": "usa",
-    "kind": "rss",
-    "summary": "America Needs One National Framework for Artificial Intelligence Bloomberg Law News",
-    "published_at": "2026-06-04T14:38:00+00:00"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU10LUpFeGdhOURZUFhQa0FUMmJDRFJhUUxGajBzcm81Y092LUtKendINkxEaUZpeUNRZlFlZnJsb0FVYnd4azFmNlJlQUlfSnVBMTNnVDhCMF82Mm5VUFktZ0x4NU5nUUV2VFozYVJJUXFxLVdXWS1rVklzdzRlZHZOMTZKZkxJdzJucXpNUjBsVlBUd1FoeUhlNXRWYm5lOXp0SnExSk1vUQ?oc=5",
-    "title": "US tech layoffs record single-highest month in two years, and more than any other sector — nearly 40,000 get the axe, AI the most cited reason for layoffs - Tom's Hardware",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU10LUpFeGdhOURZUFhQa0FUMmJDRFJhUUxGajBzcm81Y092LUtKendINkxEaUZpeUNRZlFlZnJsb0FVYnd4azFmNlJlQUlfSnVBMTNnVDhCMF82Mm5VUFktZ0x4NU5nUUV2VFozYVJJUXFxLVdXWS1rVklzdzRlZHZOMTZKZkxJdzJucXpNUjBsVlBUd1FoeUhlNXRWYm5lOXp0SnExSk1vUQ?oc=5",
-    "source": "Google News (AI・米国)",
-    "category": "総合",
-    "region": "usa",
-    "kind": "rss",
-    "summary": "US tech layoffs record single-highest month in two years, and more than any other sector — nearly 40,000 get the axe, AI the most cited reason for layoffs Tom's Hardware",
-    "published_at": "2026-06-04T14:28:35+00:00",
-    "title_ja": "米テック企業のレイオフ、2年ぶり最多水準",
-    "summary_ja": "米テック業界で1カ月のレイオフ数が2年ぶりの高水準に達し、約4万人が解雇された。AI導入による人員削減が主な要因とされる。",
-    "_translate_source": "US tech layoffs record single-highest month in two years, and more than any other sector — nearly 40,000 get the axe, AI the most cited reason for layoffs - Tom's Hardware\nUS tech layoffs record single-highest month in two years, and more than any other sector — nearly 40,000 get the axe, AI the most cited reason for layoffs Tom's Hardware"
+    "published_at": "2026-06-04T15:05:00+00:00"
   }
 ]
