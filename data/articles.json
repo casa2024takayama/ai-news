@@ -1,94 +1,120 @@
 [
   {
-    "id": "x:87e3d345a6e94fad",
-    "title": "AIで作った映画予告がバズ",
-    "title_ja": "AIで作った映画予告がバズ",
-    "summary": "3人チームが2週間でDreamina使用の5分予告を公開。世界観とクオリティに51kいいね超の反響。",
-    "summary_ja": "3人チームが2週間でDreamina使用の5分予告を公開。世界観とクオリティに51kいいね超の反響。",
-    "url": "https://x.com/PJaccetturo/status/2062887190326304986",
-    "source": "X (PJaccetturo)",
-    "category": "Xトレンド",
-    "region": "usa",
-    "kind": "x_topic",
-    "published_at": "2026-06-07T21:02:15.600248+00:00"
-  },
-  {
-    "id": "x:ff2190c09cb66cbc",
-    "title": "Crazy Taxiに生成AI採用で批判",
-    "title_ja": "Crazy Taxiに生成AI採用で批判",
-    "summary": "リメイク版に生成AI使用の告知があり「クリエイティブ工程で使うな」と1.5k超の非難が集中。",
-    "summary_ja": "リメイク版に生成AI使用の告知があり「クリエイティブ工程で使うな」と1.5k超の非難が集中。",
-    "url": "https://x.com/wariocolosseum/status/2063693980856926327",
-    "source": "X (wariocolosseum)",
-    "category": "Xトレンド",
-    "region": "usa",
-    "kind": "x_topic",
-    "published_at": "2026-06-07T21:02:15.600248+00:00"
-  },
-  {
-    "id": "x:8e9bd80f5dab7707",
-    "title": "Claudeが化学者並みのNMR解析",
-    "title_ja": "Claudeが化学者並みのNMR解析",
-    "summary": "AnthropicがClaude Opus 4.7の分子構造解明性能を公開。専用ソフト並みと3.5kいいね。",
-    "summary_ja": "AnthropicがClaude Opus 4.7の分子構造解明性能を公開。専用ソフト並みと3.5kいいね。",
+    "id": "x:9d8639bd17061122",
+    "title": "Anthropic、再帰的自己改善で世界停止を提言",
+    "title_ja": "Anthropic、再帰的自己改善で世界停止を提言",
+    "summary": "AnthropicがフロンティアAI開発の協調停止を呼びかけ、再帰的自己改善の危険性を警告。OpenAIは政府主導のルール設定を主張し、議論が活発化。",
+    "summary_ja": "AnthropicがフロンティアAI開発の協調停止を呼びかけ、再帰的自己改善の危険性を警告。OpenAIは政府主導のルール設定を主張し、議論が活発化。",
     "url": "https://x.com/AnthropicAI/status/2062979607448682731",
     "source": "X (AnthropicAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-07T21:02:15.600248+00:00"
+    "published_at": "2026-06-07T21:02:33.115687+00:00"
   },
   {
-    "id": "x:7539bcb2be95c009",
-    "title": "OpenAIアカウント停止で不満爆発",
-    "title_ja": "OpenAIアカウント停止で不満爆発",
-    "summary": "誤停止の復旧発表に「4o返して」と3kいいね超。サポート対応への怒りが相次ぐ。",
-    "summary_ja": "誤停止の復旧発表に「4o返して」と3kいいね超。サポート対応への怒りが相次ぐ。",
-    "url": "https://x.com/OpenAI/status/2062927046448431587",
-    "source": "X (OpenAI)",
+    "id": "x:a83ba17557716588",
+    "title": "Claude、NMRで専用ソフト超えの化学性能",
+    "title_ja": "Claude、NMRで専用ソフト超えの化学性能",
+    "summary": "Claude Opus 4.7が分子構造決定で専用NMRソフトを上回り、化学・創薬分野での汎用モデルの実用性が注目されている。",
+    "summary_ja": "Claude Opus 4.7が分子構造決定で専用NMRソフトを上回り、化学・創薬分野での汎用モデルの実用性が注目されている。",
+    "url": "https://x.com/AnthropicAI/status/2062979607448682731",
+    "source": "X (AnthropicAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-07T21:02:15.600248+00:00"
+    "published_at": "2026-06-07T21:02:33.115687+00:00"
   },
   {
-    "id": "x:0c6099e1d6a96f43",
-    "title": "Sora開発者が独立「AGI前最後の作",
-    "title_ja": "Sora開発者が独立「AGI前最後の作",
-    "summary": "元Midjourney・OpenAIの@gabriel1が退社し新会社設立を発表。2.7kいいねで祝福殺到。",
-    "summary_ja": "元Midjourney・OpenAIの@gabriel1が退社し新会社設立を発表。2.7kいいねで祝福殺到。",
-    "url": "https://x.com/gabriel1/status/2063698980324737381",
-    "source": "X (gabriel1)",
+    "id": "x:1df8b262c114b6c5",
+    "title": "Claudeで構築するマルチエージェント実践講座",
+    "title_ja": "Claudeで構築するマルチエージェント実践講座",
+    "summary": "「Claudeにプロンプトするのではなく、システム自体にプロンプトさせる」設計が人気。研究・構築・レビューを分担するエージェントチーム構築法が拡散中。",
+    "summary_ja": "「Claudeにプロンプトするのではなく、システム自体にプロンプトさせる」設計が人気。研究・構築・レビューを分担するエージェントチーム構築法が拡散中。",
+    "url": "https://x.com/Aicoder786/status/2063259839904862318",
+    "source": "X (Aicoder786)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-07T21:02:15.600248+00:00"
+    "published_at": "2026-06-07T21:02:33.115687+00:00"
   },
   {
-    "id": "x:57c26d0173b670bd",
-    "title": "ChatGPTに「ありがとう」はNG",
-    "title_ja": "ChatGPTに「ありがとう」はNG",
-    "summary": "丁寧語がノイズ化し回答精度が激減。構造化プロンプト推奨の投稿が58000いいね超。",
-    "summary_ja": "丁寧語がノイズ化し回答精度が激減。構造化プロンプト推奨の投稿が58000いいね超。",
+    "id": "x:f366e502d5343937",
+    "title": "Notion、Claude性能低下で他プロバイダへ切替",
+    "title_ja": "Notion、Claude性能低下で他プロバイダへ切替",
+    "summary": "Notion AIがAnthropic Opus 4.7/4.8の性能低下を受け、他モデルへ切り替えたと公式告知。数百万ビューを記録しサービス影響が話題に。",
+    "summary_ja": "Notion AIがAnthropic Opus 4.7/4.8の性能低下を受け、他モデルへ切り替えたと公式告知。数百万ビューを記録しサービス影響が話題に。",
+    "url": "https://x.com/NotionStatus/status/2063477745796161904",
+    "source": "X (NotionStatus)",
+    "category": "Xトレンド",
+    "region": "usa",
+    "kind": "x_topic",
+    "published_at": "2026-06-07T21:02:33.115687+00:00"
+  },
+  {
+    "id": "x:6cac94f4f845b39b",
+    "title": "AI教育リソース無料まとめが再バズ",
+    "title_ja": "AI教育リソース無料まとめが再バズ",
+    "summary": "Anthropic・OpenAIなど主要企業提供の無料AI講座一覧が再拡散。Stanford級教育を無料で得られる点が「今すぐ学習せよ」の機運を後押し。",
+    "summary_ja": "Anthropic・OpenAIなど主要企業提供の無料AI講座一覧が再拡散。Stanford級教育を無料で得られる点が「今すぐ学習せよ」の機運を後押し。",
+    "url": "https://x.com/Tech_Arish/status/2063500763985596838",
+    "source": "X (Tech_Arish)",
+    "category": "Xトレンド",
+    "region": "usa",
+    "kind": "x_topic",
+    "published_at": "2026-06-07T21:02:33.115687+00:00"
+  },
+  {
+    "id": "x:be6227718eff50f4",
+    "title": "ChatGPTに「ありがとう」は不要",
+    "title_ja": "ChatGPTに「ありがとう」は不要",
+    "summary": "丁寧語がノイズになり性能低下。短く明確なプロンプト推奨の投稿が58000いいね超え。",
+    "summary_ja": "丁寧語がノイズになり性能低下。短く明確なプロンプト推奨の投稿が58000いいね超え。",
     "url": "https://x.com/wancoro_xx/status/2063239403196268999",
     "source": "X (wancoro_xx)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-07T21:01:46.523241+00:00"
+    "published_at": "2026-06-07T21:01:57.788520+00:00"
   },
   {
-    "id": "x:f5ed5deead86403d",
-    "title": "高市陣営AI世論工作疑惑",
-    "title_ja": "高市陣営AI世論工作疑惑",
-    "summary": "生成AIで1000本超の動画作成・拡散疑惑。民主主義への脅威と批判が拡大中。",
-    "summary_ja": "生成AIで1000本超の動画作成・拡散疑惑。民主主義への脅威と批判が拡大中。",
-    "url": "https://x.com/TomoMachi/status/2063680906460909694",
-    "source": "X (TomoMachi)",
+    "id": "x:bf3fc5da54c213ee",
+    "title": "NotebookLMが高評価",
+    "title_ja": "NotebookLMが高評価",
+    "summary": "引用元付き回答でハルシネーション少なく、業務・研究活用事例が急増中。",
+    "summary_ja": "引用元付き回答でハルシネーション少なく、業務・研究活用事例が急増中。",
+    "url": "https://x.com/thunder0305bird/status/2063206350352752765",
+    "source": "X (thunder0305bird)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-07T21:01:46.523241+00:00"
+    "published_at": "2026-06-07T21:01:57.788520+00:00"
+  },
+  {
+    "id": "x:140d21b79ba63055",
+    "title": "独自AI主張に懐疑の声",
+    "title_ja": "独自AI主張に懐疑の声",
+    "summary": "政治動画の「独自生成AI」表記に対し「日本にそんな技術ない」と現実チェック投稿が拡散。",
+    "summary_ja": "政治動画の「独自生成AI」表記に対し「日本にそんな技術ない」と現実チェック投稿が拡散。",
+    "url": "https://x.com/1lime10/status/2063725669771796984",
+    "source": "X (1lime10)",
+    "category": "Xトレンド",
+    "region": "japan",
+    "kind": "x_topic",
+    "published_at": "2026-06-07T21:01:57.788520+00:00"
+  },
+  {
+    "id": "x:735fc4e087891037",
+    "title": "松尾研LLM講座資料公開",
+    "title_ja": "松尾研LLM講座資料公開",
+    "summary": "東大松尾研のLLM基礎資料が無料公開され、教育・学習目的の関心が高まる。",
+    "summary_ja": "東大松尾研のLLM基礎資料が無料公開され、教育・学習目的の関心が高まる。",
+    "url": "https://x.com/itm_aiplus/status/2062738712375808466",
+    "source": "X (itm_aiplus)",
+    "category": "Xトレンド",
+    "region": "japan",
+    "kind": "x_topic",
+    "published_at": "2026-06-07T21:01:57.788520+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZi1ycVp5VWZSeTVaYko4YUJCRlNqNmQ0TnZkZ3NnNjUybWdRa3dUQV9temZXMDNEOGRBZDJwUTZueVREeWJEdnNpdDRIN3MxN1plXzQwVG9ueWpycmtleTJuemVDdXYzNXAydll1TDFYUUQyT2tHOTZ0aWNsdE1iZHdEc0VrbG5UejdIbW5UMGZzR2pWZkdITW5icWxLMldrUUhr?oc=5",
@@ -100,7 +126,7 @@
     "kind": "rss",
     "summary": "Have your say on learning, research and AI in social work communitycare.co.uk",
     "published_at": "2026-06-07T20:37:14+00:00",
-    "title_ja": "ソーシャルワークにおける学習・研究・AI活用について意見を",
+    "title_ja": "ソーシャルワークにおける学習・研究・AI活用について意見を募集",
     "summary_ja": "ソーシャルワーク分野での学習・研究・AIの活用について、読者の意見を募集している。",
     "_translate_source": "Have your say on learning, research and AI in social work - communitycare.co.uk\nHave your say on learning, research and AI in social work communitycare.co.uk"
   },
@@ -128,8 +154,8 @@
     "kind": "rss",
     "summary": "Dat Ngo on Arize: LLM Observability Platform StartupHub.ai",
     "published_at": "2026-06-07T19:02:37+00:00",
-    "title_ja": "Arize創業者、LLM可観測性プラットフォームの展望を語る",
-    "summary_ja": "ArizeのDat Ngo氏が、LLM向け可観測性プラットフォームの役割と今後の展望について語った。",
+    "title_ja": "Dat Ngo氏、ArizeのLLM可観測性プラットフォームについて語る",
+    "summary_ja": "Dat Ngo氏がArizeのLLM可観測性プラットフォームについて解説している。",
     "_translate_source": "Dat Ngo on Arize: LLM Observability Platform - StartupHub.ai\nDat Ngo on Arize: LLM Observability Platform StartupHub.ai"
   },
   {
@@ -142,8 +168,8 @@
     "kind": "rss",
     "summary": "MY TWO CENTS: AI, write a parody of artificial intelligence ruling the world Aldergrove Star",
     "published_at": "2026-06-07T18:49:45+00:00",
-    "title_ja": "AIが世界を支配するパロディー小説を書いてみた",
-    "summary_ja": "人工知能が世界を支配する設定のパロディー小説を、AI自身に書いてもらったというコラム。",
+    "title_ja": "AIが世界を支配するパロディ小説を書いて",
+    "summary_ja": "人工知能が世界を支配する設定のパロディ小説をAIに書いてもらった体験を綴る。",
     "_translate_source": "MY TWO CENTS: AI, write a parody of artificial intelligence ruling the world - Aldergrove Star\nMY TWO CENTS: AI, write a parody of artificial intelligence ruling the world Aldergrove Star"
   },
   {
@@ -157,7 +183,7 @@
     "summary": "Guest Column: Wyoming Should Not Fear Artificial Intelligence Or Data Centers Cowboy State Daily",
     "published_at": "2026-06-07T18:38:00+00:00",
     "title_ja": "ワイオミング州、AIとデータセンターを恐れる必要はない",
-    "summary_ja": "AIやデータセンターの進出を警戒する声に対し、経済効果や雇用創出を理由に前向きに受け入れるべきだと主張する寄稿。",
+    "summary_ja": "AIやデータセンターの進出を州が恐れる必要はなく、むしろ経済成長の機会と捉えるべきだ。",
     "_translate_source": "Guest Column: Wyoming Should Not Fear Artificial Intelligence Or Data Centers - Cowboy State Daily\nGuest Column: Wyoming Should Not Fear Artificial Intelligence Or Data Centers Cowboy State Daily"
   },
   {
@@ -169,7 +195,10 @@
     "region": "usa",
     "kind": "rss",
     "summary": "Opinion | Human intelligence will win out over artificial intelligence The Washington Post",
-    "published_at": "2026-06-07T18:15:00+00:00"
+    "published_at": "2026-06-07T18:15:00+00:00",
+    "title_ja": "人間の知能は人工知能に勝る",
+    "summary_ja": "人工知能が進化しても、人間の知能と創造性が最終的に優位に立つと論じている。",
+    "_translate_source": "Opinion | Human intelligence will win out over artificial intelligence - The Washington Post\nOpinion | Human intelligence will win out over artificial intelligence The Washington Post"
   },
   {
     "id": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
@@ -181,8 +210,8 @@
     "kind": "rss",
     "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
     "published_at": "2026-06-07T17:56:22+00:00",
-    "title_ja": "Notion、障害後にAnthropic連携を復旧",
-    "summary_ja": "サービス障害で一時停止していたAnthropic連携を復旧。プロダクト責任者が「予想外の反響」とコメントした。",
+    "title_ja": "Notion、障害後にAnthropicへのアクセスを復旧",
+    "summary_ja": "Notionのプロダクト責任者は、障害発生時の反響の大きさに「驚いた」と述べた。",
     "_translate_source": "Notion restores access to Anthropic after service disruption\nNotion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
   },
   {
@@ -195,8 +224,8 @@
     "kind": "rss",
     "summary": "Elder Gong teaches how to hear God’s voice amid increased use of artificial intelligence Church News",
     "published_at": "2026-06-07T17:34:28+00:00",
-    "title_ja": "AI時代に神の声を聞く方法を説く",
-    "summary_ja": "人工知能の利用が増える中、神の声を聞き分ける重要性を説く宗教指導者のメッセージが紹介された。",
+    "title_ja": "AI利用増加の中、神の声を聞き分ける方法を説く",
+    "summary_ja": "AIの利用が増える中でも、神の声を聞き分ける方法についてElder Gongが教えた。",
     "_translate_source": "Elder Gong teaches how to hear God’s voice amid increased use of artificial intelligence - Church News\nElder Gong teaches how to hear God’s voice amid increased use of artificial intelligence Church News"
   },
   {
