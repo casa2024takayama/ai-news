@@ -1,133 +1,133 @@
 [
   {
-    "id": "x:582b75af848a5600",
-    "title": "Dario Amodei、AI政策提言",
-    "title_ja": "Dario Amodei、AI政策提言",
-    "summary": "Anthropic CEOが指数関数的なAI進化に対し、第三者テスト義務化や規制枠組みを提言し話題に。",
-    "summary_ja": "Anthropic CEOが指数関数的なAI進化に対し、第三者テスト義務化や規制枠組みを提言し話題に。",
-    "url": "https://x.com/DarioAmodei/status/2064781775247950326",
-    "source": "X (DarioAmodei)",
+    "id": "x:edd8737fe39ada43",
+    "title": "Claude Fable 5 正式リリース",
+    "title_ja": "Claude Fable 5 正式リリース",
+    "summary": "Anthropicが最先端のClaude Fable 5を発表。ソフトウェア工学や研究で大幅性能向上したが、安全策で一部クエリが制限され議論に。",
+    "summary_ja": "Anthropicが最先端のClaude Fable 5を発表。ソフトウェア工学や研究で大幅性能向上したが、安全策で一部クエリが制限され議論に。",
+    "url": "https://x.com/claudeai/status/2064394146916229443",
+    "source": "X (claudeai)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:32.392837+00:00"
+    "published_at": "2026-06-10T21:01:56.556967+00:00"
   },
   {
-    "id": "x:d9f17e0184badfee",
-    "title": "Anthropic、経済政策枠組み発表",
-    "title_ja": "Anthropic、経済政策枠組み発表",
-    "summary": "労働市場へのAI影響対策として2億ドル基金設立を表明し、議論が活発化。",
-    "summary_ja": "労働市場へのAI影響対策として2億ドル基金設立を表明し、議論が活発化。",
-    "url": "https://x.com/AnthropicAI/status/2064783420425929169",
+    "id": "x:51fab0fd61ed093c",
+    "title": "Dario氏がAI政策提言",
+    "title_ja": "Dario氏がAI政策提言",
+    "summary": "Anthropic CEOがAI指数関数的な進展に対し第三者評価や透明性義務を求めるエッセイを公開し、規制議論が活発化。",
+    "summary_ja": "Anthropic CEOがAI指数関数的な進展に対し第三者評価や透明性義務を求めるエッセイを公開し、規制議論が活発化。",
+    "url": "https://x.com/AnthropicAI/status/2064783418844762489",
     "source": "X (AnthropicAI)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:32.392837+00:00"
+    "published_at": "2026-06-10T21:01:56.556967+00:00"
   },
   {
-    "id": "x:36b6455fa98fa683",
-    "title": "AIコーディング vs 生物学",
-    "title_ja": "AIコーディング vs 生物学",
-    "summary": "Anthropicが「生物データはAI向けに設計されていない」と指摘し、研究ブログが注目。",
-    "summary_ja": "Anthropicが「生物データはAI向けに設計されていない」と指摘し、研究ブログが注目。",
-    "url": "https://x.com/AnthropicAI/status/2064054837294354677",
-    "source": "X (AnthropicAI)",
+    "id": "x:7764446169e4864d",
+    "title": "AIの科学進展に格差",
+    "title_ja": "AIの科学進展に格差",
+    "summary": "Anthropicが「AIは生物学よりコーディングで進んだ理由」を分析。データ基盤の違いがボトルネックと指摘し研究者間で話題に。",
+    "summary_ja": "Anthropicが「AIは生物学よりコーディングで進んだ理由」を分析。データ基盤の違いがボトルネックと指摘し研究者間で話題に。",
+    "url": "https://x.com/i/status/2064054837294354677",
+    "source": "X",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:32.392837+00:00"
+    "published_at": "2026-06-10T21:01:56.556967+00:00"
   },
   {
-    "id": "x:11cabf0961d6eb30",
-    "title": "Claudeで月7-10kドル稼ぐ",
-    "title_ja": "Claudeで月7-10kドル稼ぐ",
-    "summary": "Claude活用の副業ガイド投稿がバズり、無料配布をうたって数千件の反応。",
-    "summary_ja": "Claude活用の副業ガイド投稿がバズり、無料配布をうたって数千件の反応。",
-    "url": "https://x.com/NadzuAI/status/2064540926165541115",
-    "source": "X (NadzuAI)",
+    "id": "x:e81f066f9bad2bab",
+    "title": "DiffusionGemma 実験公開",
+    "title_ja": "DiffusionGemma 実験公開",
+    "summary": "Google DeepMindが非逐次テキスト生成が可能な拡散モデルDiffusionGemmaを共有し、開発者コミュニティで注目。",
+    "summary_ja": "Google DeepMindが非逐次テキスト生成が可能な拡散モデルDiffusionGemmaを共有し、開発者コミュニティで注目。",
+    "url": "https://x.com/googlegemma/status/2064741002204545467",
+    "source": "X (googlegemma)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:32.392837+00:00"
+    "published_at": "2026-06-10T21:01:56.556967+00:00"
   },
   {
-    "id": "x:bd6d82cd1ef97c7b",
-    "title": "Creatify Agent Wave2発表",
-    "title_ja": "Creatify Agent Wave2発表",
-    "summary": "自律型広告作成エージェントがMeta/TikTok対応でローンチされ、動画投稿が拡散。",
-    "summary_ja": "自律型広告作成エージェントがMeta/TikTok対応でローンチされ、動画投稿が拡散。",
-    "url": "https://x.com/Creatify_AI/status/2064400985288802621",
-    "source": "X (Creatify_AI)",
+    "id": "x:3edd64d52641bd13",
+    "title": "Marc AndreessenのAI皮肉投稿",
+    "title_ja": "Marc AndreessenのAI皮肉投稿",
+    "summary": "a16z共同創業者pmarcaが「唯一のAIとポッド生活」のUBI風刺ツイートを投稿し、テック界で拡散。",
+    "summary_ja": "a16z共同創業者pmarcaが「唯一のAIとポッド生活」のUBI風刺ツイートを投稿し、テック界で拡散。",
+    "url": "https://x.com/pmarca/status/2064798056772665617",
+    "source": "X (pmarca)",
     "category": "Xトレンド",
     "region": "usa",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:32.392837+00:00"
+    "published_at": "2026-06-10T21:01:56.556967+00:00"
   },
   {
-    "id": "x:072b72a5a49da8b5",
-    "title": "Claude Fable 5の新機能が話題",
-    "title_ja": "Claude Fable 5の新機能が話題",
-    "summary": "長文処理・画像理解が向上し、製造業やコーディングでの実用例が急増。Gemini・Copilotとの使い分け図も共有されている。",
-    "summary_ja": "長文処理・画像理解が向上し、製造業やコーディングでの実用例が急増。Gemini・Copilotとの使い分け図も共有されている。",
-    "url": "https://x.com/i/status/2064811028110827871",
-    "source": "X",
+    "id": "x:93aae03f2b1774c3",
+    "title": "Claude Fable 5爆誕",
+    "title_ja": "Claude Fable 5爆誕",
+    "summary": "Anthropic新モデルがGPT-5.5 Pro超えと高評価。UI/UXやコード生成で人間の仕事を数ヶ月以内に置き換えそうと話題。",
+    "summary_ja": "Anthropic新モデルがGPT-5.5 Pro超えと高評価。UI/UXやコード生成で人間の仕事を数ヶ月以内に置き換えそうと話題。",
+    "url": "https://x.com/osuruko1977/status/2064474177848176916",
+    "source": "X (osuruko1977)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:02.593585+00:00"
+    "published_at": "2026-06-10T21:01:15.804292+00:00"
   },
   {
-    "id": "x:e880e3d016b53da0",
-    "title": "アン・ハサウェイ写真がAI疑惑に",
-    "title_ja": "アン・ハサウェイ写真がAI疑惑に",
-    "summary": "完成度が高すぎて「AI生成？」と話題に。AIクオリティ向上で本物が疑われる逆転現象が起きている。",
-    "summary_ja": "完成度が高すぎて「AI生成？」と話題に。AIクオリティ向上で本物が疑われる逆転現象が起きている。",
-    "url": "https://x.com/i/status/2064171416245997943",
-    "source": "X",
+    "id": "x:2afd4c4cf92ae8d8",
+    "title": "Fable 5のトークン爆食",
+    "title_ja": "Fable 5のトークン爆食",
+    "summary": "Pro契約でも1プロンプト55%消費報告。1-2時間でリミット到達し「6/22まで無料、以後課金」と不満続出。",
+    "summary_ja": "Pro契約でも1プロンプト55%消費報告。1-2時間でリミット到達し「6/22まで無料、以後課金」と不満続出。",
+    "url": "https://x.com/JapanTank/status/2064622611850809471",
+    "source": "X (JapanTank)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:02.593585+00:00"
+    "published_at": "2026-06-10T21:01:15.804292+00:00"
   },
   {
-    "id": "x:64a96f0e9b99076e",
-    "title": "AI睡眠BGMで月40万円稼ぐ事例",
-    "title_ja": "AI睡眠BGMで月40万円稼ぐ事例",
-    "summary": "顔も声も出さず放置運用で高収益。副業層に「才能不要」と広がり、プロンプトTipsも共有中。",
-    "summary_ja": "顔も声も出さず放置運用で高収益。副業層に「才能不要」と広がり、プロンプトTipsも共有中。",
-    "url": "https://x.com/i/status/2064811028110827871",
-    "source": "X",
+    "id": "x:b4e597569a969ece",
+    "title": "AI自動化OSの作り方",
+    "title_ja": "AI自動化OSの作り方",
+    "summary": "loop/skill/agent/goal/hook/MCPの6分類で仕事を整理しClaudeに渡すと効率が段違いと実践共有が600超いいね。",
+    "summary_ja": "loop/skill/agent/goal/hook/MCPの6分類で仕事を整理しClaudeに渡すと効率が段違いと実践共有が600超いいね。",
+    "url": "https://x.com/ruka_affi/status/2064451473174646881",
+    "source": "X (ruka_affi)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:02.593585+00:00"
+    "published_at": "2026-06-10T21:01:15.804292+00:00"
   },
   {
-    "id": "x:eb2fc5bacf793d9a",
-    "title": "三菱電機のエッジLLMが注目",
-    "title_ja": "三菱電機のエッジLLMが注目",
-    "summary": "現場判断・熟練知見継承に活用。2026年度実用化へ、オープンソース圧縮モデルの評価が高まっている。",
-    "summary_ja": "現場判断・熟練知見継承に活用。2026年度実用化へ、オープンソース圧縮モデルの評価が高まっている。",
-    "url": "https://x.com/i/status/2064811028110827871",
-    "source": "X",
+    "id": "x:73a1d563a1fde253",
+    "title": "深津氏の/goal実験",
+    "title_ja": "深津氏の/goal実験",
+    "summary": "「0>1が真である。これを証明せよ」とClaudeに粘り強く挑ませ、AIの限界と可能性を議論する投稿が話題。",
+    "summary_ja": "「0>1が真である。これを証明せよ」とClaudeに粘り強く挑ませ、AIの限界と可能性を議論する投稿が話題。",
+    "url": "https://x.com/fladdict/status/2063842447743156233",
+    "source": "X (fladdict)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:02.593585+00:00"
+    "published_at": "2026-06-10T21:01:15.804292+00:00"
   },
   {
-    "id": "x:9026d11a6f1b5df9",
-    "title": "LLMの文化的バイアスが議論",
-    "title_ja": "LLMの文化的バイアスが議論",
-    "summary": "日本文化への偏りや断定口調の影響を指摘する論文が共有され、倫理的懸念が一部で活発化。",
-    "summary_ja": "日本文化への偏りや断定口調の影響を指摘する論文が共有され、倫理的懸念が一部で活発化。",
-    "url": "https://x.com/i/status/2064811028110827871",
-    "source": "X",
+    "id": "x:a86baeb24e84da00",
+    "title": "ローカルLLMの進化",
+    "title_ja": "ローカルLLMの進化",
+    "summary": "Gemma 4やQwen3-Coderなど機密情報漏洩を避けられるローカル/エッジLLMの進化が実務寄りで注目されている。",
+    "summary_ja": "Gemma 4やQwen3-Coderなど機密情報漏洩を避けられるローカル/エッジLLMの進化が実務寄りで注目されている。",
+    "url": "https://x.com/genkai_syatikuu/status/2063908896419234011",
+    "source": "X (genkai_syatikuu)",
     "category": "Xトレンド",
     "region": "japan",
     "kind": "x_topic",
-    "published_at": "2026-06-10T21:01:02.593585+00:00"
+    "published_at": "2026-06-10T21:01:15.804292+00:00"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHJtcVlBUWFFTU5vdEx1X19nZE1aMldJTFdYOHAwY2tHOEtOSFplZGhvVm5NMV9xQ202am5Rbk5KdzhEUGpuNjdqdWlDb0diQlJXY1FROWxZWVJ6ZGstTFFkTTNUMjdfdFFnbGlQRUlhcGdCdG9ESUxVRXdISTRreFNsUlFBSExrZk91VzQxd2c2aGtia1ZqMzRpckNiVkN4ZHhtRw?oc=5",
@@ -140,7 +140,7 @@
     "summary": "The Meeting Bot Nobody Invited Is Now Exhibit A PYMNTS.com",
     "published_at": "2026-06-10T20:38:09+00:00",
     "title_ja": "招かれざる会議ボットが法廷の証拠に",
-    "summary_ja": "会議に無断参加したAIボットが訴訟の重要証拠として注目されている。企業でのAI利用拡大に伴い、セキュリティとガバナンスの重要性が改めて問われている。",
+    "summary_ja": "会議に勝手に参加するAIボットが訴訟の証拠として注目されている。企業はAIツールの利用ルール整備を急ぐ必要がある。",
     "_translate_source": "The Meeting Bot Nobody Invited Is Now Exhibit A - PYMNTS.com\nThe Meeting Bot Nobody Invited Is Now Exhibit A PYMNTS.com"
   },
   {
@@ -153,8 +153,8 @@
     "kind": "rss",
     "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
     "published_at": "2026-06-10T20:19:31+00:00",
-    "title_ja": "Amazon、社債発行直後に170億ドル追加調達",
-    "summary_ja": "AmazonがAI投資継続のため銀行から175億ドルを借り入れた。巨額の資金需要が続き、債務も増加している。",
+    "title_ja": "Amazon、社債発行直後に170億ドル追加借入",
+    "summary_ja": "AI投資を継続するためAmazonが銀行から175億ドルを借り入れた。巨額の資金需要が企業債務を押し上げている。",
     "_translate_source": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues\nCompanies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing."
   },
   {
@@ -167,8 +167,8 @@
     "kind": "rss",
     "summary": "AI tokens are catching some companies by surprise — and spurring big bills Global News",
     "published_at": "2026-06-10T20:10:41+00:00",
-    "title_ja": "AIトークン使用量が企業を驚かせ、巨額請求に",
-    "summary_ja": "AIトークンの急増が企業に想定外のコストをもたらしている。利用拡大で予算超過が相次いでいる。",
+    "title_ja": "AIトークン使用量が想定外の巨額請求に",
+    "summary_ja": "企業がAIトークンの急増に驚き、想定を超える高額請求が発生している。予算管理の重要性が増している。",
     "_translate_source": "AI tokens are catching some companies by surprise — and spurring big bills - Global News\nAI tokens are catching some companies by surprise — and spurring big bills Global News"
   },
   {
@@ -182,7 +182,7 @@
     "summary": "We need AI workforce on-ramps Washington Times",
     "published_at": "2026-06-10T20:08:47+00:00",
     "title_ja": "AI人材の受け皿整備が急務",
-    "summary_ja": "AI時代に対応するため、労働力の再教育や受け入れ体制の構築が必要だと指摘されている。",
+    "summary_ja": "AI時代に対応できる人材育成の入り口「on-ramp」の整備が求められている。政策と教育の連携が鍵となる。",
     "_translate_source": "We need AI workforce on-ramps - Washington Times\nWe need AI workforce on-ramps Washington Times"
   },
   {
@@ -195,8 +195,8 @@
     "kind": "rss",
     "summary": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth 2 Times as Much by the End of 2026 Yahoo Finance",
     "published_at": "2026-06-10T20:05:00+00:00",
-    "title_ja": "このAI株、2026年末までに2倍に？",
-    "summary_ja": "あるAI関連株が2026年末までに現在の2倍の価値になるとの予測が示された。",
+    "title_ja": "このAI株、2026年末までに2倍へ",
+    "summary_ja": "あるAI関連株が2026年末までに現在の2倍の価値になるとの予測が出た。投資家の注目が集まっている。",
     "_translate_source": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth 2 Times as Much by the End of 2026 - Yahoo Finance\nPrediction: This Artificial Intelligence (AI) Stock Will Be Worth 2 Times as Much by the End of 2026 Yahoo Finance"
   },
   {
@@ -210,7 +210,7 @@
     "summary": "Anthropic Helps JFrog Govern the Software Supply Chain PYMNTS.com",
     "published_at": "2026-06-10T19:52:30+00:00",
     "title_ja": "Anthropic、JFrogのソフト供給網管理を支援",
-    "summary_ja": "AnthropicがJFrogと提携し、ソフトウェアサプライチェーンのセキュリティと管理を強化する。",
+    "summary_ja": "AnthropicがJFrogと提携し、ソフトウェアサプライチェーンのガバナンスを強化。AIを活用したセキュリティ対策が進む。",
     "_translate_source": "Anthropic Helps JFrog Govern the Software Supply Chain - PYMNTS.com\nAnthropic Helps JFrog Govern the Software Supply Chain PYMNTS.com"
   },
   {
@@ -223,8 +223,8 @@
     "kind": "rss",
     "summary": "The UN’s AI Panel Could Shape Global Governance. Can It Balance Science and Politics? Council on Foreign Relations",
     "published_at": "2026-06-10T19:36:51+00:00",
-    "title_ja": "国連AIパネル、世界のAI統治を左右するか",
-    "summary_ja": "国連のAIパネルが国際的なAIガバナンスに影響を与える可能性がある。科学と政治のバランスが課題だ。",
+    "title_ja": "国連AIパネル、世界統治の行方を左右か",
+    "summary_ja": "国連のAIパネルが国際ガバナンスに影響を与える可能性がある。科学と政治のバランスが課題となっている。",
     "_translate_source": "The UN’s AI Panel Could Shape Global Governance. Can It Balance Science and Politics? - Council on Foreign Relations\nThe UN’s AI Panel Could Shape Global Governance. Can It Balance Science and Politics? Council on Foreign Relations"
   },
   {
@@ -237,8 +237,8 @@
     "kind": "rss",
     "summary": "What is agentic AI? Why the next AI wave is different Scripps News",
     "published_at": "2026-06-10T19:30:48+00:00",
-    "title_ja": "エージェントAIとは？次の波の違い",
-    "summary_ja": "自律的にタスクを実行する「エージェントAI」が注目されている。従来のAIとは異なる次世代の波が到来しつつある。",
+    "title_ja": "エージェントAIとは何か、次の波の違い",
+    "summary_ja": "自律的にタスクを実行する「エージェントAI」が注目されている。従来の生成AIとは異なる次の波として期待が高まっている。",
     "_translate_source": "What is agentic AI? Why the next AI wave is different - Scripps News\nWhat is agentic AI? Why the next AI wave is different Scripps News"
   },
   {
@@ -251,8 +251,8 @@
     "kind": "rss",
     "summary": "Trump says he thinks AI companies will agree to 'giving back' to the public Reuters",
     "published_at": "2026-06-10T19:14:19+00:00",
-    "title_ja": "トランプ氏、AI企業に「社会還元」の合意を期待",
-    "summary_ja": "トランプ氏は、AI企業が社会への還元に同意するとの見方を示した。公共への利益還元を促す発言として注目されている。",
+    "title_ja": "トランプ氏「AI企業は社会還元に同意するはず」",
+    "summary_ja": "トランプ前大統領は、AI企業が将来的に社会への利益還元に同意するとの見方を示した。技術革新の恩恵を広く共有すべきだと強調している。",
     "_translate_source": "Trump says he thinks AI companies will agree to 'giving back' to the public - Reuters\nTrump says he thinks AI companies will agree to 'giving back' to the public Reuters"
   },
   {
@@ -265,8 +265,8 @@
     "kind": "rss",
     "summary": "Ramp Wants to Apply AI to Complex Financial Workflows PYMNTS.com",
     "published_at": "2026-06-10T18:48:06+00:00",
-    "title_ja": "Ramp、複雑な財務業務にAI適用を目指す",
-    "summary_ja": "Rampは、複雑な財務ワークフローにAIを活用する方針を明らかにした。業務効率化と自動化を推進する狙いがある。",
+    "title_ja": "Ramp、複雑な財務業務にAIを適用へ",
+    "summary_ja": "経費管理サービスのRampが、AIを活用して複雑な財務ワークフローの自動化を目指す。企業向けの高度な業務効率化を推進する方針だ。",
     "_translate_source": "Ramp Wants to Apply AI to Complex Financial Workflows - PYMNTS.com\nRamp Wants to Apply AI to Complex Financial Workflows PYMNTS.com"
   },
   {
@@ -280,7 +280,7 @@
     "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hand…",
     "published_at": "2026-06-10T18:43:34+00:00",
     "title_ja": "Claude Fable、基礎生物学の質問に回答せず",
-    "summary_ja": "AnthropicがリリースしたClaude Fable 5は生物学分野を強調したが、高校レベルの基本質問にも答えられないことが判明した。",
+    "summary_ja": "AnthropicがリリースしたClaude Fable 5は生物学分野を強みと謳うが、高校レベルの基本質問にも答えられないことが判明。性能と実用性のギャップが指摘されている。",
     "_translate_source": "Claude Fable won’t answer basic biology questions\nAnthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hand…"
   },
   {
@@ -293,8 +293,8 @@
     "kind": "rss",
     "summary": "2 Stocks That Could Soar from SpaceX's $26.5 Trillion Artificial Intelligence (AI) Empire Yahoo Finance",
     "published_at": "2026-06-10T18:41:00+00:00",
-    "title_ja": "SpaceXのAI帝国で恩恵を受ける2銘柄",
-    "summary_ja": "SpaceXのAI関連事業拡大により、恩恵を受けるとされる2銘柄が紹介された。26.5兆ドルの市場規模が背景にある。",
+    "title_ja": "SpaceXのAI帝国で恩恵受ける2銘柄",
+    "summary_ja": "SpaceXが推進する26.5兆ドル規模のAI事業から恩恵を受けるとされる2銘柄を分析。関連企業の株価上昇が期待されている。",
     "_translate_source": "2 Stocks That Could Soar from SpaceX's $26.5 Trillion Artificial Intelligence (AI) Empire - Yahoo Finance\n2 Stocks That Could Soar from SpaceX's $26.5 Trillion Artificial Intelligence (AI) Empire Yahoo Finance"
   },
   {
@@ -308,7 +308,7 @@
     "summary": "Why the Real A.I. Threat Is in the Back Office The New York Times",
     "published_at": "2026-06-10T18:00:08+00:00",
     "title_ja": "本当のAI脅威はバックオフィスにある",
-    "summary_ja": "AIの真の脅威はバックオフィス業務にあると指摘されている。業務プロセスへの影響が懸念されている。",
+    "summary_ja": "AIの真の脅威は最先端技術ではなく、企業のバックオフィス業務の自動化にあると指摘。日常業務への影響が大きいと警鐘を鳴らしている。",
     "_translate_source": "Why the Real A.I. Threat Is in the Back Office - The New York Times\nWhy the Real A.I. Threat Is in the Back Office The New York Times"
   },
   {
@@ -321,8 +321,8 @@
     "kind": "rss",
     "summary": "AI windfall for the public? Donald Trump signals shake-up for tech giants The Times of India",
     "published_at": "2026-06-10T17:54:00+00:00",
-    "title_ja": "トランプ氏、AI企業への規制強化を示唆",
-    "summary_ja": "トランプ氏はAI企業に対し、社会への利益還元を促す方針を示した。テック大手への規制強化が注目されている。",
+    "title_ja": "トランプ氏、テック大手へのAI利益還元を要求",
+    "summary_ja": "トランプ前大統領がAI企業に対し、社会への利益還元を強く求める方針を示した。テック大手への規制強化の可能性も指摘されている。",
     "_translate_source": "AI windfall for the public? Donald Trump signals shake-up for tech giants - The Times of India\nAI windfall for the public? Donald Trump signals shake-up for tech giants The Times of India"
   },
   {
@@ -335,8 +335,8 @@
     "kind": "rss",
     "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of vir…",
     "published_at": "2026-06-10T17:45:11+00:00",
-    "title_ja": "Microsoft、AI推進スピーカーのブーイングに理解示す",
-    "summary_ja": "卒業式でAIを強調するスピーカーが学生からブーイングを受けた件について、Microsoftが対話の重要性を訴えた。",
+    "title_ja": "Microsoft、AI推進スピーカーが学生からブーイング",
+    "summary_ja": "卒業式でAIを強調するスピーカーに対し、学生からブーイングが相次いでいる。Microsoftは対話の重要性を訴え、3,100語を超えるブログで対応を表明した。",
     "_translate_source": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers\nNew college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of vir…"
   },
   {
@@ -349,8 +349,8 @@
     "kind": "rss",
     "summary": "Industry Experts Testify on Artificial Intelligence Innovation C-SPAN",
     "published_at": "2026-06-10T17:41:03+00:00",
-    "title_ja": "AIイノベーションについて業界専門家が証言",
-    "summary_ja": "AIのイノベーションに関する公聴会で、業界専門家が証言を行った。技術開発の方向性について議論された。",
+    "title_ja": "AIイノベーションで業界専門家が証言",
+    "summary_ja": "AIのイノベーションに関する公聴会で、業界専門家が最新動向と課題について証言した。政策立案に向けた議論が活発化している。",
     "_translate_source": "Industry Experts Testify on Artificial Intelligence Innovation - C-SPAN\nIndustry Experts Testify on Artificial Intelligence Innovation C-SPAN"
   },
   {
@@ -363,8 +363,8 @@
     "kind": "rss",
     "summary": "Government Contractors and AI: Protecting Confidential Information and Privilege in Disputes JD Supra",
     "published_at": "2026-06-10T17:39:56+00:00",
-    "title_ja": "政府請負業者とAI：機密情報と特権の保護",
-    "summary_ja": "政府請負業者がAIを活用する際、機密情報や法的特権をいかに守るかが争点となっている。JD Supraが解説。",
+    "title_ja": "政府請負業者とAI：機密情報・特権の保護",
+    "summary_ja": "政府請負業者がAIを活用する際、機密情報や法的特権をどう守るかが争点に。JD Supraが法的リスクと対策を解説。",
     "_translate_source": "Government Contractors and AI: Protecting Confidential Information and Privilege in Disputes - JD Supra\nGovernment Contractors and AI: Protecting Confidential Information and Privilege in Disputes JD Supra"
   },
   {
@@ -377,8 +377,8 @@
     "kind": "rss",
     "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in …",
     "published_at": "2026-06-10T17:38:00+00:00",
-    "title_ja": "AI規制の行方：奇妙で不安な同盟関係",
-    "summary_ja": "2026年の中間選挙に向け、AI規制をめぐって意外な勢力が手を組む動きが活発化。ワシントンの政治力学を解説。",
+    "title_ja": "AI規制の行方、意外な同盟関係が鍵に",
+    "summary_ja": "2026年の中間選挙に向け、AI規制をめぐるワシントンの思惑が交錯。従来の敵対勢力が奇妙な協力関係を築きつつある。",
     "_translate_source": "The future of AI regulation is courting the strangest, most anxious bedfellows\nHello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in …"
   },
   {
@@ -391,8 +391,8 @@
     "kind": "rss",
     "summary": "Vanguard Utilities ETF and AI: How Artificial Intelligence Is Reshaping Utility Stocks in 2026 - News and Statistics IndexBox",
     "published_at": "2026-06-10T17:30:00+00:00",
-    "title_ja": "Vanguard公益ETFとAI：公益株を再形成する人工知能",
-    "summary_ja": "AIの普及で公益セクターの投資環境が変化。Vanguard Utilities ETFの動向と2026年の見通しをIndexBoxが分析。",
+    "title_ja": "Vanguard公益ETF、AIで公益株はどう変わる",
+    "summary_ja": "AI需要の急拡大で電力消費が増加。公益株への影響をVanguard Utilities ETFを中心にIndexBoxが2026年見通しを分析。",
     "_translate_source": "Vanguard Utilities ETF and AI: How Artificial Intelligence Is Reshaping Utility Stocks in 2026 - News and Statistics - IndexBox\nVanguard Utilities ETF and AI: How Artificial Intelligence Is Reshaping Utility Stocks in 2026 - News and Statistics IndexBox"
   },
   {
@@ -405,8 +405,8 @@
     "kind": "rss",
     "summary": "Investors Feed A.I. Firms’ Voracious Appetite for New Money The New York Times",
     "published_at": "2026-06-10T17:25:49+00:00",
-    "title_ja": "投資家、AI企業の巨額資金需要に応じる",
-    "summary_ja": "AIスタートアップの資金需要が急増。投資家は巨額の資金を投じ続け、業界の成長を支えている（NYT）。",
+    "title_ja": "投資家、AI企業の巨額資金需要を支える",
+    "summary_ja": "AI開発競争が過熱する中、投資家がAI企業への資金供給を続けている。NYTが最新の資金調達動向を詳報。",
     "_translate_source": "Investors Feed A.I. Firms’ Voracious Appetite for New Money - The New York Times\nInvestors Feed A.I. Firms’ Voracious Appetite for New Money The New York Times"
   },
   {
@@ -419,8 +419,8 @@
     "kind": "rss",
     "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to trai…",
     "published_at": "2026-06-10T17:20:36+00:00",
-    "title_ja": "Google、YouTubeクリエイターを音楽AIの訓練に利用か",
-    "summary_ja": "独立系ミュージシャンがGoogleを提訴。YouTubeにアップロードした楽曲がLyria音楽AIの学習に無断使用されたと主張。",
+    "title_ja": "Google、YouTube楽曲を音楽AI学習に使用か",
+    "summary_ja": "独立系ミュージシャンらがGoogleを提訴。YouTubeにアップロードされた楽曲が音楽生成AI「Lyria」の学習に無断使用されたと主張。",
     "_translate_source": "Google won’t just admit it’s feeding YouTube creators to its music AI\nIf you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to trai…"
   },
   {
@@ -433,8 +433,8 @@
     "kind": "rss",
     "summary": "Anthropic plugs Claude AI in Japan for automated software development Nikkei Asia",
     "published_at": "2026-06-10T17:14:00+00:00",
-    "title_ja": "Anthropic、日本でClaude AIを自動ソフト開発向けに提供",
-    "summary_ja": "Anthropicが日本企業向けにClaude AIを展開。ソフトウェア開発の自動化を支援する新サービスをNikkei Asiaが報じた。",
+    "title_ja": "Anthropic、日本でClaudeをソフト開発向けに提供",
+    "summary_ja": "AnthropicがAI「Claude」を日本企業向けに展開。ソフトウェア開発の自動化を支援し、生産性向上を目指す。",
     "_translate_source": "Anthropic plugs Claude AI in Japan for automated software development - Nikkei Asia\nAnthropic plugs Claude AI in Japan for automated software development Nikkei Asia"
   },
   {
@@ -447,8 +447,8 @@
     "kind": "rss",
     "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
     "published_at": "2026-06-10T17:07:35+00:00",
-    "title_ja": "「AI熱中」企業、従業員1人あたり月7,500ドルをAIに投資",
-    "summary_ja": "AIに最も熱心な企業は、従業員1人あたり月7,500ドルをAI関連支出に充てている。Ramp AI Indexが明らかにした。",
+    "title_ja": "「AI熱中」企業、1人あたり月7,500ドル支出",
+    "summary_ja": "AIを最優先する企業は従業員1人あたり月7,500ドルをAIに投じている。Ramp AI Indexが最新調査で明らかにした。",
     "_translate_source": "‘AI-pilled’ firms spend $7,500 per employee each month on AI\nThe most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet."
   },
   {
@@ -462,7 +462,7 @@
     "summary": "Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. in Lawsuit The New York Times",
     "published_at": "2026-06-10T17:05:00+00:00",
     "title_ja": "裁判官、AI使用の弁護士4人を制裁",
-    "summary_ja": "訴訟で双方の弁護士がAIを不適切に使用したことが発覚。裁判官が4人の弁護士に制裁を科した（NYT）。",
+    "summary_ja": "米裁判所で双方の弁護士がAIを不適切に使用したことが発覚。裁判官が4人の弁護士に制裁を科したとNYTが報じた。",
     "_translate_source": "Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. in Lawsuit - The New York Times\nJudge Punishes 4 Lawyers After Catching Both Sides Using A.I. in Lawsuit The New York Times"
   },
   {
@@ -475,8 +475,8 @@
     "kind": "rss",
     "summary": "US shortens cyber fix window to three days as AI threats rise Yahoo",
     "published_at": "2026-06-10T16:51:14+00:00",
-    "title_ja": "AI脅威の高まりで米政府、サイバー修正期限を3日に短縮",
-    "summary_ja": "米政府はAIを悪用したサイバー攻撃の増加を受け、脆弱性修正の期限を従来より短い3日間に短縮すると発表した。",
+    "title_ja": "AI脅威の高まりで米国のサイバー修正期限を3日に短縮",
+    "summary_ja": "米政府はAIを活用したサイバー攻撃の増加を受け、脆弱性修正の期限を従来より短い3日間に短縮する方針を明らかにした。",
     "_translate_source": "US shortens cyber fix window to three days as AI threats rise - Yahoo\nUS shortens cyber fix window to three days as AI threats rise Yahoo"
   },
   {
@@ -490,7 +490,7 @@
     "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microso…",
     "published_at": "2026-06-10T16:50:23+00:00",
     "title_ja": "Microsoft、データ保持懸念でClaude Fableの社内利用を制限",
-    "summary_ja": "Anthropicの新モデル「Claude Fable 5」について、データ保持要件を理由にMicrosoftが社内利用を制限していることがわかった。",
+    "summary_ja": "Anthropicの新AI「Claude Fable 5」について、データ保持要件を理由にMicrosoftが従業員の利用を制限していることがわかった。",
     "_translate_source": "Microsoft restricts Claude Fable for employees over data retention concerns\nAnthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microso…"
   },
   {
@@ -518,7 +518,7 @@
     "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times",
     "published_at": "2026-06-10T16:46:00+00:00",
     "title_ja": "Meta AIのバグでInstagramアカウントが乗っ取り被害",
-    "summary_ja": "Meta AIの脆弱性を利用したハッカーがInstagramアカウントを乗っ取る事例が報告され、利用者に注意が呼びかけられている。",
+    "summary_ja": "MetaのAI機能に存在した脆弱性を利用し、ハッカーがInstagramアカウントを乗っ取る被害が確認されたとNew York Timesが報じた。",
     "_translate_source": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times\nMeta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times"
   },
   {
@@ -532,7 +532,7 @@
     "summary": "COMMENTARY: How teachers can use AI to leverage the classroom experience of their colleages EdSource",
     "published_at": "2026-06-10T16:39:02+00:00",
     "title_ja": "教師がAIで同僚の授業経験を活用する方法",
-    "summary_ja": "EdSourceが、AIを活用して教師同士の授業ノウハウを共有・活用する手法を解説する論考を掲載した。",
+    "summary_ja": "EdSourceが、AIを活用して教師同士の授業ノウハウを共有・活用する手法を解説する論評を掲載した。",
     "_translate_source": "COMMENTARY: How teachers can use AI to leverage the classroom experience of their colleages - EdSource\nCOMMENTARY: How teachers can use AI to leverage the classroom experience of their colleages EdSource"
   },
   {
@@ -545,8 +545,8 @@
     "kind": "rss",
     "summary": "Agilent Partners with OpenAI and BCG to Advance Artificial Intelligence in Lab Workflows Clinical Lab Products",
     "published_at": "2026-06-10T16:31:41+00:00",
-    "title_ja": "Agilent、OpenAI・BCGと提携しラボAIを推進",
-    "summary_ja": "AgilentがOpenAIおよびBCGと連携し、研究室ワークフローへの人工知能導入を加速させるプロジェクトを発表した。",
+    "title_ja": "Agilent、OpenAIとBCGと提携しラボ業務にAIを導入",
+    "summary_ja": "AgilentはOpenAIおよびBCGと連携し、研究室のワークフローにAIを活用する取り組みを発表した。",
     "_translate_source": "Agilent Partners with OpenAI and BCG to Advance Artificial Intelligence in Lab Workflows - Clinical Lab Products\nAgilent Partners with OpenAI and BCG to Advance Artificial Intelligence in Lab Workflows Clinical Lab Products"
   },
   {
@@ -559,8 +559,8 @@
     "kind": "rss",
     "summary": "McCarthy, Palantir partner on AI Construction Dive",
     "published_at": "2026-06-10T16:18:50+00:00",
-    "title_ja": "McCarthyとPalantir、建設分野でAI提携",
-    "summary_ja": "建設大手McCarthyがPalantirと提携し、AIを活用したプロジェクト管理や業務効率化を推進すると発表した。",
+    "title_ja": "McCarthyとPalantirがAI分野で提携",
+    "summary_ja": "建設会社のMcCarthyがPalantirと提携し、AIを活用したプロジェクト管理の強化を目指す。",
     "_translate_source": "McCarthy, Palantir partner on AI - Construction Dive\nMcCarthy, Palantir partner on AI Construction Dive"
   },
   {
@@ -574,7 +574,7 @@
     "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Googl…",
     "published_at": "2026-06-10T16:18:45+00:00",
     "title_ja": "Google、Lens画像や音声データをAI学習に保存へ",
-    "summary_ja": "GoogleはSearchの画像・音声・動画データを「Search Services History」として保存し、AI学習に活用する方針を明らかにした。",
+    "summary_ja": "Googleは検索時の画像・音声データを「Search Services History」として保存し、AIの学習に活用する方針を明らかにした。",
     "_translate_source": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training\nGoogle is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Googl…"
   },
   {
@@ -587,8 +587,8 @@
     "kind": "rss",
     "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
     "published_at": "2026-06-10T16:11:08+00:00",
-    "title_ja": "AIの記憶ツールが性能を低下させる可能性",
-    "summary_ja": "新たな研究で、AIの記憶システムがモデルの性能を低下させ、迎合的な傾向を助長する恐れがあると指摘された。",
+    "title_ja": "AIの記憶ツールが性能低下を招く可能性",
+    "summary_ja": "AIの記憶システムがモデルの性能を低下させ、迎合的な傾向を強める可能性があるという研究結果が発表された。",
     "_translate_source": "How memory tools can make AI models worse\nNew research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
   },
   {
@@ -602,7 +602,7 @@
     "summary": "Sea’s Shopee cuts hundreds of developer jobs in pivot to AI Taipei Times",
     "published_at": "2026-06-10T16:00:00+00:00",
     "title_ja": "Shopee、AIシフトで数百人の開発者を削減",
-    "summary_ja": "Sea傘下のShopeeがAIへの事業転換を進め、数百人の開発者職を削減した。",
+    "summary_ja": "Sea傘下のShopeeがAIへの事業転換に伴い、数百人の開発者職を削減した。",
     "_translate_source": "Sea’s Shopee cuts hundreds of developer jobs in pivot to AI - Taipei Times\nSea’s Shopee cuts hundreds of developer jobs in pivot to AI Taipei Times"
   },
   {
@@ -616,7 +616,7 @@
     "summary": "Cops Are Using Facial Recognition to Lock Up Black People Who Are Completely Innocent Futurism",
     "published_at": "2026-06-10T15:50:33+00:00",
     "title_ja": "顔認識で無実の黒人男性を誤認逮捕、警察の利用に批判",
-    "summary_ja": "警察が顔認識技術を使い、無実の黒人男性を誤って逮捕した事例が報告され、技術の乱用に懸念が高まっている。",
+    "summary_ja": "警察が顔認識技術を誤用し、無実の黒人男性を逮捕した事例が報告され、技術の危険性が改めて問題視されている。",
     "_translate_source": "Cops Are Using Facial Recognition to Lock Up Black People Who Are Completely Innocent - Futurism\nCops Are Using Facial Recognition to Lock Up Black People Who Are Completely Innocent Futurism"
   },
   {
@@ -629,8 +629,8 @@
     "kind": "rss",
     "summary": "Agentic AI Risk Catches Eye of Financial Stability Board PYMNTS.com",
     "published_at": "2026-06-10T15:46:12+00:00",
-    "title_ja": "自律型AIのリスク、金融安定理事会が警鐘",
-    "summary_ja": "金融安定理事会が、自律的に判断・行動するAIの潜在的リスクに注目し、監視の必要性を指摘した。",
+    "title_ja": "自律型AIのリスク、金融安定理事会が警戒",
+    "summary_ja": "金融安定理事会が、自律的に判断・行動するAIの潜在的リスクに注目し、監視の必要性を指摘している。",
     "_translate_source": "Agentic AI Risk Catches Eye of Financial Stability Board - PYMNTS.com\nAgentic AI Risk Catches Eye of Financial Stability Board PYMNTS.com"
   },
   {
@@ -643,8 +643,8 @@
     "kind": "rss",
     "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
     "published_at": "2026-06-10T15:41:22+00:00",
-    "title_ja": "Anthropicの新モデル「Fable」、ガードレールが厳しすぎるとセキュリティ研究者が不満",
-    "summary_ja": "Anthropicの新AI「Fable」の厳格な安全制限が、サイバーセキュリティ研究の妨げになるとの声が上がっている。",
+    "title_ja": "Anthropicの新モデルFable、セキュリティ研究者に不満の声",
+    "summary_ja": "Anthropicの新AIモデル「Fable」のガードレールが厳しすぎ、サイバーセキュリティ研究に支障をきたすと研究者から不満が出ている。",
     "_translate_source": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\nCybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
   },
   {
@@ -658,7 +658,7 @@
     "summary": "USC football, Lincoln Riley hiring first-of-its-kind director of AI USA Today",
     "published_at": "2026-06-10T15:24:00+00:00",
     "title_ja": "USCフットボール、AI担当ディレクターを初採用",
-    "summary_ja": "USCフットボールチームが、AI戦略を統括する初のディレクター職を新設し、Lincoln Rileyヘッドコーチが採用を発表した。",
+    "summary_ja": "USCフットボールチームが、AI戦略を統括する「Director of AI」を新設し、Lincoln Rileyヘッドコーチの下で初採用する。",
     "_translate_source": "USC football, Lincoln Riley hiring first-of-its-kind director of AI - USA Today\nUSC football, Lincoln Riley hiring first-of-its-kind director of AI USA Today"
   },
   {
@@ -671,8 +671,8 @@
     "kind": "rss",
     "summary": "Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore Amazon Web Services (AWS)",
     "published_at": "2026-06-10T15:21:35+00:00",
-    "title_ja": "Amazon Bedrock AgentCoreでAI修理アシスタントを構築",
-    "summary_ja": "AWSがAmazon Bedrock AgentCoreを活用し、AIを活用した機器修理支援システムの構築方法を解説した。",
+    "title_ja": "Amazon BedrockでAI修理アシスタントを構築",
+    "summary_ja": "AWSがAmazon Bedrock AgentCoreを活用し、AIを活用した機器修理支援システムの構築方法を解説している。",
     "_translate_source": "Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore - Amazon Web Services (AWS)\nBuild an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore Amazon Web Services (AWS)"
   },
   {
@@ -685,8 +685,8 @@
     "kind": "rss",
     "summary": "As Pennsylvania cracks down on AI, multiple chatbots continue to pose as doctors WPSU",
     "published_at": "2026-06-10T15:17:00+00:00",
-    "title_ja": "ペンシルベニア州、AI規制強化も医師偽装チャットボットが横行",
-    "summary_ja": "ペンシルベニア州がAI規制を強化する中、医師を装うチャットボットが依然として複数確認されている。",
+    "title_ja": "ペンシルベニア州、AI規制強化も医師偽装チャットボット横行",
+    "summary_ja": "ペンシルベニア州がAI規制を強化する中、医師を装うチャットボットが依然として複数確認され、問題が続いている。",
     "_translate_source": "As Pennsylvania cracks down on AI, multiple chatbots continue to pose as doctors - WPSU\nAs Pennsylvania cracks down on AI, multiple chatbots continue to pose as doctors WPSU"
   },
   {
@@ -700,7 +700,7 @@
     "summary": "Artificial intelligence tools to be integrated into HENSOLDT MDOcore platform Military Embedded Systems",
     "published_at": "2026-06-10T15:10:11+00:00",
     "title_ja": "HENSOLDT、MDOcoreプラットフォームにAIツールを統合",
-    "summary_ja": "HENSOLDTはMDOcoreプラットフォームに人工知能ツールを統合すると発表。軍事用途での意思決定支援を強化する狙い。",
+    "summary_ja": "HENSOLDTはMDOcoreプラットフォームに人工知能ツールを統合すると発表。軍事用途での運用効率向上を目指す。",
     "_translate_source": "Artificial intelligence tools to be integrated into HENSOLDT MDOcore platform - Military Embedded Systems\nArtificial intelligence tools to be integrated into HENSOLDT MDOcore platform Military Embedded Systems"
   },
   {
@@ -713,8 +713,8 @@
     "kind": "rss",
     "summary": "Artificial Intelligence in Psychopharmacology: Promise and Pitfalls, With Roy Perlis, MD Psychiatric Times",
     "published_at": "2026-06-10T15:07:30+00:00",
-    "title_ja": "精神薬理学におけるAI：可能性と落とし穴",
-    "summary_ja": "Roy Perlis医師が、精神薬理学分野でのAI活用の可能性とリスクについて解説。診断や治療への影響を議論。",
+    "title_ja": "精神薬理学におけるAIの可能性と課題、ロイ・パーリス医師が解説",
+    "summary_ja": "精神科医ロイ・パーリス氏が、精神薬理学分野でのAI活用の将来性とリスクについて語る。",
     "_translate_source": "Artificial Intelligence in Psychopharmacology: Promise and Pitfalls, With Roy Perlis, MD - Psychiatric Times\nArtificial Intelligence in Psychopharmacology: Promise and Pitfalls, With Roy Perlis, MD Psychiatric Times"
   },
   {
@@ -728,7 +728,7 @@
     "summary": "Half of workers worried that Artificial Intelligence (AI) will take their job Institute of Employment Rights",
     "published_at": "2026-06-10T15:04:35+00:00",
     "title_ja": "労働者の半数が「AIに仕事を奪われる」と懸念",
-    "summary_ja": "英国の調査で、労働者の約50％がAIによる雇用喪失を懸念。雇用権利研究所が報告書を公表した。",
+    "summary_ja": "英国雇用権利研究所の調査で、労働者の約50％がAIによる雇用喪失を不安視していることが判明した。",
     "_translate_source": "Half of workers worried that Artificial Intelligence (AI) will take their job - Institute of Employment Rights\nHalf of workers worried that Artificial Intelligence (AI) will take their job Institute of Employment Rights"
   },
   {
@@ -742,7 +742,7 @@
     "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
     "published_at": "2026-06-10T15:00:00+00:00",
     "title_ja": "Datadog出身者がAIコーディング新興企業Niteshiftを設立",
-    "summary_ja": "Datadogの元エンジニアらがAIコーディングスタートアップNiteshiftを立ち上げ、700万ドルのシード資金を調達。大手AI企業への依存を避ける戦略。",
+    "summary_ja": "Datadogの元エンジニアらがAIコーディングエージェント企業Niteshiftを立ち上げ、700万ドルのシード資金を調達。特定AIモデルへの依存を避ける戦略を取る。",
     "_translate_source": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in\nAI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
   },
   {
@@ -756,7 +756,7 @@
     "summary": "[Webinar] AI Landscape for Contractors in 2026 - June 22nd, 12:00 pm - 1:00 pm ET JD Supra",
     "published_at": "2026-06-10T14:59:04+00:00",
     "title_ja": "2026年の建設業界向けAI動向ウェビナー開催",
-    "summary_ja": "6月22日午後1時（ET）に建設業向けAIの最新動向を解説するウェビナーが開催される。",
+    "summary_ja": "6月22日午後1時（米国東部時間）に建設請負業者向けAI動向ウェビナーが開催される。",
     "_translate_source": "[Webinar] AI Landscape for Contractors in 2026 - June 22nd, 12:00 pm - 1:00 pm ET - JD Supra\n[Webinar] AI Landscape for Contractors in 2026 - June 22nd, 12:00 pm - 1:00 pm ET JD Supra"
   },
   {
@@ -770,7 +770,7 @@
     "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
     "published_at": "2026-06-10T14:48:01+00:00",
     "title_ja": "SpaceXのIPOを支える3つのハードテック挑戦",
-    "summary_ja": "SpaceXのIPO価値の多くは、宇宙データセンター構想への期待によるものと指摘されている。",
+    "summary_ja": "SpaceXのIPO価値の多くは、宇宙データセンター構想への期待が大きく寄与していると指摘されている。",
     "_translate_source": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO\nMost of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans."
   },
   {
@@ -782,7 +782,10 @@
     "region": "usa",
     "kind": "rss",
     "summary": "AI is Changing Your Life: How it Affects You Now and in the diarioeuskadi.eus",
-    "published_at": "2026-06-10T14:41:42+00:00"
+    "published_at": "2026-06-10T14:41:42+00:00",
+    "title_ja": "AIがあなたの生活を変える：現在と未来への影響",
+    "summary_ja": "AI技術が日常生活や社会に与える影響について、現在の状況と今後の展望を解説する。",
+    "_translate_source": "AI is Changing Your Life: How it Affects You Now and in the - diarioeuskadi.eus\nAI is Changing Your Life: How it Affects You Now and in the diarioeuskadi.eus"
   },
   {
     "id": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
@@ -794,8 +797,8 @@
     "kind": "rss",
     "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
     "published_at": "2026-06-10T14:31:30+00:00",
-    "title_ja": "Warner Music、AI著作権管理のSureel AIを買収",
-    "summary_ja": "Warner Music Groupは、AI生成コンテンツでの楽曲使用を追跡するSureel AIを買収。アーティストの権利保護を強化する。",
+    "title_ja": "Warner Music、AI著作権追跡企業Sureel AIを買収",
+    "summary_ja": "Warner Music Groupは、AI生成コンテンツでの楽曲使用やAI学習での利用を追跡するSureel AIを買収した。",
     "_translate_source": "Warner Music acquires AI attribution startup Sureel AI\nThrough the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
   },
   {
@@ -809,7 +812,7 @@
     "summary": "Are Black People Being Left Behind By AI? The Seattle Medium",
     "published_at": "2026-06-10T14:30:00+00:00",
     "title_ja": "AIで取り残される黒人コミュニティ？",
-    "summary_ja": "シアトル・ミディアムが、AIの急速な普及が黒人コミュニティに与える影響と格差の拡大について警鐘を鳴らしている。",
+    "summary_ja": "シアトル・ミディアムが、AIの急速な普及が黒人コミュニティに与える影響と格差拡大の懸念を報じています。",
     "_translate_source": "Are Black People Being Left Behind By AI? - The Seattle Medium\nAre Black People Being Left Behind By AI? The Seattle Medium"
   },
   {
@@ -822,8 +825,8 @@
     "kind": "rss",
     "summary": "Bellevue University Offers Online AI Master's Program Bellevue University News",
     "published_at": "2026-06-10T14:26:32+00:00",
-    "title_ja": "ベルビュー大、AI修士課程をオンラインで開講",
-    "summary_ja": "ベルビュー大学が、働きながら学べるAI分野のオンライン修士課程を新設。実践的なカリキュラムでAI人材の育成を目指す。",
+    "title_ja": "ベルビュー大、AI修士課程をオンラインで開始",
+    "summary_ja": "ベルビュー大学が、働きながら学べるオンラインAI修士プログラムの提供を開始。実践的なカリキュラムが特徴です。",
     "_translate_source": "Bellevue University Offers Online AI Master's Program - Bellevue University News\nBellevue University Offers Online AI Master's Program Bellevue University News"
   },
   {
@@ -836,8 +839,8 @@
     "kind": "rss",
     "summary": "X.AI class action alleges chatbot Grok shares user data with Google, Meta, TikTok Class Action Lawsuits",
     "published_at": "2026-06-10T14:09:20+00:00",
-    "title_ja": "xAI集団訴訟、Grokのデータ共有疑惑浮上",
-    "summary_ja": "xAIのチャットボットGrokが、ユーザー情報をGoogleやMeta、TikTokに共有しているとして集団訴訟が提起された。",
+    "title_ja": "Grokのデータ共有疑惑でX.AIに集団訴訟",
+    "summary_ja": "X.AIのチャットボットGrokが、ユーザー情報をGoogleやMeta、TikTokに共有している疑いで集団訴訟が提起されました。",
     "_translate_source": "X.AI class action alleges chatbot Grok shares user data with Google, Meta, TikTok - Class Action Lawsuits\nX.AI class action alleges chatbot Grok shares user data with Google, Meta, TikTok Class Action Lawsuits"
   },
   {
@@ -850,8 +853,8 @@
     "kind": "rss",
     "summary": "Artificial Intelligence (AI) Market Worth $3,638.08 Billion by 2033 | Report by MarketsandMarkets Moomoo",
     "published_at": "2026-06-10T14:01:00+00:00",
-    "title_ja": "AI市場、2033年に3.6兆ドル規模へ",
-    "summary_ja": "MarketsandMarketsの調査で、AI市場が2033年までに3兆6,380億ドル規模に達すると予測。年平均成長率は高水準で推移する見込み。",
+    "title_ja": "AI市場、2033年までに3.6兆ドル規模へ",
+    "summary_ja": "MarketsandMarketsの予測では、AI市場が2033年までに約3兆6,380億ドルに達する見込みです。",
     "_translate_source": "Artificial Intelligence (AI) Market Worth $3,638.08 Billion by 2033 | Report by MarketsandMarkets - Moomoo\nArtificial Intelligence (AI) Market Worth $3,638.08 Billion by 2033 | Report by MarketsandMarkets Moomoo"
   },
   {
@@ -864,8 +867,8 @@
     "kind": "rss",
     "summary": "The World's Most Important Chipmaker Has Fantastic News for Artificial Intelligence (AI) Stock Investors The Motley Fool",
     "published_at": "2026-06-10T13:58:00+00:00",
-    "title_ja": "世界最大手チップメーカー、AI投資家に朗報",
-    "summary_ja": "TSMCがAI向け半導体需要の急拡大を受け、投資家にとって好材料となる業績見通しを発表した。",
+    "title_ja": "世界最大手チップメーカーがAI投資家に朗報",
+    "summary_ja": "世界で最も重要な半導体企業が、AI関連株投資家にとって好材料となるニュースを発表しました。",
     "_translate_source": "The World's Most Important Chipmaker Has Fantastic News for Artificial Intelligence (AI) Stock Investors - The Motley Fool\nThe World's Most Important Chipmaker Has Fantastic News for Artificial Intelligence (AI) Stock Investors The Motley Fool"
   },
   {
@@ -879,7 +882,7 @@
     "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
     "published_at": "2026-06-10T13:33:09+00:00",
     "title_ja": "Jedify、AIエージェント向け資金調達で2400万ドル獲得",
-    "summary_ja": "企業向けAIエージェントに業務コンテキストを提供するJedifyが、Norwest主導で2400万ドルの資金調達を実施した。",
+    "summary_ja": "企業向けAIエージェントに業務文脈を提供するJedifyが、Norwest主導で2400万ドルの資金調達を実施しました。",
     "_translate_source": "Jedify raises $24M to help companies arm AI agents with context on their business\nThe funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor."
   },
   {
@@ -892,8 +895,8 @@
     "kind": "rss",
     "summary": "Here's How SoFi Is Using Artificial Intelligence (AI) and Why It Matters. Hint: It Could Be a Game-Changer. The Motley Fool",
     "published_at": "2026-06-10T13:30:00+00:00",
-    "title_ja": "SoFi、AI活用で顧客体験を革新",
-    "summary_ja": "フィンテック企業SoFiがAIを活用した新サービスを展開。顧客体験の向上と事業成長の鍵になるとの見方が強まっている。",
+    "title_ja": "SoFiのAI活用戦略、ゲームチェンジャーになるか",
+    "summary_ja": "SoFiがAIをどのように活用しているのか、その戦略と金融業界への影響について解説しています。",
     "_translate_source": "Here's How SoFi Is Using Artificial Intelligence (AI) and Why It Matters. Hint: It Could Be a Game-Changer. - The Motley Fool\nHere's How SoFi Is Using Artificial Intelligence (AI) and Why It Matters. Hint: It Could Be a Game-Changer. The Motley Fool"
   },
   {
@@ -906,8 +909,8 @@
     "kind": "rss",
     "summary": "The AI frenzy in healthcare Karolinska Institutet",
     "published_at": "2026-06-10T13:28:50+00:00",
-    "title_ja": "医療現場で加速するAI導入",
-    "summary_ja": "カロリンスカ研究所が、医療分野におけるAI技術の急速な普及と今後の展望について報告している。",
+    "title_ja": "医療現場で加速するAI導入の動き",
+    "summary_ja": "カロリンスカ研究所が、医療分野におけるAIの急速な普及と今後の展望について報告しています。",
     "_translate_source": "The AI frenzy in healthcare - Karolinska Institutet\nThe AI frenzy in healthcare Karolinska Institutet"
   },
   {
@@ -921,7 +924,7 @@
     "summary": "Cyera, a Cybersecurity Start-Up for the A.I. Era, Raises $600 Million The New York Times",
     "published_at": "2026-06-10T13:15:22+00:00",
     "title_ja": "AI時代向けサイバーセキュリティ企業Cyera、6億ドル調達",
-    "summary_ja": "AI時代に対応したサイバーセキュリティスタートアップCyeraが6億ドルの資金調達に成功した。",
+    "summary_ja": "AI時代向けのサイバーセキュリティスタートアップCyeraが6億ドルの資金調達を発表。データセキュリティ分野での急成長が注目されている。",
     "_translate_source": "Cyera, a Cybersecurity Start-Up for the A.I. Era, Raises $600 Million - The New York Times\nCyera, a Cybersecurity Start-Up for the A.I. Era, Raises $600 Million The New York Times"
   },
   {
@@ -934,8 +937,8 @@
     "kind": "rss",
     "summary": "Steven Spielberg \"Walked Away\" From 'Harry Potter' To Complete Stanley Kubrick's 'A.I.: Artificial Intelligence' At Family's Request The Playlist",
     "published_at": "2026-06-10T13:13:25+00:00",
-    "title_ja": "スピルバーグ、『ハリー・ポッター』降板し『A.I.』完成へ",
-    "summary_ja": "スピルバーグ監督が『ハリー・ポッター』から離れ、キューブリック未完の『A.I.』を家族の要請で完成させた。",
+    "title_ja": "スピルバーグ、ハリー・ポッターを断りキューブリック遺作AIを完成",
+    "summary_ja": "スティーブン・スピルバーグ監督がハリー・ポッターのオファーを断り、スタンリー・キューブリックの遺作『A.I.』を家族の要請で完成させた経緯が明かされた。",
     "_translate_source": "Steven Spielberg \"Walked Away\" From 'Harry Potter' To Complete Stanley Kubrick's 'A.I.: Artificial Intelligence' At Family's Request - The Playlist\nSteven Spielberg \"Walked Away\" From 'Harry Potter' To Complete Stanley Kubrick's 'A.I.: Artificial Intelligence' At Family's Request The Playlist"
   },
   {
@@ -948,8 +951,8 @@
     "kind": "rss",
     "summary": "Why Our Obsession With Artificial Intelligence Might Be Completely Wrong Futura, le média qui explore le monde",
     "published_at": "2026-06-10T13:13:14+00:00",
-    "title_ja": "AIへの過度な期待は誤りか？専門家が警鐘",
-    "summary_ja": "AIへの過剰な期待が現実と乖離している可能性を指摘し、冷静な視点の必要性を訴える。",
+    "title_ja": "AIへの過度な期待は根本的に間違っている？専門家が警鐘",
+    "summary_ja": "AIへの過度な期待や依存が社会に与える影響について、専門家が根本的な誤りを指摘。技術の限界と人間中心の視点の重要性を論じている。",
     "_translate_source": "Why Our Obsession With Artificial Intelligence Might Be Completely Wrong - Futura, le média qui explore le monde\nWhy Our Obsession With Artificial Intelligence Might Be Completely Wrong Futura, le média qui explore le monde"
   },
   {
@@ -962,8 +965,8 @@
     "kind": "rss",
     "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
     "published_at": "2026-06-10T13:07:56+00:00",
-    "title_ja": "Decart、写真のようにリアルな運転シミュレーションを数時間生成",
-    "summary_ja": "Decartがリアルタイム世界モデル「Oasis 3」を発表。自動運転テスト向けにフォトリアリスティックな運転環境をAPIで提供する。",
+    "title_ja": "Decartの新世界モデル、写真のようにリアルな運転シミュレーションを実現",
+    "summary_ja": "Decartがリアルタイム世界モデル「Oasis 3」を発表。自動運転テスト向けのフォトリアリスティックな運転環境をAPIで提供し、開発者向けに利用可能になった。",
     "_translate_source": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats\nDecart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on."
   }
 ]
